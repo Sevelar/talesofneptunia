@@ -28,18 +28,17 @@ The following is a set of guidelines for contributing to Tales of Neptunia on Gi
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Tales of Neptunia team's Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [ourdimensionteam@wp.pl](mailto:ourdimensionteam@wp.pl).
+This project and everyone participating in it is governed by the [Tales of Neptunia team's Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [atom@github.com](mailto:atom@github.com).
 
 ## I don't want to read this whole thing I just have a question!!!
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
-We have an official message board with a detailed FAQ and where the community chimes in with helpful advice if you have questions.
-
-If chat is more your speed, you can join our Discord:
+You can just join our Discord to get more information or start making project with us:
 
 * [Join the official TalesofNeptunia Discord](https://discord.gg/NvV8Y5D)
-    * Use the `#general` channel for general questions or discussion about Tales of Neptunia
-    * Use the `#story-contriute` channel for questions or discussion about writing or contributing to Tales of Neptunia's story
-    * Use the `#game-uisuggest` channel for questions and discussion about game UI
+    * After joining the server, please check `#read-this` channel.
+    * If you want get access to team's channel, ask Mod or Admin for it.
+    * Use the `#ourdimension-discuss` channel for general questions or discussion about Tales of Neptunia
+    * Use the `#ourdimension-ideas` channel for ideas and suggestions for this project.
     * There are many other channels available, check the channel list
