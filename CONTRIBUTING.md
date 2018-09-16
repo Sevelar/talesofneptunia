@@ -28,7 +28,7 @@ The following is a set of guidelines for contributing to Tales of Neptunia on Gi
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Tales of Neptunia team's Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [atom@github.com](mailto:atom@github.com).
+This project and everyone participating in it is governed by the [Tales of Neptunia team's Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [ourdimensionteam@wp.pl](mailto:ourdimensionteam@wp.pl).
 
 ## I don't want to read this whole thing I just have a question!!!
 
