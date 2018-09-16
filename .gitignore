@@ -76,3 +76,8 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Saved/Logs/neptunia2.log
+Saved/Logs/neptunia2.log
+Saved/Config/Windows/Engine.ini
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Intermediate/CachedAssetRegistry.bin
+Intermediate/AssetRegistryCache/9f90ff24.bin
