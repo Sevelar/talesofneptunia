@@ -1,0 +1,1369 @@
+﻿Log file open, 08/29/18 11:18:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: neptunia2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1621730391) SRandInit(1621730391).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.285214
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.333s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-PVFDNGS (192.168.0.24:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.29-09.18.59:217][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.29-09.18.59:217][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.29-09.18.59:279][  0]LogInit: Computer: DESKTOP-PVFDNGS
+[2018.08.29-09.18.59:279][  0]LogInit: User: ODEO
+[2018.08.29-09.18.59:279][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.29-09.18.59:279][  0]LogInit: High frequency timer resolution =3.234378 MHz
+[2018.08.29-09.18.59:279][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.29-09.18.59:279][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.29-09.18.59:279][  0]LogMemory: Process Physical Memory: 276.25 MB used, 276.25 MB peak
+[2018.08.29-09.18.59:279][  0]LogMemory: Process Virtual Memory: 273.88 MB used, 273.88 MB peak
+[2018.08.29-09.18.59:279][  0]LogMemory: Physical Memory: 7520.23 MB used,  8800.37 MB free, 16320.60 MB total
+[2018.08.29-09.18.59:279][  0]LogMemory: Virtual Memory: 677.26 MB used,  8800.37 MB free, 134217728.00 MB total
+[2018.08.29-09.18.59:698][  0]LogInit: Using OS detected language (pl-PL).
+[2018.08.29-09.18.59:698][  0]LogInit: Using OS detected locale (pl-PL).
+[2018.08.29-09.18.59:969][  0]LogTextLocalizationManager: No localization for 'pl-PL' exists, so 'en' will be used for the language.
+[2018.08.29-09.19.00:675][  0]LogStreaming: Display: Took  0.977s to EndInitTextLocalization.
+[2018.08.29-09.19.00:675][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.29-09.19.01:108][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.29-09.19.01:108][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.29-09.19.01:813][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.29-09.19.01:860][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.08.29-09.19.01:860][  0]LogD3D11RHI:       6061/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.08.29-09.19.01:863][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.29-09.19.01:863][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.29-09.19.01:863][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.29-09.19.01:869][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.29-09.19.01:869][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.29-09.19.01:869][  0]LogWindows: EnumDisplayDevices:
+[2018.08.29-09.19.01:869][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.08.29-09.19.01:869][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.08.29-09.19.01:870][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.08.29-09.19.01:870][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.08.29-09.19.01:870][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.29-09.19.01:870][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.08.29-09.19.01:870][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.29-09.19.01:870][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.29-09.19.01:870][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.08.29-09.19.01:899][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.08.29-09.19.01:899][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.29-09.19.01:899][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.29-09.19.01:910][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.08.29-09.19.01:999][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Intermediate/Shaders/WorkingDirectory/10680/).
+[2018.08.29-09.19.01:999][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ODEO/AppData/Local/Temp/UnrealShaderWorkingDir/4FC23D56468BFFCE76ACCBB65F59FBC8/'.
+[2018.08.29-09.19.03:045][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.29-09.19.03:069][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.29-09.19.03:120][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.29-09.19.03:167][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.29-09.19.03:233][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.29-09.19.03:256][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.29-09.19.03:309][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.29-09.19.03:336][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.29-09.19.03:354][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.29-09.19.03:375][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.29-09.19.03:398][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.29-09.19.03:420][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.29-09.19.03:442][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.29-09.19.03:462][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.29-09.19.03:482][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.29-09.19.03:529][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.29-09.19.03:529][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.29-09.19.03:571][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.29-09.19.03:592][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.29-09.19.03:708][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.29-09.19.03:721][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.29-09.19.03:760][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.29-09.19.03:794][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.29-09.19.03:815][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.29-09.19.03:855][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.29-09.19.03:855][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.29-09.19.04:442][  0]LogXGEController: Cleaning working directory: C:/Users/ODEO/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.29-09.19.04:442][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.29-09.19.04:442][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.29-09.19.04:442][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.29-09.19.06:403][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.29-09.19.06:932][  0]LogDerivedDataCache: Loaded boot cache 0.53s 74MB C:/Users/ODEO/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.29-09.19.06:932][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ODEO/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.29-09.19.06:932][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/ODEO/Documents/Unreal Projects/neptunia2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.29-09.19.06:932][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.29-09.19.06:932][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/ODEO/Documents/Unreal Projects/neptunia2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.29-09.19.06:932][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.29-09.19.07:018][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.29-09.19.07:031][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ODEO/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.29-09.19.07:031][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.29-09.19.07:031][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.29-09.19.07:041][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.29-09.19.07:042][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.29-09.19.07:119][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.29-09.19.07:119][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.29-09.19.11:146][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.08.29-09.19.11:582][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.29-09.19.13:934][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.29-09.19.14:004][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.29-09.19.14:004][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.29-09.19.14:004][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.29-09.19.14:004][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.29-09.19.14:004][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.29-09.19.14:157][  0]LogNetVersion: neptunia2 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3109437322)
+[2018.08.29-09.19.19:101][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.053994 seconds
+[2018.08.29-09.19.19:106][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.29-09.19.19:107][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.08.29-09.19.19:107][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.29-09.19.33:948][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.29-09.19.34:025][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.29-09.19.34:780][  0]SourceControl: Source control is disabled
+[2018.08.29-09.19.34:780][  0]SourceControl: Source control is disabled
+[2018.08.29-09.19.34:816][  0]SourceControl: Source control is disabled
+[2018.08.29-09.19.34:841][  0]SourceControl: Source control is disabled
+[2018.08.29-09.19.35:846][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.29-09.19.36:111][  0]LogOcInput: OculusInput pre-init called
+[2018.08.29-09.19.36:364][  0]LogEngine: Initializing Engine...
+[2018.08.29-09.19.36:365][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.29-09.19.36:367][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.29-09.19.36:367][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.29-09.19.36:955][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.29-09.19.36:975][  0]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.19.36:991][  0]LogInit: FAudioDevice initialized.
+[2018.08.29-09.19.37:111][  0]LogDerivedDataCache: Saved boot cache 0.12s 74MB C:/Users/ODEO/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.29-09.19.37:114][  0]LogInit: Texture streaming: Enabled
+[2018.08.29-09.19.37:211][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.29-09.19.37:255][  0]LogInit: Transaction tracking system initialized
+[2018.08.29-09.19.37:412][  0]BlueprintLog: New page: Editor Load
+[2018.08.29-09.19.38:603][  0]LocalizationService: Localization service is disabled
+[2018.08.29-09.19.39:538][  0]LogConsoleResponse: Display: 
+[2018.08.29-09.19.42:110][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.29-09.19.42:110][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.29-09.19.42:110][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.29-09.19.42:110][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.29-09.19.42:110][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.29-09.19.43:272][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/' took 0.02s
+[2018.08.29-09.19.45:128][  0]SourceControl: Source control is disabled
+[2018.08.29-09.19.45:129][  0]Cmd: MAP LOAD FILE="C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.29-09.19.45:129][  0]LightingResults: New page: Lighting Build
+[2018.08.29-09.19.45:159][  0]MapCheck: New page: Map Check
+[2018.08.29-09.19.45:159][  0]LightingResults: New page: Lighting Build
+[2018.08.29-09.19.45:782][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c70f19980, Size=64, Default__NewAnimBlueprint_C Function /Game/MojContent/Characters/PurpleHeart/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint
+[2018.08.29-09.19.45:787][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c70f19980, Size=64
+[2018.08.29-09.19.45:787][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c70f19940, Size=64, Default__NewAnimBlueprint_C Function /Engine/Transient.REINST_NewAnimBlueprint_C_0:ExecuteUbergraph_NewAnimBlueprint
+[2018.08.29-09.19.45:792][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c528df140, Size=64, Default__NewAnimBlueprint_C Function /Game/MojContent/Characters/PurpleHeart/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint
+[2018.08.29-09.19.46:711][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c528e6400, Size=472, Default__PurpleHeartCharacter_C Function /Game/ThirdPersonBP/Blueprints/PurpleHeartCharacter.PurpleHeartCharacter_C:ExecuteUbergraph_PurpleHeartCharacter
+[2018.08.29-09.19.46:712][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c533c40e0, Size=32, Default__NeptuneBars_C Function /Game/MojContent/UIElements/NeptuneBars.NeptuneBars_C:ExecuteUbergraph_NeptuneBars
+[2018.08.29-09.19.46:936][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c533c40e0, Size=32
+[2018.08.29-09.19.46:936][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c559e3580, Size=32, Default__NeptuneBars_C Function /Engine/Transient.REINST_NeptuneBars_C_0:ExecuteUbergraph_NeptuneBars
+[2018.08.29-09.19.46:937][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c528e6400, Size=472
+[2018.08.29-09.19.46:937][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c528e6400, Size=472, Default__PurpleHeartCharacter_C Function /Engine/Transient.REINST_PurpleHeartCharacter_C_4:ExecuteUbergraph_PurpleHeartCharacter
+[2018.08.29-09.19.46:944][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c5283b1c0, Size=32, Default__NeptuneBars_C Function /Game/MojContent/UIElements/NeptuneBars.NeptuneBars_C:ExecuteUbergraph_NeptuneBars
+[2018.08.29-09.19.46:946][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c58c31800, Size=472, Default__PurpleHeartCharacter_C Function /Game/ThirdPersonBP/Blueprints/PurpleHeartCharacter.PurpleHeartCharacter_C:ExecuteUbergraph_PurpleHeartCharacter
+[2018.08.29-09.19.47:083][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c58c65f40, Size=64, Default__BlackHeart_AnimationBlueprint_C Function /Game/MojContent/Characters/BlackHeart/BlackHeart_AnimationBlueprint.BlackHeart_AnimationBlueprint_C:ExecuteUbergraph_BlackHeart_AnimationBlueprint
+[2018.08.29-09.19.47:089][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c58c65f40, Size=64
+[2018.08.29-09.19.47:089][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c58c65f80, Size=64, Default__BlackHeart_AnimationBlueprint_C Function /Engine/Transient.REINST_BlackHeart_AnimationBlueprint_C_1:ExecuteUbergraph_BlackHeart_AnimationBlueprint
+[2018.08.29-09.19.47:094][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c528de800, Size=64, Default__BlackHeart_AnimationBlueprint_C Function /Game/MojContent/Characters/BlackHeart/BlackHeart_AnimationBlueprint.BlackHeart_AnimationBlueprint_C:ExecuteUbergraph_BlackHeart_AnimationBlueprint
+[2018.08.29-09.19.47:180][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c534a6600, Size=472, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.29-09.19.47:181][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c533c5b20, Size=32, Default__BlackHeart_UI_C Function /Game/MojContent/Characters/BlackHeart/BlackHeart_UI.BlackHeart_UI_C:ExecuteUbergraph_BlackHeart_UI
+[2018.08.29-09.19.47:205][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c533c5b20, Size=32
+[2018.08.29-09.19.47:205][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c53365b00, Size=32, Default__BlackHeart_UI_C Function /Engine/Transient.REINST_BlackHeart_UI_C_1:ExecuteUbergraph_BlackHeart_UI
+[2018.08.29-09.19.47:206][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c534a6600, Size=472
+[2018.08.29-09.19.47:206][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c534a6600, Size=472, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_8:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.29-09.19.47:213][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c5f2f5640, Size=32, Default__BlackHeart_UI_C Function /Game/MojContent/Characters/BlackHeart/BlackHeart_UI.BlackHeart_UI_C:ExecuteUbergraph_BlackHeart_UI
+[2018.08.29-09.19.47:214][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c5f2e1a00, Size=472, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.29-09.19.47:624][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c594e5000, Size=192, Default__TeleportToMapa1_C Function /Game/MojContent/Scripts/TeleportToMapa1.TeleportToMapa1_C:ExecuteUbergraph_TeleportToMapa1
+[2018.08.29-09.19.47:626][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c594e5000, Size=192
+[2018.08.29-09.19.47:626][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c594e5000, Size=192, Default__TeleportToMapa1_C Function /Engine/Transient.REINST_TeleportToMapa1_C_16:ExecuteUbergraph_TeleportToMapa1
+[2018.08.29-09.19.47:628][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c5943f400, Size=192, Default__TeleportToMapa1_C Function /Game/MojContent/Scripts/TeleportToMapa1.TeleportToMapa1_C:ExecuteUbergraph_TeleportToMapa1
+[2018.08.29-09.19.47:953][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c58cd9600, Size=688, Default__NeptuneCharacter_C Function /Game/ThirdPersonBP/Blueprints/NeptuneCharacter.NeptuneCharacter_C:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.19.48:033][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c590d3740, Size=80, Default__NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.19.48:179][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c590d3740, Size=80
+[2018.08.29-09.19.48:179][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c58f73e20, Size=80, Default__NepAnimationBlueprint_C Function /Engine/Transient.REINST_NepAnimationBlueprint_C_2:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.19.48:180][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c58cd9600, Size=688
+[2018.08.29-09.19.48:180][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c58fb1600, Size=688, Default__NeptuneCharacter_C Function /Engine/Transient.REINST_NeptuneCharacter_C_23:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.19.48:194][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c59d4fa60, Size=80, Default__NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.19.48:197][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c59cd0400, Size=688, Default__NeptuneCharacter_C Function /Game/ThirdPersonBP/Blueprints/NeptuneCharacter.NeptuneCharacter_C:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.19.48:428][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c59d8cd00, Size=720, Default__CharacterSelect_C Function /Game/MojContent/Scripts/CharacterSelect.CharacterSelect_C:ExecuteUbergraph_CharacterSelect
+[2018.08.29-09.19.48:447][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c59d8cd00, Size=720
+[2018.08.29-09.19.48:448][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c59626e00, Size=720, Default__CharacterSelect_C Function /Engine/Transient.REINST_CharacterSelect_C_3:ExecuteUbergraph_CharacterSelect
+[2018.08.29-09.19.48:464][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c59624d00, Size=720, Default__CharacterSelect_C Function /Game/MojContent/Scripts/CharacterSelect.CharacterSelect_C:ExecuteUbergraph_CharacterSelect
+[2018.08.29-09.19.48:534][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c5a71ade0, Size=16, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.08.29-09.19.48:535][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c5a71ade0, Size=16
+[2018.08.29-09.19.48:535][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c5a71ade0, Size=16, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_28:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.08.29-09.19.48:536][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c5a71b020, Size=16, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.08.29-09.19.49:691][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [78.642632ms] /Game/MojContent/Characters/PurpleHeart/PurpleHeartV.PurpleHeartV
+[2018.08.29-09.19.50:057][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [99.710983ms] /Game/MojContent/Characters/BlackHeart/BlackHeart.BlackHeart
+[2018.08.29-09.19.50:734][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [55.798672ms] /Game/MojContent/Characters/Neptune/Neptune.Neptune
+[2018.08.29-09.19.50:798][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [24.791784ms] /Game/MojContent/Meshes/Weapon_NeptuneV1.Weapon_NeptuneV1
+[2018.08.29-09.19.52:199][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.19.52:317][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.29-09.19.52:331][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c70f19940, Size=64
+[2018.08.29-09.19.52:332][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c528e6400, Size=472
+[2018.08.29-09.19.52:332][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c559e3580, Size=32
+[2018.08.29-09.19.52:332][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c58c65f80, Size=64
+[2018.08.29-09.19.52:332][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c534a6600, Size=472
+[2018.08.29-09.19.52:332][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c53365b00, Size=32
+[2018.08.29-09.19.52:332][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c594e5000, Size=192
+[2018.08.29-09.19.52:332][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c58fb1600, Size=688
+[2018.08.29-09.19.52:332][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c58f73e20, Size=80
+[2018.08.29-09.19.52:332][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c59626e00, Size=720
+[2018.08.29-09.19.52:332][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c5a71ade0, Size=16
+[2018.08.29-09.19.52:333][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.29-09.19.52:413][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79,644ms to complete.
+[2018.08.29-09.19.52:413][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 7.285
+[2018.08.29-09.19.52:628][  0]LogCollectionManager: Loaded 0 collections in 0.001427 seconds
+[2018.08.29-09.19.52:678][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Saved/Collections/' took 0.01s
+[2018.08.29-09.19.52:678][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/Developers/ODEO/Collections/' took 0.01s
+[2018.08.29-09.19.52:678][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/Collections/' took 0.01s
+[2018.08.29-09.19.52:678][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.29-09.19.52:686][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2452 classes and 558 folders.
+[2018.08.29-09.19.52:697][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.29-09.19.53:925][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.29-09.19.53:962][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.29-09.19.54:033][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2018.08.29-09.19.54:176][  0]LogSlate: Took 0.013574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.29-09.19.54:216][  0]LogSlate: Took 0.038700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.29-09.19.54:240][  0]LogSlate: Took 0.018663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.29-09.19.54:398][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 9 NumSamples 1 (Frame:1).
+[2018.08.29-09.19.54:547][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.29-09.19.54:547][  0]LogLoad: (Engine Initialization) Total time: 70.44 seconds
+[2018.08.29-09.19.54:547][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.29-09.19.54:905][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.08.29-09.19.54:962][  0]LogSlate: Took 0.012196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.29-09.19.55:230][  1]LogAssetRegistry: Asset discovery search completed in 44.1053 seconds
+[2018.08.29-09.19.55:232][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.29-09.19.55:232][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2018.08.29-09.19.55:594][  3]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.29-09.19.55:999][  3]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.08.29-09.19.56:320][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c22089610, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.29-09.19.56:321][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c22089608, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.29-09.19.57:269][  3]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.29-09.19.57:784][  3]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.29-09.19.57:787][  3]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.08.29-09.19.58:020][  3]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.29-09.19.58:406][  3]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.08.29-09.19.58:427][  3]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.08.29-09.20.00:600][  3]LogSlate: Took 0.694320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.29-09.20.00:647][  3]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.08.29-09.20.00:664][  3]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.29-09.20.01:287][  4]LogSlate: Took 0.092583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.29-09.20.10:497][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.20.11:681][131]LogSlate: Window 'NeptuneCharacter' being destroyed
+[2018.08.29-09.20.13:593][341]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.29-09.20.26:235][742]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c678aacd8, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.26:239][742]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c678aacd8, Size=4
+[2018.08.29-09.20.26:239][742]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c678aacd8, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_4:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.26:244][742]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c678ab058, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.27:271][846]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c678ab058, Size=4
+[2018.08.29-09.20.27:271][846]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c9253a960, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_5:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.27:276][846]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c9253ab20, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.33:370][569]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c9253ab20, Size=4
+[2018.08.29-09.20.33:370][569]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c9253ab20, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_6:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.33:375][569]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c92539238, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.33:378][569]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c92539238, Size=4
+[2018.08.29-09.20.33:378][569]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c92539238, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_7:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.33:383][569]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c92539860, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.38:207][ 94]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c92539860, Size=4
+[2018.08.29-09.20.38:207][ 94]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c92539860, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_8:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.38:212][ 94]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c92538ff0, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.38:216][ 94]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c92538ff0, Size=4
+[2018.08.29-09.20.38:216][ 94]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c92538ff0, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_9:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.38:221][ 94]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c9253bf00, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.38:968][161]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c9253bf00, Size=4
+[2018.08.29-09.20.38:968][161]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c9253bf00, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_10:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.38:973][161]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c9253b0a0, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.40:477][338]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c9253b0a0, Size=4
+[2018.08.29-09.20.40:477][338]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c8cec93a8, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_11:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.40:482][338]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c8cec9288, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.40:485][338]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c8cec9288, Size=4
+[2018.08.29-09.20.40:485][338]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c8cec9288, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_12:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.40:491][338]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c8cec8b70, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.45:787][965]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c8cec8b70, Size=4
+[2018.08.29-09.20.45:787][965]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c8cec8b70, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_13:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.45:793][965]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c8cec9a58, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.45:796][965]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c8cec9a58, Size=4
+[2018.08.29-09.20.45:796][965]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c8cec9a58, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_14:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.20.45:803][965]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c8cec98f8, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.21.24:448][497]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c8cec98f8, Size=4
+[2018.08.29-09.21.24:448][497]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c8cec98f8, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_15:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.21.24:455][497]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c8ceca4d0, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.21.24:460][497]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c8ceca4d0, Size=4
+[2018.08.29-09.21.24:460][497]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c8ceca4d0, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_16:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.21.24:466][497]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c8cecb110, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.21.46:055][ 28]BlueprintLog: New page: Compile NepAnimationBlueprint
+[2018.08.29-09.21.46:066][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c8cecb110, Size=4
+[2018.08.29-09.21.46:066][ 28]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c92a6fd18, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_17:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.21.46:077][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c59d4fa60, Size=80
+[2018.08.29-09.21.46:077][ 28]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c991b6c50, Size=80, Default__NepAnimationBlueprint_C Function /Engine/Transient.REINST_NepAnimationBlueprint_C_18:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.21.46:084][ 28]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c926ac4c0, Size=88, Default__NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.21.46:189][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c678aacd8, Size=4
+[2018.08.29-09.21.46:190][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c9253a960, Size=4
+[2018.08.29-09.21.46:190][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c9253ab20, Size=4
+[2018.08.29-09.21.46:190][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c92539238, Size=4
+[2018.08.29-09.21.46:190][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c92539860, Size=4
+[2018.08.29-09.21.46:190][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c92538ff0, Size=4
+[2018.08.29-09.21.46:190][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c9253bf00, Size=4
+[2018.08.29-09.21.46:190][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c8cec93a8, Size=4
+[2018.08.29-09.21.46:190][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c8cec9288, Size=4
+[2018.08.29-09.21.46:190][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c8cec8b70, Size=4
+[2018.08.29-09.21.46:190][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c8cec9a58, Size=4
+[2018.08.29-09.21.46:190][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c8cec98f8, Size=4
+[2018.08.29-09.21.46:190][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c8ceca4d0, Size=4
+[2018.08.29-09.21.46:190][ 28]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c92a6fd18, Size=4
+[2018.08.29-09.21.47:359][156]LogSlate: Took 0.064377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.08.29-09.21.48:315][268]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.21.48:331][268]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.21.48:331][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.21.48:332][268]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:21:48)
+[2018.08.29-09.21.48:332][268]LogLinker: Warning: Can't find file '/Game/MojContent/Needed'
+[2018.08.29-09.21.48:332][268]LogLinker: Warning: Can't find file '/Game/MojContent/Needed'
+[2018.08.29-09.21.48:332][268]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/MojContent/Needed.Needed'
+[2018.08.29-09.21.48:332][268]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.21.48:354][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021225s)
+[2018.08.29-09.21.48:355][268]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.21.48:355][268]LogPlayLevel: PIE: World Init took: (0.001304s)
+[2018.08.29-09.21.48:355][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022737s)
+[2018.08.29-09.21.48:377][268]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c991b6c50, Size=80
+[2018.08.29-09.21.48:396][268]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.21.48:409][268]LogInit: FAudioDevice initialized.
+[2018.08.29-09.21.48:476][268]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.21.48:479][268]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.21.48
+[2018.08.29-09.21.48:480][268]LogWorld: Bringing up level for play took: 0.003156
+[2018.08.29-09.21.48:504][268]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.08.29-09.21.48:510][268]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,634
+[2018.08.29-09.21.48:510][268]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.21.48:532][268]LogRenderer: Reallocating scene render targets to support 1292x756 Format 9 NumSamples 1 (Frame:1).
+[2018.08.29-09.22.04:358][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.22.04:374][149]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.22.04:406][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.22.39:478][256]BlueprintLog: New page: Compile NeptuneCharacter
+[2018.08.29-09.22.39:519][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c59cd0400, Size=688
+[2018.08.29-09.22.39:519][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c92150a00, Size=688, Default__NeptuneCharacter_C Function /Engine/Transient.REINST_NeptuneCharacter_C_62:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.22.39:534][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c7a88c180, Size=608, Default__NeptuneCharacter_C Function /Game/ThirdPersonBP/Blueprints/NeptuneCharacter.NeptuneCharacter_C:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.22.40:754][367]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.22.40:770][367]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.22.40:770][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.22.40:770][367]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:22:40)
+[2018.08.29-09.22.40:770][367]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.22.40:784][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013487s)
+[2018.08.29-09.22.40:785][367]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.22.40:785][367]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2018.08.29-09.22.40:785][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014773s)
+[2018.08.29-09.22.40:828][367]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.22.40:840][367]LogInit: FAudioDevice initialized.
+[2018.08.29-09.22.40:894][367]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.22.40:897][367]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.22.40
+[2018.08.29-09.22.40:897][367]LogWorld: Bringing up level for play took: 0.002548
+[2018.08.29-09.22.40:904][367]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,24
+[2018.08.29-09.22.40:904][367]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.22.54:316][964]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.22.54:332][964]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.22.54:364][964]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.23.10:260][834]BlueprintLog: New page: Compile NepAnimationBlueprint
+[2018.08.29-09.23.10:280][834]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c926ac4c0, Size=88
+[2018.08.29-09.23.10:280][834]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c7b5270a0, Size=88, Default__NepAnimationBlueprint_C Function /Engine/Transient.REINST_NepAnimationBlueprint_C_21:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.23.10:288][834]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021ca9978a60, Size=88, Default__NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.23.11:396][952]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.23.11:413][952]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.23.11:414][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.23.11:414][952]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:23:11)
+[2018.08.29-09.23.11:414][952]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.23.11:428][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013708s)
+[2018.08.29-09.23.11:429][952]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.23.11:429][952]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2018.08.29-09.23.11:429][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014954s)
+[2018.08.29-09.23.11:450][952]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c7b5270a0, Size=88
+[2018.08.29-09.23.11:468][952]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.23.11:480][952]LogInit: FAudioDevice initialized.
+[2018.08.29-09.23.11:525][952]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.23.11:529][952]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.23.11
+[2018.08.29-09.23.11:529][952]LogWorld: Bringing up level for play took: 0.002611
+[2018.08.29-09.23.11:534][952]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,39
+[2018.08.29-09.23.11:534][952]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.23.15:895][460]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.23.15:910][460]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.23.15:940][460]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.23.24:594][479]BlueprintLog: New page: Compile NeptuneCharacter
+[2018.08.29-09.23.24:633][479]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c7a88c180, Size=608
+[2018.08.29-09.23.24:633][479]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c9314ce00, Size=608, NeptuneCharacter_C_11 Function /Engine/Transient.REINST_NeptuneCharacter_C_70:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.23.24:644][479]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021ca9c92700, Size=608, Default__NeptuneCharacter_C Function /Game/ThirdPersonBP/Blueprints/NeptuneCharacter.NeptuneCharacter_C:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.23.25:555][554]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.23.25:571][554]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.23.25:571][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.23.25:571][554]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:23:25)
+[2018.08.29-09.23.25:572][554]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.23.25:584][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012200s)
+[2018.08.29-09.23.25:585][554]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.23.25:585][554]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2018.08.29-09.23.25:585][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013343s)
+[2018.08.29-09.23.25:608][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c9314ce00, Size=608
+[2018.08.29-09.23.25:627][554]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.23.25:638][554]LogInit: FAudioDevice initialized.
+[2018.08.29-09.23.25:692][554]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.23.25:695][554]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.23.25
+[2018.08.29-09.23.25:695][554]LogWorld: Bringing up level for play took: 0.002530
+[2018.08.29-09.23.25:703][554]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,559
+[2018.08.29-09.23.25:703][554]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.23.30:228][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.23.30:243][ 74]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.23.30:274][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.23.38:463][ 41]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.08.29-09.23.38:484][ 41]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.08.29-09.23.38:909][ 41]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.29-09.23.50:733][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.24.36:921][857]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.08.29-09.24.36:943][857]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.08.29-09.24.37:235][858]LogRenderer: Reallocating scene render targets to support 1292x928 Format 9 NumSamples 1 (Frame:1).
+[2018.08.29-09.24.48:537][ 17]LogSlate: Window 'Confirm Remove' being destroyed
+[2018.08.29-09.24.50:847][ 17]LogSlate: Window 'Confirm Deletion' being destroyed
+[2018.08.29-09.24.50:894][ 17]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/Neptune/AttackAnim.AttackAnim
+[2018.08.29-09.24.50:898][ 17]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AttackAnim) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.29-09.26.01:656][560]LogSlate: Window 'Message' being destroyed
+[2018.08.29-09.26.42:517][538]LogSlate: Window 'Message' being destroyed
+[2018.08.29-09.26.56:926][538]LogSlate: Window 'FBX Export Options' being destroyed
+[2018.08.29-09.26.57:051][538]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2018.08.29-09.27.14:447][305]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ODEO/Desktop/Assets for game/Neptune/AttackSword.fbx)
+[2018.08.29-09.27.14:483][305]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.29-09.27.14:483][305]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.08.29-09.27.14:483][305]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.08.29-09.27.14:483][305]LogFbx: ItemName: NodeAttribute, ItemCount : 96
+[2018.08.29-09.27.14:483][305]LogFbx: ItemName: Model, ItemCount : 97
+[2018.08.29-09.27.14:483][305]LogFbx: ItemName: AnimationCurveNode, ItemCount : 288
+[2018.08.29-09.27.14:483][305]LogFbx: ItemName: AnimationCurve, ItemCount : 864
+[2018.08.29-09.27.14:483][305]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.08.29-09.27.14:483][305]LogFbx: ItemName: Material, ItemCount : 4
+[2018.08.29-09.27.14:483][305]LogFbx: ItemName: Texture, ItemCount : 4
+[2018.08.29-09.27.14:483][305]LogFbx: ItemName: Deformer, ItemCount : 97
+[2018.08.29-09.27.14:483][305]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.08.29-09.27.14:483][305]LogFbx: ItemName: Video, ItemCount : 4
+[2018.08.29-09.27.14:488][305]LogFbx: Loading FBX Scene from C:/Users/ODEO/Desktop/Assets for game/Neptune/AttackSword.fbx
+[2018.08.29-09.27.14:546][305]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.29-09.27.28:769][305]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.29-09.27.28:801][305]LogFbx: Loading FBX Scene from C:/Users/ODEO/Desktop/Assets for game/Neptune/AttackSword.fbx
+[2018.08.29-09.27.28:860][305]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.29-09.27.28:860][305]LogFbx: =================================================
+[2018.08.29-09.27.28:860][305]LogFbx: Dumping Node START [Neptune] 
+[2018.08.29-09.27.28:860][305]LogFbx: 	Total Deformer Count 530820232.
+[2018.08.29-09.27.28:860][305]LogFbx: 		[Node 1]  (Type Skin).
+[2018.08.29-09.27.28:860][305]LogFbx: =================================================
+[2018.08.29-09.27.28:860][305]LogFbx: 	Attribute (Neptune) Type (4).
+[2018.08.29-09.27.28:860][305]LogFbx: 		[Node Attribute Child 1] Neptune (Type Mesh).
+[2018.08.29-09.27.28:860][305]LogFbx: Dumping Node END [Neptune]
+[2018.08.29-09.27.28:862][305]LogFbx: =================================================
+[2018.08.29-09.27.28:862][305]LogFbx: Dumping Node START [Neptune] 
+[2018.08.29-09.27.28:862][305]LogFbx: 	Total Deformer Count 530820008.
+[2018.08.29-09.27.28:862][305]LogFbx: 		[Node 1]  (Type Skin).
+[2018.08.29-09.27.28:862][305]LogFbx: =================================================
+[2018.08.29-09.27.28:862][305]LogFbx: 	Attribute (Neptune) Type (4).
+[2018.08.29-09.27.28:862][305]LogFbx: 		[Node Attribute Child 1] Neptune (Type Mesh).
+[2018.08.29-09.27.28:862][305]LogFbx: Dumping Node END [Neptune]
+[2018.08.29-09.27.28:863][305]LogFbx: Valid bind pose for Pose (Neptune) - Neptune
+[2018.08.29-09.27.28:886][305]LogMaterial: Warning: Material /Game/MojContent/Characters/Neptune/Material__39.Material__39 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.08.29-09.27.28:888][305]LogMaterial: Missing cached shader map for material Material__39, compiling. 
+[2018.08.29-09.27.29:060][305]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.29-09.27.29:060][305]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.29-09.27.29:060][305]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.29-09.27.29:265][305]LogTexture: Display: Building textures: body_c (AutoDXT, 2048X2048)
+[2018.08.29-09.27.29:948][305]LogMaterial: Missing cached shader map for material Material__39, compiling. 
+[2018.08.29-09.27.30:000][305]LogMaterial: Warning: Material /Game/MojContent/Characters/Neptune/Material__40.Material__40 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.08.29-09.27.30:002][305]LogMaterial: Missing cached shader map for material Material__40, compiling. 
+[2018.08.29-09.27.30:101][305]LogTexture: Display: Building textures: face_c (AutoDXT, 1024X1024)
+[2018.08.29-09.27.30:255][305]LogMaterial: Missing cached shader map for material Material__40, compiling. 
+[2018.08.29-09.27.30:272][305]LogMaterial: Warning: Material /Game/MojContent/Characters/Neptune/Material__41.Material__41 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.08.29-09.27.30:274][305]LogMaterial: Missing cached shader map for material Material__41, compiling. 
+[2018.08.29-09.27.30:447][305]LogTexture: Display: Building textures: hair_c (AutoDXT, 1024X1024)
+[2018.08.29-09.27.30:615][305]LogMaterial: Missing cached shader map for material Material__41, compiling. 
+[2018.08.29-09.27.30:631][305]LogMaterial: Warning: Material /Game/MojContent/Characters/Neptune/Material__42.Material__42 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.08.29-09.27.30:633][305]LogMaterial: Missing cached shader map for material Material__42, compiling. 
+[2018.08.29-09.27.30:673][305]LogTexture: Display: Building textures: acce_c (AutoDXT, 512X512)
+[2018.08.29-09.27.30:708][305]LogMaterial: Missing cached shader map for material Material__42, compiling. 
+[2018.08.29-09.27.30:825][305]LogFbx: Warning: Bones digested - 96  Depth of hierarchy - 11
+[2018.08.29-09.27.31:116][305]LogSkeletalMesh: Section 0: 5965 vertices, 74 active bones
+[2018.08.29-09.27.31:116][305]LogSkeletalMesh: Section 1: 576 vertices, 3 active bones
+[2018.08.29-09.27.31:116][305]LogSkeletalMesh: Section 2: 2478 vertices, 11 active bones
+[2018.08.29-09.27.31:116][305]LogSkeletalMesh: Section 3: 232 vertices, 1 active bones
+[2018.08.29-09.27.31:149][305]LogSkeletalMesh: Section 0: Material=0, 9240 triangles
+[2018.08.29-09.27.31:149][305]LogSkeletalMesh: Section 1: Material=1, 1012 triangles
+[2018.08.29-09.27.31:149][305]LogSkeletalMesh: Section 2: Material=2, 3691 triangles
+[2018.08.29-09.27.31:149][305]LogSkeletalMesh: Section 3: Material=3, 280 triangles
+[2018.08.29-09.27.31:167][305]LogSkeletalMesh: Building Skeletal Mesh AttackSword...
+[2018.08.29-09.27.31:201][305]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/MojContent/Characters/Neptune/AttackSword.AttackSword
+[2018.08.29-09.27.31:212][305]LogLinker: Can't find file '/Game/MojContent/Characters/Neptune/AttackSword_PhysicsAsset'
+[2018.08.29-09.27.31:212][305]LogLinker: Can't find file '/Game/MojContent/Characters/Neptune/AttackSword_PhysicsAsset'
+[2018.08.29-09.27.31:250][305]LogFbx: =================================================
+[2018.08.29-09.27.31:250][305]LogFbx: Dumping Node START [Neptune] 
+[2018.08.29-09.27.31:250][305]LogFbx: 	Total Deformer Count -800839416.
+[2018.08.29-09.27.31:250][305]LogFbx: 		[Node 1]  (Type Skin).
+[2018.08.29-09.27.31:250][305]LogFbx: =================================================
+[2018.08.29-09.27.31:250][305]LogFbx: 	Attribute (Neptune) Type (4).
+[2018.08.29-09.27.31:250][305]LogFbx: 		[Node Attribute Child 1] Neptune (Type Mesh).
+[2018.08.29-09.27.31:250][305]LogFbx: Dumping Node END [Neptune]
+[2018.08.29-09.27.31:251][305]LogFbx: =================================================
+[2018.08.29-09.27.31:251][305]LogFbx: Dumping Node START [Neptune] 
+[2018.08.29-09.27.31:251][305]LogFbx: 	Total Deformer Count -800839584.
+[2018.08.29-09.27.31:251][305]LogFbx: 		[Node 1]  (Type Skin).
+[2018.08.29-09.27.31:251][305]LogFbx: =================================================
+[2018.08.29-09.27.31:251][305]LogFbx: 	Attribute (Neptune) Type (4).
+[2018.08.29-09.27.31:251][305]LogFbx: 		[Node Attribute Child 1] Neptune (Type Mesh).
+[2018.08.29-09.27.31:251][305]LogFbx: Dumping Node END [Neptune]
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(0) root
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(1) spine_00
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(2) spine_01
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(3) spine_02
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(4) neck
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(5) head
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(6) Head_Collision
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(7) L_hair_01
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(8) L_hair_02
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(9) L_hair_03
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(10) L_F_hair
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(11) F_hair_01
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(12) F_hair_02
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(13) R_hair_01
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(14) R_hair_02
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(15) R_hair_03
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(16) R_F_hair
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(17) L_shoulder
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(18) L_arm
+[2018.08.29-09.27.31:260][305]LogFbx: SortedLinks :(19) L_elbow
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(20) L_hand
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(21) L_thumb_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(22) L_thumb_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(23) L_thumb_03
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(24) L_index_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(25) L_index_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(26) L_index_03
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(27) L_middle_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(28) L_middle_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(29) L_middle_03
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(30) L_ring_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(31) L_ring_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(32) L_ring_03
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(33) L_pinkey_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(34) L_pinkey_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(35) L_pinkey_03
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(36) L_weapon
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(37) L_sub_elbow
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(38) L_sub_shoulder
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(39) L_elbow_hojo_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(40) R_shoulder
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(41) R_arm
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(42) R_elbow
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(43) R_hand
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(44) R_thumb_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(45) R_thumb_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(46) R_thumb_03
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(47) R_index_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(48) R_index_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(49) R_index_03
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(50) R_middle_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(51) R_middle_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(52) R_middle_03
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(53) R_ring_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(54) R_ring_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(55) R_ring_03
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(56) R_pinkey_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(57) R_pinkey_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(58) R_pinkey_03
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(59) R_weapon
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(60) R_sub_elbow
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(61) R_sub_shoulder
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(62) R_elbow_hojo_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(63) L_himo_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(64) L_himo_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(65) R_himo_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(66) R_himo_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(67) c_zip
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(68) L_leg_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(69) L_leg_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(70) L_foot_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(71) L_toe
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(72) L_toe_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(73) F_skirt_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(74) F_skirt_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(75) F_skirt_03
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(76) L_skirt_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(77) L_skirt_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(78) L_skirt_03
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(79) L_B_skirt_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(80) L_B_skirt_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(81) L_B_skirt_03
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(82) B_skirt_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(83) B_skirt_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(84) B_skirt_03
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(85) R_leg_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(86) R_leg_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(87) R_foot_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(88) R_toe
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(89) R_toe_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(90) R_B_skirt_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(91) R_B_skirt_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(92) R_B_skirt_03
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(93) R_skirt_01
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(94) R_skirt_02
+[2018.08.29-09.27.31:261][305]LogFbx: SortedLinks :(95) R_skirt_03
+[2018.08.29-09.27.31:263][305]LogFbx: Parsing AnimStack Unreal Take
+[2018.08.29-09.27.31:292][305]LogLinker: Can't find file '/Game/MojContent/Characters/Neptune/AttackSword_Anim'
+[2018.08.29-09.27.31:292][305]LogLinker: Can't find file '/Game/MojContent/Characters/Neptune/AttackSword_Anim'
+[2018.08.29-09.27.31:618][305]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/Neptune/AttackSword_Anim.AttackSword_Anim
+[2018.08.29-09.27.31:618][305]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AttackSword_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.29-09.27.31:640][305]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.29-09.27.31:649][305]LogSkeletalMesh: Building Skeletal Mesh AttackSword...
+[2018.08.29-09.27.31:669][305]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/MojContent/Characters/Neptune/AttackSword.AttackSword
+[2018.08.29-09.27.32:142][308]LogShaderCompilers: Display: Shaders left to compile 240
+[2018.08.29-09.27.32:387][309]LogShaderCompilers: Display: Shaders left to compile 230
+[2018.08.29-09.27.32:857][311]LogShaderCompilers: Display: Shaders left to compile 220
+[2018.08.29-09.27.33:781][407]LogShaderCompilers: Display: Shaders left to compile 210
+[2018.08.29-09.27.34:783][428]LogShaderCompilers: Display: Shaders left to compile 200
+[2018.08.29-09.27.34:790][429]LogShaderCompilers: Display: Shaders left to compile 190
+[2018.08.29-09.27.35:746][434]LogShaderCompilers: Display: Shaders left to compile 180
+[2018.08.29-09.27.36:172][437]LogShaderCompilers: Display: Shaders left to compile 170
+[2018.08.29-09.27.36:569][446]LogShaderCompilers: Display: Shaders left to compile 160
+[2018.08.29-09.27.36:975][448]LogShaderCompilers: Display: Shaders left to compile 150
+[2018.08.29-09.27.37:982][452]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.08.29-09.27.38:084][456]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.08.29-09.27.38:842][459]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.08.29-09.27.39:388][469]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.08.29-09.27.39:871][474]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.08.29-09.27.40:059][475]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.08.29-09.27.41:224][478]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.08.29-09.27.41:300][482]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.08.29-09.27.41:897][484]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.08.29-09.27.42:612][486]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.08.29-09.27.43:038][490]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.08.29-09.27.43:064][491]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.08.29-09.27.44:705][493]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.08.29-09.27.44:750][497]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.08.29-09.27.45:966][594]LogSlate: Window 'Message Log' being destroyed
+[2018.08.29-09.27.45:967][594]LogSlate: Window 'Message Log' being destroyed
+[2018.08.29-09.27.50:013][ 37]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.Actor_4.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.08.29-09.27.50:035][ 37]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.Actor_4.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2018.08.29-09.27.50:317][ 37]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.29-09.28.03:593][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.28.22:259][706]LogMaterial: Missing cached shader map for material Material__231, compiling. 
+[2018.08.29-09.28.22:259][706]LogMaterial: Warning: C:\Users\ODEO\Documents\Unreal Projects\neptunia2\Content\MojContent\Characters\Neptune\Material__231.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.29-09.28.22:259][706]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.08.29-09.28.23:866][706]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.29-09.28.32:625][724]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_5.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2018.08.29-09.28.32:647][724]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_5.DebugSkelMeshComponent_9) - call TermArticulated first.
+[2018.08.29-09.28.32:944][724]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.29-09.28.39:020][391]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_6.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.08.29-09.28.39:042][391]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.Actor_6.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2018.08.29-09.28.39:477][391]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.29-09.29.20:915][ 69]LogSlate: Window 'Create New Animation Object' being destroyed
+[2018.08.29-09.29.20:922][ 69]LogLinker: Warning: Can't find file '/Game/NewAnimation'
+[2018.08.29-09.29.20:922][ 69]LogLinker: Warning: Can't find file '/Game/NewAnimation'
+[2018.08.29-09.29.20:922][ 69]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/NewAnimation.NewAnimation'
+[2018.08.29-09.29.30:870][236]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2018.08.29-09.29.30:872][236]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NewAnimation) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.29-09.29.49:152][234]Cmd: TRANSACTION UNDO
+[2018.08.29-09.29.49:152][234]LogEditorTransaction: Undo Rotate Bone
+[2018.08.29-09.29.49:336][234]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.29-09.29.49:337][234]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_6.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.08.29-09.29.50:366][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.30.01:479][637]Cmd: TRANSACTION UNDO
+[2018.08.29-09.30.01:480][637]LogEditorTransaction: Undo Edit Z
+[2018.08.29-09.30.01:665][637]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.29-09.30.01:667][637]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_6.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.08.29-09.30.02:387][687]Cmd: TRANSACTION UNDO
+[2018.08.29-09.30.02:388][687]LogEditorTransaction: Undo Edit Z
+[2018.08.29-09.30.02:593][687]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.29-09.30.02:594][687]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_6.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.08.29-09.30.05:382][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.30.07:706][232]Cmd: TRANSACTION UNDO
+[2018.08.29-09.30.07:706][232]LogEditorTransaction: Undo Rotate Bone
+[2018.08.29-09.30.07:911][232]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.29-09.30.07:912][232]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_6.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.08.29-09.30.09:348][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.30.11:281][607]Cmd: TRANSACTION UNDO
+[2018.08.29-09.30.11:281][607]LogEditorTransaction: Undo Rotate Bone
+[2018.08.29-09.30.11:487][607]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.29-09.30.11:489][607]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_6.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.08.29-09.30.12:570][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.30.14:617][952]Cmd: TRANSACTION UNDO
+[2018.08.29-09.30.14:617][952]LogEditorTransaction: Undo Rotate Bone
+[2018.08.29-09.30.14:823][952]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.29-09.30.14:824][952]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_6.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.08.29-09.30.15:530][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.30.21:574][696]Cmd: TRANSACTION UNDO
+[2018.08.29-09.30.21:574][696]LogEditorTransaction: Undo Translate Bone
+[2018.08.29-09.30.21:777][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.29-09.30.21:778][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_6.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.08.29-09.30.31:177][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.30.45:736][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.31.14:025][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.31.21:085][486]Cmd: TRANSACTION UNDO
+[2018.08.29-09.31.21:085][486]LogEditorTransaction: Undo Translate Bone
+[2018.08.29-09.31.21:292][486]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.29-09.31.21:293][486]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_6.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.08.29-09.31.21:957][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.31.27:539][115]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_7.DebugSkelMeshComponent_13) Already registered. Aborting.
+[2018.08.29-09.31.27:561][115]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.Actor_7.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2018.08.29-09.31.27:835][115]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.29-09.31.46:931][ 26]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.29-09.31.48:553][ 26]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c92150a00, Size=688
+[2018.08.29-09.31.57:731][ 90]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_8.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2018.08.29-09.31.57:758][ 90]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.Actor_8.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2018.08.29-09.31.58:167][ 90]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.29-09.32.50:769][141]LogSlate: Window 'Create New Animation Object' being destroyed
+[2018.08.29-09.32.54:970][639]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2018.08.29-09.32.54:971][639]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.NewAnimation) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.29-09.33.07:959][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.33.26:242][308]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2018.08.29-09.33.26:242][308]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.29-09.33.34:693][318]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2018.08.29-09.33.34:694][318]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.29-09.33.44:602][504]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2018.08.29-09.33.44:602][504]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_2) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.29-09.33.53:739][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAnimation" FILE="C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/NewAnimation.uasset" SILENT=true
+[2018.08.29-09.33.53:752][592]LogSavePackage: Save=11.08ms
+[2018.08.29-09.33.53:752][592]LogSavePackage: Moving 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Saved/NewAnimation528384C74A9DC316FECB2DBAF0283993.tmp' to 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/NewAnimation.uasset'
+[2018.08.29-09.33.53:754][592]LogSavePackage: Display: Finished SavePackage C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/NewAnimation.uasset
+[2018.08.29-09.34.06:092][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.08.29-09.34.06:309][ 43]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) - call TermArticulated first.
+[2018.08.29-09.34.06:623][ 43]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.29-09.34.08:961][304]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c23541278, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.34.10:777][511]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c23541278, Size=4
+[2018.08.29-09.34.10:777][511]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c24354678, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_24:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.34.10:785][511]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c24354158, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.34.14:128][901]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c24354158, Size=4
+[2018.08.29-09.34.14:128][901]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c24354158, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_25:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.34.14:134][901]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c24357800, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.34.14:137][901]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c24357800, Size=4
+[2018.08.29-09.34.14:137][901]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c24357800, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_26:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.34.14:143][901]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c243570b8, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.34.14:147][901]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c243570b8, Size=4
+[2018.08.29-09.34.14:147][901]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c243570b8, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_27:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.34.14:153][901]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c24356900, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.SKEL_NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.34.15:392][ 32]BlueprintLog: New page: Compile NepAnimationBlueprint
+[2018.08.29-09.34.15:400][ 32]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c24356900, Size=4
+[2018.08.29-09.34.15:400][ 32]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c24356900, Size=4, Default__SKEL_NepAnimationBlueprint_C Function /Engine/Transient.REINST_SKEL_NepAnimationBlueprint_C_28:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.34.15:408][ 32]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021ca9978a60, Size=88
+[2018.08.29-09.34.15:408][ 32]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d01c75ae0, Size=88, Default__NepAnimationBlueprint_C Function /Engine/Transient.REINST_NepAnimationBlueprint_C_29:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.34.15:415][ 32]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d01c77d60, Size=88, Default__NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.34.15:513][ 32]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c24357800, Size=4
+[2018.08.29-09.34.15:513][ 32]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c24354678, Size=4
+[2018.08.29-09.34.15:513][ 32]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c24356900, Size=4
+[2018.08.29-09.34.15:513][ 32]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c243570b8, Size=4
+[2018.08.29-09.34.15:513][ 32]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c24354158, Size=4
+[2018.08.29-09.34.16:192][110]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.34.16:207][110]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.34.16:207][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.34.16:207][110]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:34:16)
+[2018.08.29-09.34.16:207][110]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.34.16:221][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013994s)
+[2018.08.29-09.34.16:222][110]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.34.16:222][110]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2018.08.29-09.34.16:222][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014970s)
+[2018.08.29-09.34.16:242][110]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d01c75ae0, Size=88
+[2018.08.29-09.34.16:261][110]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.34.16:273][110]LogInit: FAudioDevice initialized.
+[2018.08.29-09.34.16:319][110]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.34.16:322][110]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.34.16
+[2018.08.29-09.34.16:323][110]LogWorld: Bringing up level for play took: 0.002938
+[2018.08.29-09.34.16:327][110]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,817
+[2018.08.29-09.34.16:327][110]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.34.33:620][143]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.34.33:635][143]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.34.33:667][143]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.35.20:078][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.35.20:153][676]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2018.08.29-09.35.20:154][676]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_3) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.29-09.35.21:656][855]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.35.21:670][855]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.35.21:671][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.35.21:671][855]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:35:21)
+[2018.08.29-09.35.21:671][855]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.35.21:685][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014146s)
+[2018.08.29-09.35.21:686][855]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.35.21:686][855]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2018.08.29-09.35.21:686][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015202s)
+[2018.08.29-09.35.21:725][855]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.35.21:737][855]LogInit: FAudioDevice initialized.
+[2018.08.29-09.35.21:793][855]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.35.21:795][855]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.35.21
+[2018.08.29-09.35.21:796][855]LogWorld: Bringing up level for play took: 0.002404
+[2018.08.29-09.35.21:802][855]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,659
+[2018.08.29-09.35.21:802][855]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.35.33:293][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.35.33:309][213]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.35.33:341][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.35.40:658][ 61]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.35.40:673][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.35.40:674][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.35.40:674][ 61]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:35:40)
+[2018.08.29-09.35.40:674][ 61]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.35.40:685][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010945s)
+[2018.08.29-09.35.40:686][ 61]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.35.40:686][ 61]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2018.08.29-09.35.40:686][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011871s)
+[2018.08.29-09.35.40:725][ 61]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.35.40:736][ 61]LogInit: FAudioDevice initialized.
+[2018.08.29-09.35.40:785][ 61]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.35.40:788][ 61]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.35.40
+[2018.08.29-09.35.40:789][ 61]LogWorld: Bringing up level for play took: 0.002623
+[2018.08.29-09.35.40:793][ 61]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,35
+[2018.08.29-09.35.40:793][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.35.53:245][518]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.35.53:261][518]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.35.53:291][518]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.35.57:839][ 50]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.35.57:853][ 50]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.35.57:853][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.35.57:853][ 50]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:35:57)
+[2018.08.29-09.35.57:854][ 50]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.35.57:865][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011470s)
+[2018.08.29-09.35.57:866][ 50]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.35.57:866][ 50]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2018.08.29-09.35.57:866][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012474s)
+[2018.08.29-09.35.57:904][ 50]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.35.57:916][ 50]LogInit: FAudioDevice initialized.
+[2018.08.29-09.35.57:967][ 50]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.35.57:970][ 50]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.35.57
+[2018.08.29-09.35.57:971][ 50]LogWorld: Bringing up level for play took: 0.002687
+[2018.08.29-09.35.57:977][ 50]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,833
+[2018.08.29-09.35.57:977][ 50]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.36.02:674][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.36.02:690][602]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.36.02:721][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.36.27:587][397]BlueprintLog: New page: Compile NeptuneCharacter
+[2018.08.29-09.36.27:624][397]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021ca9c92700, Size=608
+[2018.08.29-09.36.27:624][397]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c8f220900, Size=608, Default__NeptuneCharacter_C Function /Engine/Transient.REINST_NeptuneCharacter_C_83:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.36.27:635][397]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021ce0c34180, Size=608, Default__NeptuneCharacter_C Function /Game/ThirdPersonBP/Blueprints/NeptuneCharacter.NeptuneCharacter_C:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.36.28:756][471]LogSlate: Window 'NeptuneCharacter*' being destroyed
+[2018.08.29-09.36.29:978][617]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.36.29:995][617]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.36.29:996][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.36.29:996][617]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:36:29)
+[2018.08.29-09.36.29:996][617]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.36.30:008][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011526s)
+[2018.08.29-09.36.30:008][617]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.36.30:009][617]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2018.08.29-09.36.30:009][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012542s)
+[2018.08.29-09.36.30:051][617]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.36.30:063][617]LogInit: FAudioDevice initialized.
+[2018.08.29-09.36.30:114][617]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.36.30:116][617]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.36.30
+[2018.08.29-09.36.30:117][617]LogWorld: Bringing up level for play took: 0.002272
+[2018.08.29-09.36.30:122][617]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,979
+[2018.08.29-09.36.30:122][617]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.36.38:357][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.36.38:373][592]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.36.38:405][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.36.45:925][476]BlueprintLog: New page: Compile NeptuneCharacter
+[2018.08.29-09.36.45:977][476]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021ce0c34180, Size=608
+[2018.08.29-09.36.45:977][476]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021cf1f76480, Size=608, NeptuneCharacter_C_45 Function /Engine/Transient.REINST_NeptuneCharacter_C_89:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.36.45:988][476]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c964f0400, Size=608, Default__NeptuneCharacter_C Function /Game/ThirdPersonBP/Blueprints/NeptuneCharacter.NeptuneCharacter_C:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.36.47:477][610]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.36.47:493][610]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.36.47:493][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.36.47:493][610]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:36:47)
+[2018.08.29-09.36.47:493][610]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.36.47:505][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011489s)
+[2018.08.29-09.36.47:506][610]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.36.47:506][610]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2018.08.29-09.36.47:506][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012435s)
+[2018.08.29-09.36.47:528][610]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021cf1f76480, Size=608
+[2018.08.29-09.36.47:547][610]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.36.47:559][610]LogInit: FAudioDevice initialized.
+[2018.08.29-09.36.47:610][610]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.36.47:612][610]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.36.47
+[2018.08.29-09.36.47:613][610]LogWorld: Bringing up level for play took: 0.002278
+[2018.08.29-09.36.47:618][610]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,475
+[2018.08.29-09.36.47:618][610]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.36.52:710][202]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.36.52:725][202]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.36.52:757][202]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.03:197][437]BlueprintLog: New page: Compile NeptuneCharacter
+[2018.08.29-09.37.03:235][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c964f0400, Size=608
+[2018.08.29-09.37.03:235][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c5ce1b380, Size=608, NeptuneCharacter_C_67 Function /Engine/Transient.REINST_NeptuneCharacter_C_95:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.37.03:245][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c631d4400, Size=608, Default__NeptuneCharacter_C Function /Game/ThirdPersonBP/Blueprints/NeptuneCharacter.NeptuneCharacter_C:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.37.04:026][486]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.37.04:042][486]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.04:042][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.37.04:043][486]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:37:04)
+[2018.08.29-09.37.04:043][486]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.37.04:054][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011221s)
+[2018.08.29-09.37.04:055][486]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.37.04:055][486]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.08.29-09.37.04:055][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012158s)
+[2018.08.29-09.37.04:078][486]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c5ce1b380, Size=608
+[2018.08.29-09.37.04:097][486]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.37.04:109][486]LogInit: FAudioDevice initialized.
+[2018.08.29-09.37.04:161][486]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.37.04:163][486]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.37.04
+[2018.08.29-09.37.04:164][486]LogWorld: Bringing up level for play took: 0.002597
+[2018.08.29-09.37.04:171][486]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,028
+[2018.08.29-09.37.04:172][486]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.07:206][836]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.07:221][836]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.37.07:253][836]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.13:455][568]BlueprintLog: New page: Compile NeptuneCharacter
+[2018.08.29-09.37.13:493][568]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c631d4400, Size=608
+[2018.08.29-09.37.13:493][568]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0a24c900, Size=608, NeptuneCharacter_C_89 Function /Engine/Transient.REINST_NeptuneCharacter_C_101:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.37.13:504][568]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021cd1711a80, Size=608, Default__NeptuneCharacter_C Function /Game/ThirdPersonBP/Blueprints/NeptuneCharacter.NeptuneCharacter_C:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.37.14:290][618]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.37.14:306][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.14:306][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.37.14:306][618]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:37:14)
+[2018.08.29-09.37.14:307][618]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.37.14:319][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012517s)
+[2018.08.29-09.37.14:320][618]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.37.14:320][618]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2018.08.29-09.37.14:321][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013762s)
+[2018.08.29-09.37.14:344][618]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0a24c900, Size=608
+[2018.08.29-09.37.14:364][618]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.37.14:375][618]LogInit: FAudioDevice initialized.
+[2018.08.29-09.37.14:431][618]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.37.14:433][618]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.37.14
+[2018.08.29-09.37.14:434][618]LogWorld: Bringing up level for play took: 0.002458
+[2018.08.29-09.37.14:441][618]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,702
+[2018.08.29-09.37.14:442][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.18:924][131]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.18:940][131]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.37.18:973][131]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.26:718][ 48]BlueprintLog: New page: Compile NeptuneCharacter
+[2018.08.29-09.37.26:755][ 48]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021cd1711a80, Size=608
+[2018.08.29-09.37.26:755][ 48]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c88752700, Size=608, NeptuneCharacter_C_111 Function /Engine/Transient.REINST_NeptuneCharacter_C_107:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.37.26:766][ 48]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c5dfb7100, Size=608, Default__NeptuneCharacter_C Function /Game/ThirdPersonBP/Blueprints/NeptuneCharacter.NeptuneCharacter_C:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.37.27:458][ 85]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.37.27:474][ 85]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.27:475][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.37.27:475][ 85]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:37:27)
+[2018.08.29-09.37.27:475][ 85]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.37.27:487][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011752s)
+[2018.08.29-09.37.27:487][ 85]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.37.27:488][ 85]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2018.08.29-09.37.27:488][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012721s)
+[2018.08.29-09.37.27:511][ 85]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c88752700, Size=608
+[2018.08.29-09.37.27:531][ 85]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.37.27:542][ 85]LogInit: FAudioDevice initialized.
+[2018.08.29-09.37.27:592][ 85]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.37.27:594][ 85]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.37.27
+[2018.08.29-09.37.27:595][ 85]LogWorld: Bringing up level for play took: 0.002311
+[2018.08.29-09.37.27:602][ 85]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,459
+[2018.08.29-09.37.27:602][ 85]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.31:849][577]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.31:864][577]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.37.31:896][577]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.36:232][ 85]BlueprintLog: New page: Compile NeptuneCharacter
+[2018.08.29-09.37.36:271][ 85]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c5dfb7100, Size=608
+[2018.08.29-09.37.36:271][ 85]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021ce073fb00, Size=608, NeptuneCharacter_C_133 Function /Engine/Transient.REINST_NeptuneCharacter_C_113:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.37.36:281][ 85]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c88750680, Size=608, Default__NeptuneCharacter_C Function /Game/ThirdPersonBP/Blueprints/NeptuneCharacter.NeptuneCharacter_C:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.37.37:480][183]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.37.37:496][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.37:496][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.37.37:497][183]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:37:37)
+[2018.08.29-09.37.37:497][183]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.37.37:508][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011262s)
+[2018.08.29-09.37.37:509][183]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.37.37:509][183]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.08.29-09.37.37:509][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012340s)
+[2018.08.29-09.37.37:532][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021ce073fb00, Size=608
+[2018.08.29-09.37.37:551][183]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.37.37:562][183]LogInit: FAudioDevice initialized.
+[2018.08.29-09.37.37:616][183]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.37.37:618][183]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.37.37
+[2018.08.29-09.37.37:619][183]LogWorld: Bringing up level for play took: 0.002666
+[2018.08.29-09.37.37:626][183]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,483
+[2018.08.29-09.37.37:627][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.44:301][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.44:316][961]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.37.44:347][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.50:846][729]BlueprintLog: New page: Compile NeptuneCharacter
+[2018.08.29-09.37.50:884][729]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021c88750680, Size=608
+[2018.08.29-09.37.50:884][729]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021ce073df80, Size=608, NeptuneCharacter_C_155 Function /Engine/Transient.REINST_NeptuneCharacter_C_119:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.37.50:895][729]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021cd2cad580, Size=608, Default__NeptuneCharacter_C Function /Game/ThirdPersonBP/Blueprints/NeptuneCharacter.NeptuneCharacter_C:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.37.51:692][780]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.37.51:708][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.51:709][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.37.51:709][780]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:37:51)
+[2018.08.29-09.37.51:709][780]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.37.51:722][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013284s)
+[2018.08.29-09.37.51:728][780]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.37.51:728][780]LogPlayLevel: PIE: World Init took: (0.005946s)
+[2018.08.29-09.37.51:728][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019431s)
+[2018.08.29-09.37.51:749][780]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021ce073df80, Size=608
+[2018.08.29-09.37.51:769][780]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.37.51:780][780]LogInit: FAudioDevice initialized.
+[2018.08.29-09.37.51:834][780]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.37.51:836][780]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.37.51
+[2018.08.29-09.37.51:837][780]LogWorld: Bringing up level for play took: 0.002505
+[2018.08.29-09.37.51:844][780]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,701
+[2018.08.29-09.37.51:845][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.56:930][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.37.56:945][374]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.37.56:978][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.38.04:959][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.38.46:171][201]BlueprintLog: New page: Compile NepAnimationBlueprint
+[2018.08.29-09.38.46:188][201]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d01c77d60, Size=88
+[2018.08.29-09.38.46:188][201]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0281a1a0, Size=88, Default__NepAnimationBlueprint_C Function /Engine/Transient.REINST_NepAnimationBlueprint_C_38:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.38.46:195][201]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021cffa778e0, Size=88, Default__NepAnimationBlueprint_C Function /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.NepAnimationBlueprint_C:ExecuteUbergraph_NepAnimationBlueprint
+[2018.08.29-09.38.46:972][275]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.38.46:989][275]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.38.46:989][275]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.29-09.38.47:010][275]LogPlayLevel: [PlayLevel] Compiling NeptuneCharacter before play...
+[2018.08.29-09.38.47:027][275]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021cd2cad580, Size=608
+[2018.08.29-09.38.47:027][275]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021c83d20900, Size=608, NeptuneCharacter_C_177 Function /Engine/Transient.REINST_NeptuneCharacter_C_127:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.38.47:037][275]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0b146e80, Size=608, Default__NeptuneCharacter_C Function /Game/ThirdPersonBP/Blueprints/NeptuneCharacter.NeptuneCharacter_C:ExecuteUbergraph_NeptuneCharacter
+[2018.08.29-09.38.47:321][275]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0281a1a0, Size=88
+[2018.08.29-09.38.47:322][275]LogPlayLevel: PlayLevel: Blueprint regeneration took 333 ms (1 blueprints)
+[2018.08.29-09.38.47:323][275]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:38:47)
+[2018.08.29-09.38.47:323][275]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.38.47:338][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014865s)
+[2018.08.29-09.38.47:339][275]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.38.47:339][275]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2018.08.29-09.38.47:339][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016216s)
+[2018.08.29-09.38.47:381][275]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.38.47:393][275]LogInit: FAudioDevice initialized.
+[2018.08.29-09.38.47:443][275]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.38.47:445][275]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.38.47
+[2018.08.29-09.38.47:446][275]LogWorld: Bringing up level for play took: 0.002610
+[2018.08.29-09.38.47:451][275]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,307
+[2018.08.29-09.38.47:451][275]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.38.57:548][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.38.57:564][320]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.38.57:596][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.39.02:817][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.39.07:440][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.39.32:028][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.39.42:374][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.39.59:592][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.40.06:018][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.40.23:698][ 37]Cmd: TRANSACTION UNDO
+[2018.08.29-09.40.23:698][ 37]LogEditorTransaction: Undo Edit X
+[2018.08.29-09.40.23:883][ 37]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_8.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2018.08.29-09.40.23:888][ 37]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.08.29-09.40.25:383][186]Cmd: TRANSACTION UNDO
+[2018.08.29-09.40.25:383][186]LogEditorTransaction: Undo Translate Socket
+[2018.08.29-09.40.25:563][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_8.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2018.08.29-09.40.25:568][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.08.29-09.40.26:021][230]Cmd: TRANSACTION UNDO
+[2018.08.29-09.40.26:021][230]LogEditorTransaction: Undo Translate Socket
+[2018.08.29-09.40.26:202][230]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_8.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2018.08.29-09.40.26:209][230]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.08.29-09.40.26:670][272]Cmd: TRANSACTION UNDO
+[2018.08.29-09.40.26:670][272]LogEditorTransaction: Undo Translate Socket
+[2018.08.29-09.40.26:852][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_8.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2018.08.29-09.40.26:857][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.08.29-09.40.27:278][311]Cmd: TRANSACTION UNDO
+[2018.08.29-09.40.27:278][311]LogEditorTransaction: Undo Translate Socket
+[2018.08.29-09.40.27:461][311]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_8.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2018.08.29-09.40.27:466][311]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.08.29-09.40.27:894][347]Cmd: TRANSACTION UNDO
+[2018.08.29-09.40.27:894][347]LogEditorTransaction: Undo Translate Socket
+[2018.08.29-09.40.28:094][347]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_8.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2018.08.29-09.40.28:100][347]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.08.29-09.40.28:484][385]Cmd: TRANSACTION UNDO
+[2018.08.29-09.40.28:484][385]LogEditorTransaction: Undo Translate Socket
+[2018.08.29-09.40.28:685][385]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_8.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2018.08.29-09.40.28:691][385]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.08.29-09.41.04:495][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.41.09:745][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.41.29:562][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.41.40:649][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.41.47:400][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.41.51:959][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.42.10:610][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.42.23:028][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.42.26:422][ 54]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/NewAnimation.NewAnimation
+[2018.08.29-09.42.26:424][ 54]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_4) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.08.29-09.42.30:504][519]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.42.30:524][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.42.30:524][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.42.30:524][519]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:42:30)
+[2018.08.29-09.42.30:524][519]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.42.30:538][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013786s)
+[2018.08.29-09.42.30:539][519]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.42.30:539][519]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2018.08.29-09.42.30:539][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014925s)
+[2018.08.29-09.42.30:579][519]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.42.30:591][519]LogInit: FAudioDevice initialized.
+[2018.08.29-09.42.30:639][519]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.42.30:642][519]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.42.30
+[2018.08.29-09.42.30:643][519]LogWorld: Bringing up level for play took: 0.002810
+[2018.08.29-09.42.30:648][519]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,496
+[2018.08.29-09.42.30:648][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.42.42:487][709]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.42.42:503][709]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.42.42:534][709]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.43.04:578][251]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.43.04:595][251]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.43.04:595][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.43.04:595][251]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:43:04)
+[2018.08.29-09.43.04:595][251]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.43.04:609][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013248s)
+[2018.08.29-09.43.04:609][251]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.43.04:609][251]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.08.29-09.43.04:609][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014160s)
+[2018.08.29-09.43.04:649][251]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.43.04:660][251]LogInit: FAudioDevice initialized.
+[2018.08.29-09.43.04:712][251]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.43.04:715][251]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.43.04
+[2018.08.29-09.43.04:715][251]LogWorld: Bringing up level for play took: 0.002369
+[2018.08.29-09.43.04:721][251]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,423
+[2018.08.29-09.43.04:721][251]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.43.35:879][959]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.43.35:897][959]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.43.35:926][959]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.46.03:532][887]LogEditorViewport: Clicking on Actor (LMB): GlobalVariables_C (GlobalVariables)
+[2018.08.29-09.46.06:988][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.08.29-09.46.17:431][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.46.17:498][280]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.08.29-09.46.17:517][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.46.17:517][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.29-09.46.17:517][280]PIE: New page: PIE session: ThirdPersonExampleMap (29 sie 2018, 13:46:17)
+[2018.08.29-09.46.17:517][280]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.08.29-09.46.17:531][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013728s)
+[2018.08.29-09.46.17:532][280]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.29-09.46.17:532][280]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.08.29-09.46.17:532][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014631s)
+[2018.08.29-09.46.17:577][280]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.29-09.46.17:590][280]LogInit: FAudioDevice initialized.
+[2018.08.29-09.46.17:643][280]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.08.29-09.46.17:646][280]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.08.29-11.46.17
+[2018.08.29-09.46.17:646][280]LogWorld: Bringing up level for play took: 0.002504
+[2018.08.29-09.46.17:652][280]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,509
+[2018.08.29-09.46.17:653][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.46.48:663][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.46.48:679][968]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.08.29-09.46.48:712][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.08.29-09.47.37:435][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.47.41:433][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.47.54:441][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.48.00:710][ 64]Cmd: TRANSACTION UNDO
+[2018.08.29-09.48.00:710][ 64]LogEditorTransaction: Undo Rotate Bone
+[2018.08.29-09.48.00:957][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_8.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2018.08.29-09.48.00:963][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.08.29-09.48.05:568][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.48.12:476][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.29-09.48.14:793][464]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.Actor_10.DebugSkelMeshComponent_21) Already registered. Aborting.
+[2018.08.29-09.48.14:814][464]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_36:PersistentLevel.Actor_10.DebugSkelMeshComponent_21) - call TermArticulated first.
+[2018.08.29-09.48.15:115][464]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.08.29-09.48.36:839][ 15]LogEditorTransaction: Undo Rotate Bone
+[2018.08.29-09.48.37:059][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.08.29-09.48.37:059][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.Actor_10.DebugSkelMeshComponent_21) Already registered. Aborting.
+[2018.08.29-09.48.37:069][ 15]LogEditorTransaction: Undo Rotate Bone
+[2018.08.29-09.48.37:295][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.08.29-09.48.37:296][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.Actor_10.DebugSkelMeshComponent_21) Already registered. Aborting.
+[2018.08.29-09.48.37:299][ 15]LogEditorTransaction: Undo Set Key
+[2018.08.29-09.48.37:524][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.08.29-09.48.37:524][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.Actor_10.DebugSkelMeshComponent_21) Already registered. Aborting.
+[2018.08.29-09.48.37:527][ 15]LogEditorTransaction: Undo Rotate Bone
+[2018.08.29-09.48.37:749][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.08.29-09.48.37:749][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.Actor_10.DebugSkelMeshComponent_21) Already registered. Aborting.
+[2018.08.29-09.48.37:752][ 15]LogEditorTransaction: Undo Rotate Bone
+[2018.08.29-09.48.37:992][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_9.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.08.29-09.48.37:993][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.Actor_10.DebugSkelMeshComponent_21) Already registered. Aborting.
+[2018.08.29-09.48.37:995][ 15]LogEditorTransaction: Undo Delete selected sockets/meshes/bones from skeleton tree

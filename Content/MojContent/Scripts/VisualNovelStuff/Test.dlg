@@ -1,0 +1,65 @@
+DlgVersion 7
+DlgName "Test"
+DlgGuid {  A 1809482344 B 1270006258 C 1757743262 D -261345245 }
+Node_Speech StartNode
+{
+	Text ""
+	SpeakerState "None"
+	bIsVirtualParent False
+	OwnerName "None"
+	bCheckChildrenOnEvaluation False
+	VoiceSoundWave ""
+	VoiceDialogueWave ""
+	Children { {  TargetIndex 0 Text "Next" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True } }
+}
+DlgParticipantClasses
+{
+	{  ParticipantName "Neptune" ParticipantClass "/Game/MojContent/Scripts/VisualNovelStuff/VN_Neptune.VN_Neptune_C" }
+	{  ParticipantName "Widget" ParticipantClass "/Game/MojContent/Scripts/VisualNovelStuff/VNDialogue.VNDialogue_C" }
+}
+Node Nodes
+{
+	// 0
+	Node_Speech 
+	{
+		Text "Nep Nep."
+		SpeakerState "None"
+		bIsVirtualParent False
+		OwnerName "Neptune"
+		bCheckChildrenOnEvaluation False
+		VoiceSoundWave ""
+		VoiceDialogueWave ""
+		EnterEvents { {  ParticipantName "Widget" EventType "EDlgEventType::DlgEventModifyName" EventName "Change Background" IntValue 0 FloatValue 0.0 NameValue "VirtuaForest" bDelta False bValue False } }
+		Children { {  TargetIndex 1 Text "Next" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True } }
+	}
+	// 1
+	Node_Speech 
+	{
+		Text "Nepu Nepu."
+		SpeakerState "None"
+		bIsVirtualParent False
+		OwnerName "Neptune"
+		bCheckChildrenOnEvaluation False
+		VoiceSoundWave ""
+		VoiceDialogueWave ""
+		Children { {  TargetIndex 2 Text "Next" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True } }
+	}
+	// 2
+	Node_Speech 
+	{
+		Text "Nepuuuu!"
+		SpeakerState "None"
+		bIsVirtualParent False
+		OwnerName "Neptune"
+		bCheckChildrenOnEvaluation False
+		VoiceSoundWave ""
+		VoiceDialogueWave ""
+		Children { {  TargetIndex 3 Text "Finish" SpeakerState "None" bIncludeInAllOptionListIfUnsatisfied True } }
+	}
+	// 3
+	Node_End 
+	{
+		OwnerName "Neptune"
+		bCheckChildrenOnEvaluation False
+	}
+}

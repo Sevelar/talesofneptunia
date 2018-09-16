@@ -1,0 +1,1043 @@
+﻿Log file open, 08/07/18 19:05:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: neptunia2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-814197583) SRandInit(-814197583).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.166965
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.996s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-PVFDNGS (192.168.0.24:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.07-17.06.01:099][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.07-17.06.01:099][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.07-17.06.01:119][  0]LogInit: Computer: DESKTOP-PVFDNGS
+[2018.08.07-17.06.01:120][  0]LogInit: User: ODEO
+[2018.08.07-17.06.01:120][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.07-17.06.01:120][  0]LogInit: High frequency timer resolution =3.234375 MHz
+[2018.08.07-17.06.01:120][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.07-17.06.01:120][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.07-17.06.01:120][  0]LogMemory: Process Physical Memory: 275.71 MB used, 275.71 MB peak
+[2018.08.07-17.06.01:120][  0]LogMemory: Process Virtual Memory: 270.92 MB used, 270.92 MB peak
+[2018.08.07-17.06.01:120][  0]LogMemory: Physical Memory: 7488.88 MB used,  8831.72 MB free, 16320.60 MB total
+[2018.08.07-17.06.01:120][  0]LogMemory: Virtual Memory: 674.32 MB used,  8831.72 MB free, 134217728.00 MB total
+[2018.08.07-17.06.01:142][  0]LogInit: Using OS detected language (pl-PL).
+[2018.08.07-17.06.01:143][  0]LogInit: Using OS detected locale (pl-PL).
+[2018.08.07-17.06.01:186][  0]LogTextLocalizationManager: No localization for 'pl-PL' exists, so 'en' will be used for the language.
+[2018.08.07-17.06.01:656][  0]LogStreaming: Display: Took  0.514s to EndInitTextLocalization.
+[2018.08.07-17.06.01:656][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.07-17.06.01:740][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.07-17.06.01:740][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.07-17.06.02:176][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.07-17.06.02:236][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.08.07-17.06.02:236][  0]LogD3D11RHI:       6061/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.08.07-17.06.02:239][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.07-17.06.02:239][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.07-17.06.02:239][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.07-17.06.02:246][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.07-17.06.02:246][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.07-17.06.02:246][  0]LogWindows: EnumDisplayDevices:
+[2018.08.07-17.06.02:246][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.08.07-17.06.02:246][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.08.07-17.06.02:246][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.08.07-17.06.02:246][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.08.07-17.06.02:247][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.07-17.06.02:247][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.08.07-17.06.02:247][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.07-17.06.02:247][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.07-17.06.02:247][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.08.07-17.06.02:275][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.08.07-17.06.02:275][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.07-17.06.02:275][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.07-17.06.02:287][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.08.07-17.06.02:377][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Intermediate/Shaders/WorkingDirectory/10000/).
+[2018.08.07-17.06.02:377][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ODEO/AppData/Local/Temp/UnrealShaderWorkingDir/93C4D31740A5D6F985A282815E6B0DFE/'.
+[2018.08.07-17.06.02:620][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.07-17.06.02:634][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.07-17.06.02:647][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.07-17.06.02:659][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.07-17.06.02:690][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.07-17.06.02:702][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.07-17.06.02:714][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.07-17.06.02:726][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.07-17.06.02:732][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.07-17.06.02:743][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.07-17.06.02:755][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.07-17.06.02:767][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.07-17.06.02:778][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.07-17.06.02:788][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.07-17.06.02:799][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.07-17.06.02:820][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.07-17.06.02:820][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.07-17.06.02:856][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.07-17.06.02:857][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.07-17.06.02:901][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.07-17.06.02:911][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.07-17.06.02:923][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.07-17.06.02:935][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.07-17.06.02:946][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.07-17.06.02:988][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.07-17.06.02:988][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.07-17.06.03:082][  0]LogXGEController: Cleaning working directory: C:/Users/ODEO/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.07-17.06.03:082][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.07-17.06.03:082][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.07-17.06.03:082][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.07-17.06.04:043][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.07-17.06.04:260][  0]LogDerivedDataCache: Loaded boot cache 0.22s 74MB C:/Users/ODEO/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.07-17.06.04:260][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ODEO/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.07-17.06.04:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/ODEO/Documents/Unreal Projects/neptunia2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.07-17.06.04:260][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.07-17.06.04:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/ODEO/Documents/Unreal Projects/neptunia2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.07-17.06.04:260][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.07-17.06.04:274][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.07-17.06.04:286][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ODEO/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.07-17.06.04:286][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.07-17.06.04:286][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.07-17.06.04:296][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.07-17.06.04:296][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.07-17.06.04:297][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.07-17.06.04:297][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.07-17.06.04:418][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2018.08.07-17.06.04:690][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.07-17.06.04:823][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.07-17.06.04:825][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.07-17.06.04:825][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.07-17.06.04:825][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.07-17.06.04:825][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.07-17.06.04:825][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.07-17.06.04:857][  0]LogNetVersion: neptunia2 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3109437322)
+[2018.08.07-17.06.05:201][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.030278 seconds
+[2018.08.07-17.06.05:227][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.07-17.06.05:228][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.08.07-17.06.05:228][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.07-17.06.13:262][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.07-17.06.13:289][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.07-17.06.13:657][  0]SourceControl: Source control is disabled
+[2018.08.07-17.06.13:657][  0]SourceControl: Source control is disabled
+[2018.08.07-17.06.13:675][  0]SourceControl: Source control is disabled
+[2018.08.07-17.06.13:692][  0]SourceControl: Source control is disabled
+[2018.08.07-17.06.14:186][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.07-17.06.14:383][  0]LogOcInput: OculusInput pre-init called
+[2018.08.07-17.06.14:529][  0]LogEngine: Initializing Engine...
+[2018.08.07-17.06.14:531][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.07-17.06.14:532][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.07-17.06.14:532][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.07-17.06.14:726][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.07-17.06.14:752][  0]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-17.06.14:768][  0]LogInit: FAudioDevice initialized.
+[2018.08.07-17.06.14:883][  0]LogDerivedDataCache: Saved boot cache 0.11s 74MB C:/Users/ODEO/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.07-17.06.14:888][  0]LogInit: Texture streaming: Enabled
+[2018.08.07-17.06.14:902][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.07-17.06.14:944][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={E5880717-4EAB-6BB4-82F5-5E95BAE0E6E6}
+[2018.08.07-17.06.14:955][  0]LogInit: Transaction tracking system initialized
+[2018.08.07-17.06.14:973][  0]BlueprintLog: New page: Editor Load
+[2018.08.07-17.06.15:057][  0]LocalizationService: Localization service is disabled
+[2018.08.07-17.06.15:182][  0]LogConsoleResponse: Display: 
+[2018.08.07-17.06.15:318][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.07-17.06.15:318][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.07-17.06.15:318][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.07-17.06.15:318][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.07-17.06.15:318][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.07-17.06.15:921][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/' took 0.02s
+[2018.08.07-17.06.15:921][  0]SourceControl: Source control is disabled
+[2018.08.07-17.06.15:921][  0]Cmd: MAP LOAD FILE="C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.07-17.06.15:921][  0]LightingResults: New page: Lighting Build
+[2018.08.07-17.06.15:924][  0]MapCheck: New page: Map Check
+[2018.08.07-17.06.15:924][  0]LightingResults: New page: Lighting Build
+[2018.08.07-17.06.15:975][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001553149f1c0, Size=64, Default__NewAnimBlueprint_C Function /Game/MojContent/PurpleHeart/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint
+[2018.08.07-17.06.15:981][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001553149f1c0, Size=64
+[2018.08.07-17.06.15:981][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001553149ee40, Size=64, Default__NewAnimBlueprint_C Function /Engine/Transient.REINST_NewAnimBlueprint_C_0:ExecuteUbergraph_NewAnimBlueprint
+[2018.08.07-17.06.15:986][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015519a8fa40, Size=64, Default__NewAnimBlueprint_C Function /Game/MojContent/PurpleHeart/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint
+[2018.08.07-17.06.16:009][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015519a8ee80, Size=64, Default__BlackHeart_AnimationBlueprint_C Function /Game/MojContent/BlackHeart/BlackHeart_AnimationBlueprint.BlackHeart_AnimationBlueprint_C:ExecuteUbergraph_BlackHeart_AnimationBlueprint
+[2018.08.07-17.06.16:014][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015519a8ee80, Size=64
+[2018.08.07-17.06.16:014][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015519a8eec0, Size=64, Default__BlackHeart_AnimationBlueprint_C Function /Engine/Transient.REINST_BlackHeart_AnimationBlueprint_C_1:ExecuteUbergraph_BlackHeart_AnimationBlueprint
+[2018.08.07-17.06.16:018][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015519a8c9c0, Size=64, Default__BlackHeart_AnimationBlueprint_C Function /Game/MojContent/BlackHeart/BlackHeart_AnimationBlueprint.BlackHeart_AnimationBlueprint_C:ExecuteUbergraph_BlackHeart_AnimationBlueprint
+[2018.08.07-17.06.16:035][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015519b06ac0, Size=32, Default__BlackHeart_UI_C Function /Game/MojContent/BlackHeart/BlackHeart_UI.BlackHeart_UI_C:ExecuteUbergraph_BlackHeart_UI
+[2018.08.07-17.06.16:037][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015519b08c00, Size=472, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.07-17.06.16:048][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015519b06ac0, Size=32
+[2018.08.07-17.06.16:048][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001551a067ee0, Size=32, Default__BlackHeart_UI_C Function /Engine/Transient.REINST_BlackHeart_UI_C_0:ExecuteUbergraph_BlackHeart_UI
+[2018.08.07-17.06.16:049][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015519b08c00, Size=472
+[2018.08.07-17.06.16:049][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001551a03f800, Size=472, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_5:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.07-17.06.16:057][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015519cdf9c0, Size=32, Default__BlackHeart_UI_C Function /Game/MojContent/BlackHeart/BlackHeart_UI.BlackHeart_UI_C:ExecuteUbergraph_BlackHeart_UI
+[2018.08.07-17.06.16:059][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015519d1fc00, Size=472, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.08.07-17.06.16:075][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015519d1ea00, Size=472, Default__PurpleHeartCharacter_C Function /Game/ThirdPersonBP/Blueprints/PurpleHeartCharacter.PurpleHeartCharacter_C:ExecuteUbergraph_PurpleHeartCharacter
+[2018.08.07-17.06.16:082][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015519d1ea00, Size=472
+[2018.08.07-17.06.16:082][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015519d1ea00, Size=472, Default__PurpleHeartCharacter_C Function /Engine/Transient.REINST_PurpleHeartCharacter_C_8:ExecuteUbergraph_PurpleHeartCharacter
+[2018.08.07-17.06.16:090][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001551f3fe800, Size=472, Default__PurpleHeartCharacter_C Function /Game/ThirdPersonBP/Blueprints/PurpleHeartCharacter.PurpleHeartCharacter_C:ExecuteUbergraph_PurpleHeartCharacter
+[2018.08.07-17.06.16:169][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001551a689000, Size=192, Default__TeleportToMapa1_C Function /Game/MojContent/Scripts/TeleportToMapa1.TeleportToMapa1_C:ExecuteUbergraph_TeleportToMapa1
+[2018.08.07-17.06.16:171][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001551a689000, Size=192
+[2018.08.07-17.06.16:171][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001551a689000, Size=192, Default__TeleportToMapa1_C Function /Engine/Transient.REINST_TeleportToMapa1_C_13:ExecuteUbergraph_TeleportToMapa1
+[2018.08.07-17.06.16:172][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001551a467d00, Size=192, Default__TeleportToMapa1_C Function /Game/MojContent/Scripts/TeleportToMapa1.TeleportToMapa1_C:ExecuteUbergraph_TeleportToMapa1
+[2018.08.07-17.06.16:198][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001551a478d40, Size=432, Default__CharacterSelect_C Function /Game/MojContent/Scripts/CharacterSelect.CharacterSelect_C:ExecuteUbergraph_CharacterSelect
+[2018.08.07-17.06.16:203][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001551a478d40, Size=432
+[2018.08.07-17.06.16:203][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001551a237e40, Size=432, Default__CharacterSelect_C Function /Engine/Transient.REINST_CharacterSelect_C_2:ExecuteUbergraph_CharacterSelect
+[2018.08.07-17.06.16:209][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001551a236e80, Size=432, Default__CharacterSelect_C Function /Game/MojContent/Scripts/CharacterSelect.CharacterSelect_C:ExecuteUbergraph_CharacterSelect
+[2018.08.07-17.06.16:222][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001551a27ae80, Size=16, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.08.07-17.06.16:223][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001551a27ae80, Size=16
+[2018.08.07-17.06.16:223][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001551a27ae80, Size=16, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_20:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.08.07-17.06.16:224][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001551a27b340, Size=16, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.08.07-17.06.16:358][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [90.547012ms] /Game/MojContent/BlackHeart/BlackHeart.BlackHeart
+[2018.08.07-17.06.16:474][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [17.599382ms] /Game/MojContent/PurpleHeart/PurpleHeartV.PurpleHeartV
+[2018.08.07-17.06.16:785][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.07-17.06.16:796][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.07-17.06.16:809][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001553149ee40, Size=64
+[2018.08.07-17.06.16:809][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015519a8eec0, Size=64
+[2018.08.07-17.06.16:809][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001551a067ee0, Size=32
+[2018.08.07-17.06.16:809][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001551a03f800, Size=472
+[2018.08.07-17.06.16:809][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015519d1ea00, Size=472
+[2018.08.07-17.06.16:809][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001551a689000, Size=192
+[2018.08.07-17.06.16:809][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001551a237e40, Size=432
+[2018.08.07-17.06.16:809][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001551a27ae80, Size=16
+[2018.08.07-17.06.16:810][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.07-17.06.16:870][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59,968ms to complete.
+[2018.08.07-17.06.16:870][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.949
+[2018.08.07-17.06.17:044][  0]LogCollectionManager: Loaded 0 collections in 0.001377 seconds
+[2018.08.07-17.06.17:087][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Saved/Collections/' took 0.01s
+[2018.08.07-17.06.17:087][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/Developers/ODEO/Collections/' took 0.01s
+[2018.08.07-17.06.17:087][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/Collections/' took 0.01s
+[2018.08.07-17.06.17:087][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.07-17.06.17:096][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2452 classes and 558 folders.
+[2018.08.07-17.06.17:101][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.07-17.06.17:532][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.07-17.06.17:545][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.07-17.06.17:611][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.07-17.06.17:612][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.07-17.06.17:626][  0]LogSlate: Took 0.008399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.07-17.06.17:721][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 9 NumSamples 1 (Frame:1).
+[2018.08.07-17.06.17:832][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.07-17.06.17:832][  0]LogLoad: (Engine Initialization) Total time: 19.15 seconds
+[2018.08.07-17.06.17:832][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.07-17.06.17:843][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.07-17.06.17:865][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.08.07-17.06.17:894][  0]LogSlate: Took 0.018521 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.07-17.06.17:974][  1]LogAssetRegistry: Asset discovery search completed in 13.5775 seconds
+[2018.08.07-17.06.17:976][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.07-17.06.17:976][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2018.08.07-17.06.18:878][100]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.07-17.06.28:872][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-17.06.29:263][301]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.08.07-17.06.29:525][301]LogUObjectGlobals: Created PersistentFrame Addr=0x000001556a017f18, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.07-17.06.29:526][301]LogUObjectGlobals: Created PersistentFrame Addr=0x000001556a017f10, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.07-17.06.29:918][301]LogLinker: Warning: Can't resolve asset name
+[2018.08.07-17.06.29:918][301]LogLinker: Warning: Can't resolve asset name
+[2018.08.07-17.06.29:918][301]LogLinker: Warning: Can't resolve asset name
+[2018.08.07-17.06.29:923][301]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.07-17.06.31:777][520]LogStreaming: Warning: Failed to open ANSI TEXT file C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Saved/HardwareSurvey/dxdiag.txt
+[2018.08.07-17.06.31:824][521]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=5.00
+[2018.08.07-17.06.31:825][521]LogSynthBenchmark: Display: ===============
+[2018.08.07-17.06.31:825][521]LogSynthBenchmark: Display: Main Processor:
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display:          ... 0.020422 s/Run 'RayIntersect'
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display:          ... 0.019923 s/Run 'Fractal'
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display: 
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 16
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display:   NumberOfCores (logical): 4
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display:   CPU Perf Index 0: 125.4 (weight 1.00)
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display:   CPU Perf Index 1: 143.6 (weight 1.50)
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display:  
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display: Graphics:
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA GeForce GTX 1060 6GB'
+[2018.08.07-17.06.32:026][521]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2018.08.07-17.06.32:027][521]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2018.08.07-17.06.32:027][521]LogSynthBenchmark: Display:   Device Id: 0x1C03
+[2018.08.07-17.06.32:027][521]LogSynthBenchmark: Display:   Device Revision: 0xA1
+[2018.08.07-17.06.32:027][521]LogSynthBenchmark: Display:   GPU Memory: 6061/0/8161 MB
+[2018.08.07-17.06.32:169][521]LogSynthBenchmark: Display:   GPU first test: 0.06s
+[2018.08.07-17.06.32:169][521]LogSynthBenchmark: Display:          ... 1.922 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2018.08.07-17.06.32:169][521]LogSynthBenchmark: Display:          ... 1.485 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2018.08.07-17.06.32:169][521]LogSynthBenchmark: Display:          ... 1.273 s/GigaPix, Confidence=89% 'DepTexHeavy' (likely to be very inaccurate)
+[2018.08.07-17.06.32:169][521]LogSynthBenchmark: Display:          ... 6.953 s/GigaPix, Confidence=100% 'FillOnly' (likely to be very inaccurate)
+[2018.08.07-17.06.32:169][521]LogSynthBenchmark: Display:          ... 0.254 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2018.08.07-17.06.32:169][521]LogSynthBenchmark: Display:          ... 0.348 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be very inaccurate)
+[2018.08.07-17.06.32:169][521]LogSynthBenchmark: Display:          ... 1.670 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:   GPU second test: 0.15s
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:          ... 8.895 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be inaccurate)
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:          ... 7.205 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:          ... 6.518 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:          ... 39.787 s/GigaPix, Confidence=100% 'FillOnly' (likely to be inaccurate)
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:          ... 0.945 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:          ... 4.326 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be inaccurate)
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:          ... 5.380 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be inaccurate)
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:   GPU Final Results:
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:          ... 8.895 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:          ... 7.205 s/GigaPix, Confidence=100% 'TexHeavy'
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:          ... 6.518 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:          ... 39.787 s/GigaPix, Confidence=100% 'FillOnly'
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:          ... 0.945 s/GigaPix, Confidence=100% 'Bandwidth'
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:          ... 4.326 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:          ... 5.380 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display: 
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:   GPU Perf Index 0: 193.3 (weight 1.00)
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:   GPU Perf Index 1: 96.8 (weight 0.10)
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:   GPU Perf Index 2: 169.4 (weight 0.10)
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:   GPU Perf Index 3: 156.3 (weight 3.00)
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:   GPU Perf Index 4: 88.1 (weight 1.00)
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:   GPU Perf Index 5: 281.5 (weight 0.00)
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:   GPU Perf Index 6: 304.5 (weight 0.00)
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:   CPUIndex: 136.3
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:   GPUIndex: 149.4
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display: 
+[2018.08.07-17.06.32:358][521]LogSynthBenchmark: Display:          ... Total Time: 0.533487 sec
+[2018.08.07-17.06.59:431][736]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015581010e40, Size=8, Default__Main_C Function /Game/MojContent/MainScreen/Main.Main_C:ExecuteUbergraph_Main
+[2018.08.07-17.06.59:432][736]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015581010e40, Size=8
+[2018.08.07-17.06.59:432][736]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015581010e40, Size=8, Default__Main_C Function /Engine/Transient.REINST_Main_C_35:ExecuteUbergraph_Main
+[2018.08.07-17.06.59:433][736]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015581010858, Size=8, Default__Main_C Function /Game/MojContent/MainScreen/Main.Main_C:ExecuteUbergraph_Main
+[2018.08.07-17.06.59:443][736]LogAIModule: Creating AISystem for world Main
+[2018.08.07-17.06.59:469][736]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015581010e40, Size=8
+[2018.08.07-17.06.59:471][736]Cmd: MAP LOAD FILE="C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.07-17.06.59:471][736]LightingResults: New page: Lighting Build
+[2018.08.07-17.06.59:472][736]LoadErrors: New page: Loading map: Main.umap
+[2018.08.07-17.06.59:472][736]MapCheck: New page: Map Check
+[2018.08.07-17.06.59:472][736]LightingResults: New page: Lighting Build
+[2018.08.07-17.06.59:491][736]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001551a27b340, Size=16
+[2018.08.07-17.06.59:513][736]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MojContent/MainScreen/AnimLogoScreen) is flushing async loading
+[2018.08.07-17.06.59:530][736]LogUObjectGlobals: Created PersistentFrame Addr=0x000001554651abf0, Size=24, Default__AnimLogoScreen_C Function /Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen_C:ExecuteUbergraph_AnimLogoScreen
+[2018.08.07-17.06.59:532][736]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001554651abf0, Size=24
+[2018.08.07-17.06.59:532][736]LogUObjectGlobals: Created PersistentFrame Addr=0x000001554651abf0, Size=24, Default__AnimLogoScreen_C Function /Engine/Transient.REINST_AnimLogoScreen_C_38:ExecuteUbergraph_AnimLogoScreen
+[2018.08.07-17.06.59:534][736]LogUObjectGlobals: Created PersistentFrame Addr=0x000001554651b148, Size=24, Default__AnimLogoScreen_C Function /Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen_C:ExecuteUbergraph_AnimLogoScreen
+[2018.08.07-17.06.59:555][736]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MojContent/MainScreen/AnimMainScreen) is flushing async loading
+[2018.08.07-17.06.59:561][736]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015519a94850, Size=48, Default__AnimMainScreen_C Function /Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen_C:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.06.59:564][736]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015519a94850, Size=48
+[2018.08.07-17.06.59:564][736]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015519a94850, Size=48, Default__AnimMainScreen_C Function /Engine/Transient.REINST_AnimMainScreen_C_42:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.06.59:566][736]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155587bebb0, Size=40, Default__AnimMainScreen_C Function /Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen_C:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.06.59:573][736]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MojContent/MainScreen/AnimBetaScreen) is flushing async loading
+[2018.08.07-17.06.59:575][736]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.06.59:575][736]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.06.59:575][736]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.06.59:575][736]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.06.59:575][736]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.06.59:576][736]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.06.59:576][736]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.06.59:576][736]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.06.59:576][736]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015546bf0170, Size=16, Default__AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.06.59:576][736]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.06.59:576][736]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.06.59:576][736]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.06.59:577][736]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.06.59:577][736]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.06.59:577][736]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.06.59:577][736]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.06.59:577][736]LoadErrors: Failed to load /Game/MojContent/MainScreen/UMG-BetaScreen.UMG-BetaScreen_C Referenced by AnimBetaScreen
+[2018.08.07-17.06.59:577][736]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.06.59:578][736]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.06.59:578][736]LoadErrors: Failed to load /Game/MojContent/MainScreen/UMG-BetaScreen.UMG-BetaScreen_C Referenced by K2Node_CreateWidget_0
+[2018.08.07-17.06.59:578][736]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.06.59:578][736]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.06.59:578][736]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.06.59:578][736]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.06.59:578][736]LoadErrors: Failed to load /Game/MojContent/MainScreen/UMG-BetaScreen.UMG-BetaScreen_C Referenced by K2Node_VariableSet_1043
+[2018.08.07-17.06.59:578][736]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.06.59:578][736]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.06.59:579][736]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.06.59:579][736]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015546bf0170, Size=16
+[2018.08.07-17.06.59:579][736]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015546bf0170, Size=16, Default__AnimBetaScreen_C Function /Engine/Transient.REINST_AnimBetaScreen_C_44:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.06.59:598][736]LogBlueprint: Error: [Compiler PersistentLevel.AnimBetaScreen] Spawn node  Create Widget  must have a class specified.
+[2018.08.07-17.06.59:617][736]LogBlueprint: Error: [Compiler PersistentLevel.AnimBetaScreen] In use pin  UIWidget  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2018.08.07-17.06.59:617][736]LogBlueprint: Error: [Compiler PersistentLevel.AnimBetaScreen] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2018.08.07-17.06.59:617][736]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015581011c08, Size=4, Default__AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.06.59:618][736]LogBlueprint: Warning: [Compiler PersistentLevel.AnimBetaScreen] [0060,94] Compile of PersistentLevel.AnimBetaScreen failed. 3 Fatal Issue(s) 0 Warning(s) [in 39 ms] (/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel.AnimBetaScreen)
+[2018.08.07-17.06.59:685][736]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.07-17.06.59:721][736]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001554651abf0, Size=24
+[2018.08.07-17.06.59:721][736]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015546bf0170, Size=16
+[2018.08.07-17.06.59:721][736]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015519a94850, Size=48
+[2018.08.07-17.06.59:744][736]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.07-17.06.59:814][736]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69,793ms to complete.
+[2018.08.07-17.06.59:814][736]LogFileHelpers: Loading map 'Main' took 0.344
+[2018.08.07-17.07.07:357][633]LogSlate: Window 'Message Log' being destroyed
+[2018.08.07-17.07.07:361][633]LogSlate: Window 'Message Log' being destroyed
+[2018.08.07-17.07.08:502][765]Cmd: MAP LOAD FILE="C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/AnimBetaScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.07-17.07.08:502][765]LightingResults: New page: Lighting Build
+[2018.08.07-17.07.08:503][765]LoadErrors: New page: Loading map: AnimBetaScreen.umap
+[2018.08.07-17.07.08:504][765]MapCheck: New page: Map Check
+[2018.08.07-17.07.08:504][765]LightingResults: New page: Lighting Build
+[2018.08.07-17.07.08:522][765]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001554651b148, Size=24
+[2018.08.07-17.07.08:522][765]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155587bebb0, Size=40
+[2018.08.07-17.07.08:522][765]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015581010858, Size=8
+[2018.08.07-17.07.08:523][765]LogAIModule: Creating AISystem for world AnimBetaScreen
+[2018.08.07-17.07.08:589][765]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.07-17.07.08:635][765]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.07-17.07.08:699][765]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64,39ms to complete.
+[2018.08.07-17.07.08:700][765]LogFileHelpers: Loading map 'AnimBetaScreen' took 0.200
+[2018.08.07-17.07.09:972][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015538f388d0, Size=8, Default__Main_C Function /Game/MojContent/MainScreen/Main.Main_C:ExecuteUbergraph_Main
+[2018.08.07-17.07.09:973][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015538f388d0, Size=8
+[2018.08.07-17.07.09:973][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015538f388d0, Size=8, Default__Main_C Function /Engine/Transient.REINST_Main_C_46:ExecuteUbergraph_Main
+[2018.08.07-17.07.09:974][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015538f38590, Size=8, Default__Main_C Function /Game/MojContent/MainScreen/Main.Main_C:ExecuteUbergraph_Main
+[2018.08.07-17.07.09:985][911]LogAIModule: Creating AISystem for world Main
+[2018.08.07-17.07.10:007][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015538f388d0, Size=8
+[2018.08.07-17.07.10:008][911]Cmd: MAP LOAD FILE="C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.07-17.07.10:008][911]LightingResults: New page: Lighting Build
+[2018.08.07-17.07.10:009][911]LoadErrors: New page: Loading map: Main.umap
+[2018.08.07-17.07.10:009][911]MapCheck: New page: Map Check
+[2018.08.07-17.07.10:009][911]LightingResults: New page: Lighting Build
+[2018.08.07-17.07.10:027][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015581011c08, Size=4
+[2018.08.07-17.07.10:030][911]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MojContent/MainScreen/AnimLogoScreen) is flushing async loading
+[2018.08.07-17.07.10:033][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015557fe6200, Size=24, Default__AnimLogoScreen_C Function /Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen_C:ExecuteUbergraph_AnimLogoScreen
+[2018.08.07-17.07.10:035][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015557fe6200, Size=24
+[2018.08.07-17.07.10:035][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015557fe6200, Size=24, Default__AnimLogoScreen_C Function /Engine/Transient.REINST_AnimLogoScreen_C_48:ExecuteUbergraph_AnimLogoScreen
+[2018.08.07-17.07.10:036][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015557fe5b40, Size=24, Default__AnimLogoScreen_C Function /Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen_C:ExecuteUbergraph_AnimLogoScreen
+[2018.08.07-17.07.10:042][911]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MojContent/MainScreen/AnimMainScreen) is flushing async loading
+[2018.08.07-17.07.10:046][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015557eb40d0, Size=48, Default__AnimMainScreen_C Function /Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen_C:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.07.10:047][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015557eb40d0, Size=48
+[2018.08.07-17.07.10:047][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015557eb40d0, Size=48, Default__AnimMainScreen_C Function /Engine/Transient.REINST_AnimMainScreen_C_50:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.07.10:049][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015557f07150, Size=40, Default__AnimMainScreen_C Function /Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen_C:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.07.10:056][911]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MojContent/MainScreen/AnimBetaScreen) is flushing async loading
+[2018.08.07-17.07.10:058][911]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.10:058][911]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.10:058][911]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.10:058][911]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.10:058][911]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.10:058][911]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.10:058][911]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.10:058][911]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.10:059][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015526300c30, Size=16, Default__AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.07.10:059][911]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.10:059][911]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.10:059][911]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.10:059][911]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.10:059][911]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.10:059][911]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.10:059][911]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.10:059][911]LoadErrors: Failed to load /Game/MojContent/MainScreen/UMG-BetaScreen.UMG-BetaScreen_C Referenced by AnimBetaScreen
+[2018.08.07-17.07.10:060][911]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.10:060][911]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.10:060][911]LoadErrors: Failed to load /Game/MojContent/MainScreen/UMG-BetaScreen.UMG-BetaScreen_C Referenced by K2Node_CreateWidget_0
+[2018.08.07-17.07.10:060][911]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.10:060][911]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.10:060][911]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.10:061][911]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.10:061][911]LoadErrors: Failed to load /Game/MojContent/MainScreen/UMG-BetaScreen.UMG-BetaScreen_C Referenced by K2Node_VariableSet_1043
+[2018.08.07-17.07.10:061][911]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.10:061][911]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.10:061][911]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.10:061][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015526300c30, Size=16
+[2018.08.07-17.07.10:062][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015526300c30, Size=16, Default__AnimBetaScreen_C Function /Engine/Transient.REINST_AnimBetaScreen_C_52:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.07.10:062][911]LogBlueprint: Error: [Compiler PersistentLevel.AnimBetaScreen] Spawn node  Create Widget  must have a class specified.
+[2018.08.07-17.07.10:063][911]LogBlueprint: Error: [Compiler PersistentLevel.AnimBetaScreen] In use pin  UIWidget  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2018.08.07-17.07.10:063][911]LogBlueprint: Error: [Compiler PersistentLevel.AnimBetaScreen] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2018.08.07-17.07.10:063][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015538f382d0, Size=4, Default__AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.07.10:063][911]LogBlueprint: Warning: [Compiler PersistentLevel.AnimBetaScreen] [0071,39] Compile of PersistentLevel.AnimBetaScreen failed. 3 Fatal Issue(s) 0 Warning(s) [in 1 ms] (/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel.AnimBetaScreen)
+[2018.08.07-17.07.10:162][911]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.07-17.07.10:204][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015557eb40d0, Size=48
+[2018.08.07-17.07.10:204][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015526300c30, Size=16
+[2018.08.07-17.07.10:204][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015557fe6200, Size=24
+[2018.08.07-17.07.10:229][911]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.07-17.07.10:295][911]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65,354ms to complete.
+[2018.08.07-17.07.10:295][911]LogFileHelpers: Loading map 'Main' took 0.287
+[2018.08.07-17.07.12:460][165]LogSlate: Window 'Message Log' being destroyed
+[2018.08.07-17.07.12:466][165]LogSlate: Window 'Message Log' being destroyed
+[2018.08.07-17.07.19:224][966]Cmd: MAP LOAD FILE="C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/AnimBetaScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.07-17.07.19:224][966]LightingResults: New page: Lighting Build
+[2018.08.07-17.07.19:225][966]LoadErrors: New page: Loading map: AnimBetaScreen.umap
+[2018.08.07-17.07.19:226][966]MapCheck: New page: Map Check
+[2018.08.07-17.07.19:226][966]LightingResults: New page: Lighting Build
+[2018.08.07-17.07.19:244][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015557f07150, Size=40
+[2018.08.07-17.07.19:244][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015557fe5b40, Size=24
+[2018.08.07-17.07.19:244][966]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015538f38590, Size=8
+[2018.08.07-17.07.19:246][966]LogAIModule: Creating AISystem for world AnimBetaScreen
+[2018.08.07-17.07.19:341][966]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.07-17.07.19:384][966]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.07-17.07.19:451][966]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66,396ms to complete.
+[2018.08.07-17.07.19:451][966]LogFileHelpers: Loading map 'AnimBetaScreen' took 0.228
+[2018.08.07-17.07.22:478][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-17.07.24:735][586]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015581013260, Size=8, Default__Main_C Function /Game/MojContent/MainScreen/Main.Main_C:ExecuteUbergraph_Main
+[2018.08.07-17.07.24:736][586]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015581013260, Size=8
+[2018.08.07-17.07.24:736][586]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015581013260, Size=8, Default__Main_C Function /Engine/Transient.REINST_Main_C_54:ExecuteUbergraph_Main
+[2018.08.07-17.07.24:737][586]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015581012ca0, Size=8, Default__Main_C Function /Game/MojContent/MainScreen/Main.Main_C:ExecuteUbergraph_Main
+[2018.08.07-17.07.24:748][586]LogAIModule: Creating AISystem for world Main
+[2018.08.07-17.07.24:770][586]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015581013260, Size=8
+[2018.08.07-17.07.24:772][586]Cmd: MAP LOAD FILE="C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.07-17.07.24:772][586]LightingResults: New page: Lighting Build
+[2018.08.07-17.07.24:773][586]LoadErrors: New page: Loading map: Main.umap
+[2018.08.07-17.07.24:773][586]MapCheck: New page: Map Check
+[2018.08.07-17.07.24:773][586]LightingResults: New page: Lighting Build
+[2018.08.07-17.07.24:791][586]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015538f382d0, Size=4
+[2018.08.07-17.07.24:794][586]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MojContent/MainScreen/AnimLogoScreen) is flushing async loading
+[2018.08.07-17.07.24:797][586]LogUObjectGlobals: Created PersistentFrame Addr=0x000001554f0e7f40, Size=24, Default__AnimLogoScreen_C Function /Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen_C:ExecuteUbergraph_AnimLogoScreen
+[2018.08.07-17.07.24:799][586]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001554f0e7f40, Size=24
+[2018.08.07-17.07.24:799][586]LogUObjectGlobals: Created PersistentFrame Addr=0x000001554f0e7f40, Size=24, Default__AnimLogoScreen_C Function /Engine/Transient.REINST_AnimLogoScreen_C_56:ExecuteUbergraph_AnimLogoScreen
+[2018.08.07-17.07.24:800][586]LogUObjectGlobals: Created PersistentFrame Addr=0x000001558df8dd50, Size=24, Default__AnimLogoScreen_C Function /Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen_C:ExecuteUbergraph_AnimLogoScreen
+[2018.08.07-17.07.24:806][586]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MojContent/MainScreen/AnimMainScreen) is flushing async loading
+[2018.08.07-17.07.24:810][586]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015557f03820, Size=48, Default__AnimMainScreen_C Function /Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen_C:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.07.24:812][586]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015557f03820, Size=48
+[2018.08.07-17.07.24:812][586]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015557f03820, Size=48, Default__AnimMainScreen_C Function /Engine/Transient.REINST_AnimMainScreen_C_58:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.07.24:813][586]LogUObjectGlobals: Created PersistentFrame Addr=0x000001554f4475d8, Size=40, Default__AnimMainScreen_C Function /Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen_C:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.07.24:820][586]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MojContent/MainScreen/AnimBetaScreen) is flushing async loading
+[2018.08.07-17.07.24:821][586]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.24:822][586]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.24:822][586]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.24:822][586]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.24:822][586]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.24:823][586]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.24:823][586]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.24:823][586]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.24:823][586]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015526301810, Size=16, Default__AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.07.24:823][586]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.24:823][586]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.24:823][586]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.24:824][586]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.24:824][586]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.24:824][586]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.24:824][586]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.24:824][586]LoadErrors: Failed to load /Game/MojContent/MainScreen/UMG-BetaScreen.UMG-BetaScreen_C Referenced by AnimBetaScreen
+[2018.08.07-17.07.24:824][586]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.24:825][586]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.24:825][586]LoadErrors: Failed to load /Game/MojContent/MainScreen/UMG-BetaScreen.UMG-BetaScreen_C Referenced by K2Node_CreateWidget_0
+[2018.08.07-17.07.24:825][586]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.24:825][586]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.24:825][586]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.24:825][586]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.24:825][586]LoadErrors: Failed to load /Game/MojContent/MainScreen/UMG-BetaScreen.UMG-BetaScreen_C Referenced by K2Node_VariableSet_1043
+[2018.08.07-17.07.24:825][586]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.24:825][586]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/UMG-BetaScreen'
+[2018.08.07-17.07.24:825][586]LogLinker: Warning: Can't find file for asset '/Game/MojContent/MainScreen/UMG-BetaScreen' while loading NULL.
+[2018.08.07-17.07.24:826][586]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015526301810, Size=16
+[2018.08.07-17.07.24:826][586]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015526301810, Size=16, Default__AnimBetaScreen_C Function /Engine/Transient.REINST_AnimBetaScreen_C_60:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.07.24:826][586]LogBlueprint: Error: [Compiler PersistentLevel.AnimBetaScreen] Spawn node  Create Widget  must have a class specified.
+[2018.08.07-17.07.24:827][586]LogBlueprint: Error: [Compiler PersistentLevel.AnimBetaScreen] In use pin  UIWidget  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2018.08.07-17.07.24:827][586]LogBlueprint: Error: [Compiler PersistentLevel.AnimBetaScreen] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2018.08.07-17.07.24:827][586]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015581010450, Size=4, Default__AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.07.24:827][586]LogBlueprint: Warning: [Compiler PersistentLevel.AnimBetaScreen] [0086,15] Compile of PersistentLevel.AnimBetaScreen failed. 3 Fatal Issue(s) 0 Warning(s) [in 1 ms] (/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel.AnimBetaScreen)
+[2018.08.07-17.07.24:961][586]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.07-17.07.24:995][586]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015526301810, Size=16
+[2018.08.07-17.07.24:995][586]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015557f03820, Size=48
+[2018.08.07-17.07.24:995][586]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001554f0e7f40, Size=24
+[2018.08.07-17.07.25:018][586]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.07-17.07.25:086][586]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67,907ms to complete.
+[2018.08.07-17.07.25:086][586]LogFileHelpers: Loading map 'Main' took 0.315
+[2018.08.07-17.07.36:100][900]LogSlate: Window 'Message Log' being destroyed
+[2018.08.07-17.07.36:105][900]LogSlate: Window 'Message Log' being destroyed
+[2018.08.07-17.07.54:357][922]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.08.07-17.07.54:359][922]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.08.07-17.08.29:223][690]LogSlate: Window 'UMG-BetaScreen*' being destroyed
+[2018.08.07-17.09.08:068][279]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.07-17.12.12:131][153]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.07-17.12.20:276][100]BlueprintLog: New page: Compile UMG-BetaScreen
+[2018.08.07-17.12.20:281][100]LogUObjectGlobals: Created PersistentFrame Addr=0x000001558e6fa3d0, Size=4, Default__UMG-BetaScreen_C Function /Game/MojContent/MainScreen/UMG-BetaScreen.UMG-BetaScreen_C:ExecuteUbergraph_UMG-BetaScreen
+[2018.08.07-17.12.26:055][772]BlueprintLog: New page: Compile UMG-BetaScreen
+[2018.08.07-17.12.26:060][772]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001558e6fa3d0, Size=4
+[2018.08.07-17.12.26:060][772]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155a01bcdf0, Size=4, UMG-BetaScreen_C_11 Function /Engine/Transient.REINST_UMG-BetaScreen_C_11:ExecuteUbergraph_UMG-BetaScreen
+[2018.08.07-17.12.26:061][772]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155a01bce18, Size=4, Default__UMG-BetaScreen_C Function /Game/MojContent/MainScreen/UMG-BetaScreen.UMG-BetaScreen_C:ExecuteUbergraph_UMG-BetaScreen
+[2018.08.07-17.12.36:478][ 15]BlueprintLog: New page: Compile UMG-BetaScreen
+[2018.08.07-17.12.36:483][ 15]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155a01bce18, Size=4
+[2018.08.07-17.12.36:483][ 15]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015593b1cfe0, Size=4, UMG-BetaScreen_C_15 Function /Engine/Transient.REINST_UMG-BetaScreen_C_13:ExecuteUbergraph_UMG-BetaScreen
+[2018.08.07-17.12.36:484][ 15]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015593b1c370, Size=4, Default__UMG-BetaScreen_C Function /Game/MojContent/MainScreen/UMG-BetaScreen.UMG-BetaScreen_C:ExecuteUbergraph_UMG-BetaScreen
+[2018.08.07-17.12.36:504][ 15]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155a01bcdf0, Size=4
+[2018.08.07-17.12.50:235][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MojContent/MainScreen/UMG-BetaScreen" FILE="C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/UMG-BetaScreen.uasset" SILENT=true
+[2018.08.07-17.12.50:250][651]LogSavePackage: Save=13.07ms
+[2018.08.07-17.12.50:250][651]LogSavePackage: Moving 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Saved/UMG-BetaScreenA9C2483747FFF45987BF1CAD26812EAA.tmp' to 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/UMG-BetaScreen.uasset'
+[2018.08.07-17.12.50:252][651]LogSavePackage: Display: Finished SavePackage C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/UMG-BetaScreen.uasset
+[2018.08.07-17.13.10:354][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-17.13.12:015][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.07-17.13.12:027][222]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2018.08.07-17.13.18:389][972]LogSlate: Window 'Levels' being destroyed
+[2018.08.07-17.13.19:524][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-17.13.40:477][559]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155a124dc20, Size=4, Default__SKEL_AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.SKEL_AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.13.43:164][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155a124dc20, Size=4
+[2018.08.07-17.13.43:164][873]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155a6c0b198, Size=4, Default__SKEL_AnimBetaScreen_C Function /Engine/Transient.REINST_SKEL_AnimBetaScreen_C_75:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.13.43:165][873]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155a6c0b150, Size=4, Default__SKEL_AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.SKEL_AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.13.52:979][ 45]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155a6c0b150, Size=4
+[2018.08.07-17.13.52:979][ 45]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155a124c628, Size=4, Default__SKEL_AnimBetaScreen_C Function /Engine/Transient.REINST_SKEL_AnimBetaScreen_C_77:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.13.52:980][ 45]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155a124d738, Size=4, Default__SKEL_AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.SKEL_AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.15.10:085][444]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.08.07-17.15.25:703][262]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.08.07-17.15.35:003][358]BlueprintLog: New page: Compile AnimMainInstance
+[2018.08.07-17.15.35:025][358]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155a124c628, Size=4
+[2018.08.07-17.15.35:025][358]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155a6c0b198, Size=4
+[2018.08.07-17.15.35:026][358]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015593b1cfe0, Size=4
+[2018.08.07-17.15.35:956][458]LogSlate: Window 'AnimMainInstance*' being destroyed
+[2018.08.07-17.16.00:016][291]BlueprintLog: New page: Compile AnimBetaScreen
+[2018.08.07-17.16.00:018][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155a124d738, Size=4
+[2018.08.07-17.16.00:018][291]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155ac65ca58, Size=4, Default__SKEL_AnimBetaScreen_C Function /Engine/Transient.REINST_SKEL_AnimBetaScreen_C_91:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.16.00:020][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015581010450, Size=4
+[2018.08.07-17.16.00:020][291]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155ac65c798, Size=4, Default__AnimBetaScreen_C Function /Engine/Transient.REINST_AnimBetaScreen_C_93:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.16.00:021][291]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155ae23a930, Size=16, Default__AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.16.00:113][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155ac65ca58, Size=4
+[2018.08.07-17.16.21:991][303]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155a6ba58c0, Size=4, Default__SKEL_UMG-MainScreen_C Function /Game/MojContent/MainScreen/UMG-MainScreen.SKEL_UMG-MainScreen_C:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.16.28:342][ 24]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155a6ba58c0, Size=4
+[2018.08.07-17.16.28:342][ 24]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b2bc82a0, Size=4, Default__SKEL_UMG-MainScreen_C Function /Engine/Transient.REINST_SKEL_UMG-MainScreen_C_15:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.16.28:342][ 24]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b2bc8308, Size=4, Default__SKEL_UMG-MainScreen_C Function /Game/MojContent/MainScreen/UMG-MainScreen.SKEL_UMG-MainScreen_C:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.17.09:775][401]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.07-17.17.10:910][534]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b2bc8308, Size=4
+[2018.08.07-17.17.10:910][534]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b5fbbbe8, Size=4, Default__SKEL_UMG-MainScreen_C Function /Engine/Transient.REINST_SKEL_UMG-MainScreen_C_16:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.17.10:911][534]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b5fbbea8, Size=4, Default__SKEL_UMG-MainScreen_C Function /Game/MojContent/MainScreen/UMG-MainScreen.SKEL_UMG-MainScreen_C:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.18.03:239][622]LogSlate: Window 'AnimMainInstance*' being destroyed
+[2018.08.07-17.18.26:147][333]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b5fbbea8, Size=4
+[2018.08.07-17.18.26:147][333]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155ac5589a8, Size=4, Default__SKEL_UMG-MainScreen_C Function /Engine/Transient.REINST_SKEL_UMG-MainScreen_C_17:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.18.26:149][333]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155ac55bd70, Size=4, Default__SKEL_UMG-MainScreen_C Function /Game/MojContent/MainScreen/UMG-MainScreen.SKEL_UMG-MainScreen_C:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.18.26:153][333]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b9664280, Size=4, Default__SKEL_AnimMainScreen_C Function /Game/MojContent/MainScreen/AnimMainScreen.SKEL_AnimMainScreen_C:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.18.34:291][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155ac55bd70, Size=4
+[2018.08.07-17.18.34:291][301]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b9664af8, Size=4, Default__SKEL_UMG-MainScreen_C Function /Engine/Transient.REINST_SKEL_UMG-MainScreen_C_18:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.18.34:292][301]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b9664ad0, Size=4, Default__SKEL_UMG-MainScreen_C Function /Game/MojContent/MainScreen/UMG-MainScreen.SKEL_UMG-MainScreen_C:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.18.34:295][301]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b9664280, Size=4
+[2018.08.07-17.18.34:295][301]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b9664280, Size=4, Default__SKEL_AnimMainScreen_C Function /Engine/Transient.REINST_SKEL_AnimMainScreen_C_106:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.18.34:296][301]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b9664f58, Size=4, Default__SKEL_AnimMainScreen_C Function /Game/MojContent/MainScreen/AnimMainScreen.SKEL_AnimMainScreen_C:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.18.43:635][418]BlueprintLog: New page: Compile UMGtoLevelBP
+[2018.08.07-17.18.43:635][418]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b9664f58, Size=4
+[2018.08.07-17.18.43:635][418]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b9664f58, Size=4, Default__SKEL_AnimMainScreen_C Function /Engine/Transient.REINST_SKEL_AnimMainScreen_C_109:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.18.43:636][418]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b9664ad0, Size=4
+[2018.08.07-17.18.43:636][418]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b9664ad0, Size=4, Default__SKEL_UMG-MainScreen_C Function /Engine/Transient.REINST_SKEL_UMG-MainScreen_C_19:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.18.43:643][418]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001554f4475d8, Size=40
+[2018.08.07-17.18.43:643][418]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155aebb3a60, Size=40, Default__AnimMainScreen_C Function /Engine/Transient.REINST_AnimMainScreen_C_114:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.18.43:646][418]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155bd84ac50, Size=48, Default__AnimMainScreen_C Function /Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen_C:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.18.43:647][418]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155aebb2f20, Size=40, Default__UMG-MainScreen_C Function /Game/MojContent/MainScreen/UMG-MainScreen.UMG-MainScreen_C:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.18.43:749][418]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b5fbbbe8, Size=4
+[2018.08.07-17.18.43:749][418]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155ac65c798, Size=4
+[2018.08.07-17.18.43:749][418]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b2bc82a0, Size=4
+[2018.08.07-17.18.43:749][418]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155ac5589a8, Size=4
+[2018.08.07-17.18.43:750][418]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b9664af8, Size=4
+[2018.08.07-17.18.43:750][418]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b9664280, Size=4
+[2018.08.07-17.18.43:750][418]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b9664ad0, Size=4
+[2018.08.07-17.18.43:750][418]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b9664f58, Size=4
+[2018.08.07-17.18.54:490][693]BlueprintLog: New page: Compile UMG-MainScreen
+[2018.08.07-17.18.54:497][693]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155aebb2f20, Size=40
+[2018.08.07-17.18.54:497][693]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b25764f8, Size=40, UMG-MainScreen_C_19 Function /Engine/Transient.REINST_UMG-MainScreen_C_22:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.18.54:498][693]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155ba0cea40, Size=48, Default__UMG-MainScreen_C Function /Game/MojContent/MainScreen/UMG-MainScreen.UMG-MainScreen_C:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.18.54:590][693]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155aebb3a60, Size=40
+[2018.08.07-17.19.19:255][550]BlueprintLog: New page: Compile UMG-MainScreen
+[2018.08.07-17.19.19:260][550]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155ba0cea40, Size=48
+[2018.08.07-17.19.19:260][550]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155ba0cea40, Size=48, UMG-MainScreen_C_23 Function /Engine/Transient.REINST_UMG-MainScreen_C_24:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.19.19:263][550]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155ba0ce800, Size=48, Default__UMG-MainScreen_C Function /Game/MojContent/MainScreen/UMG-MainScreen.UMG-MainScreen_C:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.19.19:355][550]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b25764f8, Size=40
+[2018.08.07-17.20.03:326][690]BlueprintLog: New page: Compile UMG-MainScreen
+[2018.08.07-17.20.03:334][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155ba0ce800, Size=48
+[2018.08.07-17.20.03:334][690]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155ba0ce800, Size=48, UMG-MainScreen_C_27 Function /Engine/Transient.REINST_UMG-MainScreen_C_26:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.20.03:336][690]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155ba19afc0, Size=80, Default__UMG-MainScreen_C Function /Game/MojContent/MainScreen/UMG-MainScreen.UMG-MainScreen_C:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.20.03:431][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155ba0cea40, Size=48
+[2018.08.07-17.22.07:198][308]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155baffcdc0, Size=4, Default__SKEL_UMG-MainScreen_C Function /Game/MojContent/MainScreen/UMG-MainScreen.SKEL_UMG-MainScreen_C:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.22.21:401][991]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.07-17.22.29:440][950]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155baffcdc0, Size=4
+[2018.08.07-17.22.29:440][950]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155ba135bc0, Size=4, Default__SKEL_UMG-MainScreen_C Function /Engine/Transient.REINST_SKEL_UMG-MainScreen_C_28:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.22.29:442][950]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155ba135c98, Size=4, Default__SKEL_UMG-MainScreen_C Function /Game/MojContent/MainScreen/UMG-MainScreen.SKEL_UMG-MainScreen_C:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.23.18:824][847]BlueprintLog: New page: Compile UMG-MainScreen
+[2018.08.07-17.23.18:828][847]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155ba135c98, Size=4
+[2018.08.07-17.23.18:828][847]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155baffd6f0, Size=4, Default__SKEL_UMG-MainScreen_C Function /Engine/Transient.REINST_SKEL_UMG-MainScreen_C_29:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.23.18:833][847]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155ba19afc0, Size=80
+[2018.08.07-17.23.18:833][847]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b9628cc0, Size=80, UMG-MainScreen_C_35 Function /Engine/Transient.REINST_UMG-MainScreen_C_30:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.23.18:837][847]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b9c31c60, Size=80, Default__UMG-MainScreen_C Function /Game/MojContent/MainScreen/UMG-MainScreen.UMG-MainScreen_C:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.23.18:938][847]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155ba0ce800, Size=48
+[2018.08.07-17.23.18:938][847]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155ba135bc0, Size=4
+[2018.08.07-17.23.18:939][847]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155baffd6f0, Size=4
+[2018.08.07-17.24.08:543][521]BlueprintLog: New page: Compile UMG-MainScreen
+[2018.08.07-17.24.08:553][521]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b9c31c60, Size=80
+[2018.08.07-17.24.08:553][521]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155c8342390, Size=80, UMG-MainScreen_C_39 Function /Engine/Transient.REINST_UMG-MainScreen_C_32:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.24.08:556][521]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155a722f420, Size=80, Default__UMG-MainScreen_C Function /Game/MojContent/MainScreen/UMG-MainScreen.UMG-MainScreen_C:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.24.58:262][320]BlueprintLog: New page: Compile UMG-MainScreen
+[2018.08.07-17.24.58:273][320]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155a722f420, Size=80
+[2018.08.07-17.24.58:273][320]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155c8342c50, Size=80, UMG-MainScreen_C_43 Function /Engine/Transient.REINST_UMG-MainScreen_C_34:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.24.58:276][320]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155c27f6070, Size=80, Default__UMG-MainScreen_C Function /Game/MojContent/MainScreen/UMG-MainScreen.UMG-MainScreen_C:ExecuteUbergraph_UMG-MainScreen
+[2018.08.07-17.24.58:377][320]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155c8342390, Size=80
+[2018.08.07-17.25.01:482][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MojContent/MainScreen/UMG-MainScreen" FILE="C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/UMG-MainScreen.uasset" SILENT=true
+[2018.08.07-17.25.01:533][670]LogSavePackage: Save=30.04ms
+[2018.08.07-17.25.01:533][670]LogSavePackage: Moving 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Saved/UMG-MainScreen9717645F46A7A6A01C26FCB284D028C0.tmp' to 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/UMG-MainScreen.uasset'
+[2018.08.07-17.25.01:535][670]LogSavePackage: Display: Finished SavePackage C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/UMG-MainScreen.uasset
+[2018.08.07-17.25.38:389][ 60]LogSlate: Window 'Color Picker' being destroyed
+[2018.08.07-17.25.51:199][576]BlueprintLog: New page: Compile UMG-LogoScreen
+[2018.08.07-17.25.51:228][576]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155c8342c50, Size=80
+[2018.08.07-17.26.12:550][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-17.26.14:341][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MojContent/MainScreen/UMG-LogoScreen" FILE="C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/UMG-LogoScreen.uasset" SILENT=true
+[2018.08.07-17.26.14:366][259]LogSavePackage: Save=8.06ms
+[2018.08.07-17.26.14:366][259]LogSavePackage: Moving 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Saved/UMG-LogoScreenB0F3362846EBB56E94A0249355331F79.tmp' to 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/UMG-LogoScreen.uasset'
+[2018.08.07-17.26.14:370][259]LogSavePackage: Display: Finished SavePackage C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/UMG-LogoScreen.uasset
+[2018.08.07-17.26.21:681][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MojContent/MainScreen/UMGtoLevelBP" FILE="C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/UMGtoLevelBP.uasset" SILENT=true
+[2018.08.07-17.26.21:699][ 93]LogSavePackage: Save=2.84ms
+[2018.08.07-17.26.21:699][ 93]LogSavePackage: Moving 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Saved/UMGtoLevelBPD586B19A4B92DB6F81D0EAB137619E5C.tmp' to 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/UMGtoLevelBP.uasset'
+[2018.08.07-17.26.21:701][ 93]LogSavePackage: Display: Finished SavePackage C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/UMGtoLevelBP.uasset
+[2018.08.07-17.26.25:959][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MojContent/MainScreen/AnimMainInstance" FILE="C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/AnimMainInstance.uasset" SILENT=true
+[2018.08.07-17.26.25:962][565]LogSavePackage: Save=2.11ms
+[2018.08.07-17.26.25:962][565]LogSavePackage: Moving 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Saved/AnimMainInstanceF63319D742495882679BCC9F09649B5C.tmp' to 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/AnimMainInstance.uasset'
+[2018.08.07-17.26.25:965][565]LogSavePackage: Display: Finished SavePackage C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/AnimMainInstance.uasset
+[2018.08.07-17.26.26:563][635]LogSlate: Window 'AnimMainInstance' being destroyed
+[2018.08.07-17.26.29:451][743]LogSlate: Window 'Save Content' being destroyed
+[2018.08.07-17.26.32:546][ 77]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155bd84ac50, Size=48
+[2018.08.07-17.26.32:546][ 77]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b3489750, Size=48, Default__AnimMainScreen_C Function /Engine/Transient.REINST_AnimMainScreen_C_152:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.26.32:548][ 77]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b348b970, Size=48, Default__AnimMainScreen_C Function /Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen_C:ExecuteUbergraph_AnimMainScreen
+[2018.08.07-17.26.32:549][ 77]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: AnimMainScreen, Actor: /Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen:PersistentLevel.REINST_AnimMainScreen_C_0
+[2018.08.07-17.26.32:643][ 77]LogSavePackage: Save=107.24ms
+[2018.08.07-17.26.32:643][ 77]LogSavePackage: Moving 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Saved/AnimMainScreen26B6951440C7A5D3CCF3139C946BAC8E.tmp' to 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/AnimMainScreen.umap'
+[2018.08.07-17.26.32:646][ 77]LogSavePackage: Display: Finished SavePackage C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/AnimMainScreen.umap
+[2018.08.07-17.26.32:647][ 77]LogFileHelpers: Saving map 'AnimMainScreen' took 0.215
+[2018.08.07-17.26.34:591][280]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b3489750, Size=48
+[2018.08.07-17.26.34:611][280]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155ae23a930, Size=16
+[2018.08.07-17.26.34:611][280]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155c47cbf40, Size=16, Default__AnimBetaScreen_C Function /Engine/Transient.REINST_AnimBetaScreen_C_156:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.26.34:612][280]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155c47c88e0, Size=16, Default__AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.26.34:613][280]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: AnimBetaScreen, Actor: /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel.REINST_AnimBetaScreen_C_0
+[2018.08.07-17.26.34:706][280]LogSavePackage: Save=99.40ms
+[2018.08.07-17.26.34:706][280]LogSavePackage: Moving 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Saved/AnimBetaScreenF68DD59E4D633DF71E6E03A7DA300661.tmp' to 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/AnimBetaScreen.umap'
+[2018.08.07-17.26.34:710][280]LogSavePackage: Display: Finished SavePackage C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/AnimBetaScreen.umap
+[2018.08.07-17.26.34:711][280]LogFileHelpers: Saving map 'AnimBetaScreen' took 0.211
+[2018.08.07-17.26.40:362][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-17.27.36:690][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-17.30.23:851][289]BlueprintLog: New page: Compile AnimBetaScreen
+[2018.08.07-17.30.23:858][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155c47c88e0, Size=16
+[2018.08.07-17.30.23:858][289]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155d5772050, Size=16, AnimBetaScreen_C_0 Function /Engine/Transient.REINST_AnimBetaScreen_C_160:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.30.23:859][289]LogBlueprint: Error: [Compiler PersistentLevel.AnimBetaScreen] This blueprint (self) is not a AnimMainInstance_C, therefore ' Target ' must have a connection.
+[2018.08.07-17.30.23:859][289]LogBlueprint: Error: [Compiler PersistentLevel.AnimBetaScreen] Variable node  Get LevelToLoad  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.08.07-17.30.23:859][289]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155d5771ed0, Size=16, Default__AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.30.23:957][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155c47cbf40, Size=16
+[2018.08.07-17.30.23:967][289]LogBlueprint: Warning: [Compiler PersistentLevel.AnimBetaScreen] [1465,29] Compile of PersistentLevel.AnimBetaScreen failed. 2 Fatal Issue(s) 0 Warning(s) [in 115 ms] (/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel.AnimBetaScreen)
+[2018.08.07-17.31.57:365][420]LogSlate: Window 'AnimMainInstance' being destroyed
+[2018.08.07-17.35.53:675][836]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.08.07-17.35.53:679][836]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.08.07-17.35.56:470][ 24]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.08.07-17.35.56:602][ 25]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.neptunia2
+[2018.08.07-17.35.56:602][ 25]LogTemp: CWD: D:\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.08.07-17.35.56:602][ 25]LogTemp: Initial Dir: D:\Epic Games\UE_4.19
+[2018.08.07-17.35.56:602][ 25]LogTemp: Env CWD: D:\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.08.07-17.35.56:602][ 25]LogTemp: BranchPath = DESKTOP-PVFDNGS/D/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-PVFDNGS/D/Epic Games/UE_4.19/Engine/Binaries
+[2018.08.07-17.35.56:602][ 25]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\ODEO\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.08.07-17.36.05:487][ 42]LogLinker: Warning: Can't find file '/Game/MojContent/Scripts/NewGameInstance'
+[2018.08.07-17.36.05:487][ 42]LogLinker: Warning: Can't find file '/Game/MojContent/Scripts/NewGameInstance'
+[2018.08.07-17.36.05:487][ 42]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/MojContent/Scripts/NewGameInstance.NewGameInstance_C'
+[2018.08.07-17.36.07:097][228]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.07-17.36.09:753][527]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.07-17.36.09:757][527]LogSlate: Window 'Project Settings' being destroyed
+[2018.08.07-17.36.44:790][492]BlueprintLog: New page: Compile AnimBetaScreen
+[2018.08.07-17.36.44:796][492]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155d5771ed0, Size=16
+[2018.08.07-17.36.44:796][492]LogUObjectGlobals: Created PersistentFrame Addr=0x000001554e8bc710, Size=16, Default__AnimBetaScreen_C Function /Engine/Transient.REINST_AnimBetaScreen_C_166:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.36.44:797][492]LogBlueprint: Error: [Compiler PersistentLevel.AnimBetaScreen] This blueprint (self) is not a AnimMainInstance_C, therefore ' Target ' must have a connection.
+[2018.08.07-17.36.44:797][492]LogBlueprint: Error: [Compiler PersistentLevel.AnimBetaScreen] Variable node  Get LevelToLoad  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.08.07-17.36.44:797][492]LogUObjectGlobals: Created PersistentFrame Addr=0x000001554e8bcc50, Size=16, Default__AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.36.44:894][492]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155d5772050, Size=16
+[2018.08.07-17.36.44:904][492]LogBlueprint: Warning: [Compiler PersistentLevel.AnimBetaScreen] [1846,23] Compile of PersistentLevel.AnimBetaScreen failed. 2 Fatal Issue(s) 0 Warning(s) [in 114 ms] (/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel.AnimBetaScreen)
+[2018.08.07-17.37.54:142][727]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.07-17.38.06:596][214]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155aa53baa8, Size=4, Default__SKEL_AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.SKEL_AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.38.21:664][776]LogSlate: Window 'Message' being destroyed
+[2018.08.07-17.38.21:669][776]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155aa53baa8, Size=4
+[2018.08.07-17.38.21:669][776]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b88e57e0, Size=4, Default__SKEL_AnimBetaScreen_C Function /Engine/Transient.REINST_SKEL_AnimBetaScreen_C_170:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.38.21:670][776]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155b88e5a30, Size=4, Default__SKEL_AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.SKEL_AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.38.27:044][415]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b88e5a30, Size=4
+[2018.08.07-17.38.27:045][415]LogUObjectGlobals: Created PersistentFrame Addr=0x000001557e5a11c8, Size=4, Default__SKEL_AnimBetaScreen_C Function /Engine/Transient.REINST_SKEL_AnimBetaScreen_C_172:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.38.27:046][415]LogUObjectGlobals: Created PersistentFrame Addr=0x000001557e5a24e0, Size=4, Default__SKEL_AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.SKEL_AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.39.31:969][  9]BlueprintLog: New page: Compile AnimBetaScreen
+[2018.08.07-17.39.31:972][  9]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001557e5a24e0, Size=4
+[2018.08.07-17.39.31:972][  9]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015569e69228, Size=4, Default__SKEL_AnimBetaScreen_C Function /Engine/Transient.REINST_SKEL_AnimBetaScreen_C_174:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.39.31:974][  9]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001554e8bcc50, Size=16
+[2018.08.07-17.39.31:975][  9]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155d5771cc0, Size=16, AnimBetaScreen_C_1 Function /Engine/Transient.REINST_AnimBetaScreen_C_176:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.39.31:976][  9]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155e74784f0, Size=48, Default__AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.39.32:071][  9]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015569e69228, Size=4
+[2018.08.07-17.39.32:071][  9]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001554e8bc710, Size=16
+[2018.08.07-17.39.32:071][  9]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001557e5a11c8, Size=4
+[2018.08.07-17.39.32:071][  9]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b88e57e0, Size=4
+[2018.08.07-17.41.52:803][251]BlueprintLog: New page: Compile UMG-LogoScreen
+[2018.08.07-17.41.52:810][251]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155ac65d218, Size=4, Default__UMG-LogoScreen_C Function /Game/MojContent/MainScreen/UMG-LogoScreen.UMG-LogoScreen_C:ExecuteUbergraph_UMG-LogoScreen
+[2018.08.07-17.41.52:833][251]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155d5771cc0, Size=16
+[2018.08.07-17.42.35:983][299]BlueprintLog: New page: Compile AnimBetaScreen
+[2018.08.07-17.42.35:990][299]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155e74784f0, Size=48
+[2018.08.07-17.42.35:990][299]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155f36a0c40, Size=48, Default__AnimBetaScreen_C Function /Engine/Transient.REINST_AnimBetaScreen_C_184:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.42.35:992][299]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155f36a13f0, Size=48, Default__AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.43.04:330][878]BlueprintLog: New page: Compile AnimBetaScreen
+[2018.08.07-17.43.04:337][878]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155f36a13f0, Size=48
+[2018.08.07-17.43.04:338][878]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155e8993700, Size=48, AnimBetaScreen_C_2 Function /Engine/Transient.REINST_AnimBetaScreen_C_188:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.43.04:340][878]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155e8993d00, Size=48, Default__AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.43.04:432][878]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155f36a0c40, Size=48
+[2018.08.07-17.44.47:608][243]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155d1a170d0, Size=16, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.08.07-17.44.47:609][243]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155d1a170d0, Size=16
+[2018.08.07-17.44.47:609][243]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155d1a170d0, Size=16, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_190:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.08.07-17.44.47:610][243]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155d1a17e90, Size=16, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.08.07-17.44.47:644][243]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.07-17.44.54:292][ 29]BlueprintLog: New page: Compile AnimBetaScreen
+[2018.08.07-17.44.54:301][ 29]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155e8993d00, Size=48
+[2018.08.07-17.44.54:301][ 29]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155fa63ddb0, Size=48, Default__AnimBetaScreen_C Function /Engine/Transient.REINST_AnimBetaScreen_C_194:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.44.54:303][ 29]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155fa63c940, Size=48, Default__AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.44.54:401][ 29]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155e8993700, Size=48
+[2018.08.07-17.44.54:401][ 29]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155d1a170d0, Size=16
+[2018.08.07-17.44.55:030][ 88]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155fa63ddb0, Size=48
+[2018.08.07-17.44.55:060][ 88]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155fa63c940, Size=48
+[2018.08.07-17.44.55:060][ 88]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155fa63c940, Size=48, Default__AnimBetaScreen_C Function /Engine/Transient.REINST_AnimBetaScreen_C_198:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.44.55:062][ 88]LogUObjectGlobals: Created PersistentFrame Addr=0x00000155fa63e740, Size=48, Default__AnimBetaScreen_C Function /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C:ExecuteUbergraph_AnimBetaScreen
+[2018.08.07-17.44.55:062][ 88]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: AnimBetaScreen, Actor: /Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel.REINST_AnimBetaScreen_C_0
+[2018.08.07-17.44.55:168][ 88]LogSavePackage: Save=118.76ms
+[2018.08.07-17.44.55:168][ 88]LogSavePackage: Moving 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Saved/AnimBetaScreenF409640C4D2FBDF0E5017FB7758C7B1F.tmp' to 'C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/AnimBetaScreen.umap'
+[2018.08.07-17.44.55:172][ 88]LogSavePackage: Display: Finished SavePackage C:/Users/ODEO/Documents/Unreal Projects/neptunia2/Content/MojContent/MainScreen/AnimBetaScreen.umap
+[2018.08.07-17.44.55:174][ 88]LogFileHelpers: Saving map 'AnimBetaScreen' took 0.234
+[2018.08.07-17.45.02:298][928]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.07-17.45.02:319][928]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MojContent/MainScreen/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/MojContent/MainScreen/Main.Main_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/Main.Main:PersistentLevel.Main'
+[2018.08.07-17.45.02:319][928]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen:PersistentLevel.AnimLogoScreen' with GeneratedClass '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen:PersistentLevel.AnimLogoScreen'
+[2018.08.07-17.45.02:319][928]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen:PersistentLevel.AnimMainScreen' with GeneratedClass '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen:PersistentLevel.AnimMainScreen'
+[2018.08.07-17.45.02:319][928]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel.AnimBetaScreen' with GeneratedClass '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel.AnimBetaScreen'
+[2018.08.07-17.45.02:319][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.07-17.45.02:320][928]PIE: New page: PIE session: Main (7 sie 2018, 21:45:02)
+[2018.08.07-17.45.02:320][928]LogPlayLevel: Creating play world package: /Game/MojContent/MainScreen/UEDPIE_0_Main
+[2018.08.07-17.45.02:325][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005389s)
+[2018.08.07-17.45.02:326][928]LogAIModule: Creating AISystem for world Main
+[2018.08.07-17.45.02:326][928]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.08.07-17.45.02:326][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MojContent/MainScreen/Main.Main to /Game/MojContent/MainScreen/UEDPIE_0_Main.Main (0.006293s)
+[2018.08.07-17.45.02:350][928]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155fa63c940, Size=48
+[2018.08.07-17.45.02:369][928]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.07-17.45.02:382][928]LogInit: FAudioDevice initialized.
+[2018.08.07-17.45.02:428][928]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.07-17.45.02:429][928]LogWorld: Bringing World /Game/MojContent/MainScreen/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.08.07-19.45.02
+[2018.08.07-17.45.02:429][928]LogWorld: Bringing up level for play took: 0.000643
+[2018.08.07-17.45.02:435][928]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.08.07-17.45.02:437][928]LogLevel: ActivateLevel /Game/MojContent/MainScreen/UEDPIE_0_AnimLogoScreen 1 1 0
+[2018.08.07-17.45.02:437][928]PIE: Play in editor start time for /Game/MojContent/MainScreen/UEDPIE_0_Main -0,854
+[2018.08.07-17.45.02:437][928]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MojContent/MainScreen/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/MojContent/MainScreen/Main.Main_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/Main.Main:PersistentLevel.Main'
+[2018.08.07-17.45.02:437][928]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen:PersistentLevel.AnimLogoScreen' with GeneratedClass '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen:PersistentLevel.AnimLogoScreen'
+[2018.08.07-17.45.02:437][928]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen:PersistentLevel.AnimMainScreen' with GeneratedClass '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen:PersistentLevel.AnimMainScreen'
+[2018.08.07-17.45.02:437][928]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel.AnimBetaScreen' with GeneratedClass '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel.AnimBetaScreen'
+[2018.08.07-17.45.08:303][622]LogLevel: ActivateLevel /Game/MojContent/MainScreen/UEDPIE_0_AnimLogoScreen 0 0 0
+[2018.08.07-17.45.08:344][623]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000155b9628cc0, Size=80
+[2018.08.07-17.45.14:578][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MojContent/MainScreen/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/MojContent/MainScreen/Main.Main_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/Main.Main:PersistentLevel.Main'
+[2018.08.07-17.45.14:578][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen:PersistentLevel.AnimLogoScreen' with GeneratedClass '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen:PersistentLevel.AnimLogoScreen'
+[2018.08.07-17.45.14:578][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen:PersistentLevel.AnimMainScreen' with GeneratedClass '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen:PersistentLevel.AnimMainScreen'
+[2018.08.07-17.45.14:578][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel.AnimBetaScreen' with GeneratedClass '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel.AnimBetaScreen'
+[2018.08.07-17.45.14:612][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MojContent/MainScreen/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/MojContent/MainScreen/Main.Main_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/Main.Main:PersistentLevel.Main'
+[2018.08.07-17.45.14:612][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen:PersistentLevel.AnimLogoScreen' with GeneratedClass '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/AnimLogoScreen.AnimLogoScreen:PersistentLevel.AnimLogoScreen'
+[2018.08.07-17.45.14:612][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen:PersistentLevel.AnimMainScreen' with GeneratedClass '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/AnimMainScreen.AnimMainScreen:PersistentLevel.AnimMainScreen'
+[2018.08.07-17.45.14:612][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel.AnimBetaScreen' with GeneratedClass '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/AnimBetaScreen.AnimBetaScreen:PersistentLevel.AnimBetaScreen'
+[2018.08.07-17.45.15:409][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.07-17.46.10:164][940]LogUObjectBase: Warning: Object is not registered
+[2018.08.07-17.46.10:451][940]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.287 s
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: === Handled ensure: ===
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: 
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: Stack: 
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x000000002DA6B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x000000002D7CAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x000000002D7DECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x0000000027BB3DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x0000000025FBB2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x000000002523C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x00000000250C77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x00000000250CAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x0000000025206E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x0000000029EC6057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x0000000029ECBB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x000000002A0FC253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x0000000029F20475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x0000000029EF8360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x0000000029EEB197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x000000004899E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x0000000048991B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x00000000489A052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x000000004898D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x0000000068E1B85D USER32.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x0000000068E1B1EF USER32.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x00000000489A1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x00000000402C5475 UE4Editor.exe!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x00000000402D6BD0 UE4Editor.exe!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x00000000402D6C4A UE4Editor.exe!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x00000000402E4177 UE4Editor.exe!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x00000000402E5B87 UE4Editor.exe!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x0000000069011FE4 KERNEL32.DLL!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: [Callstack] 0x000000006B18F061 ntdll.dll!UnknownFunction []
+[2018.08.07-17.46.10:451][940]LogOutputDevice: Error: 
+[2018.08.07-17.46.10:456][940]LogStats:                SubmitErrorReport -  0.000 s
