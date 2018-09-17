@@ -79,5 +79,7 @@ Saved/Logs/neptunia2.log
 Saved/Logs/neptunia2.log
 Saved/Config/Windows/Engine.ini
 Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/AutoScreenshot.png
 Intermediate/CachedAssetRegistry.bin
-Intermediate/AssetRegistryCache/9f90ff24.bin
+Intermediate/AssetRegistryCache/*
+Intermediate/ReimportCache/*
