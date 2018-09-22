@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 09/22/18 14:59:16
+=======
+﻿Log file open, 09/20/18 10:49:23
+>>>>>>> master
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -10,7 +14,11 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: neptunia2
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.193730
+=======
+LogStats: Stats thread started at 0.176742
+>>>>>>> master
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -94,7 +102,11 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< HEAD
 LogStreaming: Display: Took  0.209s to configure plugins.
+=======
+LogStreaming: Display: Took  0.077s to configure plugins.
+>>>>>>> master
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -148,6 +160,7 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+<<<<<<< HEAD
 LogStreaming: Display: Took  0.023s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
@@ -1695,3 +1708,404 @@ LogInit: Object subsystem initialized
 [2018.09.22-18.05.04:009][294]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
 [2018.09.22-18.05.04:009][294]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
 [2018.09.22-18.05.04:009][294]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+=======
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.20-08.49.23:462][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.20-08.49.23:462][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.20-08.49.23:474][  0]LogHAL: Display: Platform has ~ 16 GB [17113391104 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.20-08.49.23:474][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.20-08.49.23:474][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.20-08.49.23:474][  0]LogInit: Computer: DESKTOP-OI37NI1
+[2018.09.20-08.49.23:474][  0]LogInit: User: Sevelar
+[2018.09.20-08.49.23:474][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.20-08.49.23:474][  0]LogInit: High frequency timer resolution =3.234376 MHz
+[2018.09.20-08.49.23:475][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.20-08.49.23:475][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.20-08.49.23:475][  0]LogMemory: Process Physical Memory: 100.71 MB used, 100.71 MB peak
+[2018.09.20-08.49.23:475][  0]LogMemory: Process Virtual Memory: 88.59 MB used, 88.59 MB peak
+[2018.09.20-08.49.23:475][  0]LogMemory: Physical Memory: 6975.43 MB used,  9345.17 MB free, 16320.60 MB total
+[2018.09.20-08.49.23:475][  0]LogMemory: Virtual Memory: 4624.64 MB used,  9345.17 MB free, 134217728.00 MB total
+[2018.09.20-08.49.23:488][  0]LogInit: Using OS detected language (pl-PL).
+[2018.09.20-08.49.23:488][  0]LogInit: Using OS detected locale (pl-PL).
+[2018.09.20-08.49.23:489][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2018.09.20-08.49.23:490][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2018.09.20-08.49.23:490][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.20-08.49.23:520][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.20-08.49.23:521][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.20-08.49.23:674][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.20-08.49.23:674][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.20-08.49.23:732][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.09.20-08.49.23:732][  0]LogD3D11RHI:       6052/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.20-08.49.23:733][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.20-08.49.23:733][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.20-08.49.23:733][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.20-08.49.23:739][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.20-08.49.23:740][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.20-08.49.23:740][  0]LogWindows: EnumDisplayDevices:
+[2018.09.20-08.49.23:740][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.09.20-08.49.23:740][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.09.20-08.49.23:740][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.09.20-08.49.23:740][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.09.20-08.49.23:740][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.20-08.49.23:740][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.09.20-08.49.23:740][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2018.09.20-08.49.23:740][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2018.09.20-08.49.23:740][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.09.20-08.49.23:775][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.20-08.49.23:791][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.20-08.49.23:879][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Intermediate/Shaders/WorkingDirectory/4444/).
+[2018.09.20-08.49.23:879][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Sevelar/AppData/Local/Temp/UnrealShaderWorkingDir/F64357C646B0618767AB57B1387DFA02/'.
+[2018.09.20-08.49.24:109][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.20-08.49.24:122][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.20-08.49.24:134][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.20-08.49.24:146][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.20-08.49.24:159][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.20-08.49.24:171][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.20-08.49.24:184][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.20-08.49.24:196][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.20-08.49.24:202][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.20-08.49.24:276][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.20-08.49.24:334][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.20-08.49.24:334][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.20-08.49.24:355][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.20-08.49.24:355][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.20-08.49.24:366][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.20-08.49.24:377][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.20-08.49.24:388][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.20-08.49.24:400][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.20-08.49.24:407][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.20-08.49.24:407][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.20-08.49.24:451][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.20-08.49.24:452][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.20-08.49.24:452][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.20-08.49.25:084][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.20-08.49.25:154][  0]LogDerivedDataCache: Loaded boot cache 0.07s 113MB C:/Users/Sevelar/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.20-08.49.25:155][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Sevelar/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.20-08.49.25:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.20-08.49.25:155][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.20-08.49.25:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.20-08.49.25:155][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.20-08.49.25:167][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.20-08.49.25:180][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Sevelar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.20-08.49.25:180][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.20-08.49.25:180][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.20-08.49.25:195][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.20-08.49.25:197][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.20-08.49.25:197][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.20-08.49.25:264][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.09.20-08.49.25:549][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.20-08.49.25:670][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.20-08.49.25:673][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.20-08.49.25:673][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.20-08.49.25:673][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.20-08.49.25:673][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.20-08.49.25:687][  0]LogNetVersion: neptunia2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3200340848)
+[2018.09.20-08.49.26:116][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.091705 seconds
+[2018.09.20-08.49.26:122][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.20-08.49.26:122][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.20-08.49.26:122][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.20-08.49.26:832][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `5701117B4F38F50D5C2020A6C9A28503` for Dialogue = `/Script/DlgSystem.Default__DlgDialogue` because of new created Dialogue.
+[2018.09.20-08.49.26:833][  0]LogDlgSystem: Verbose: Started DlgSystemModule
+[2018.09.20-08.49.26:837][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.20-08.49.26:850][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.20-08.49.27:008][  0]SourceControl: Source control is disabled
+[2018.09.20-08.49.27:421][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.20-08.49.27:483][  0]LogOcInput: OculusInput pre-init called
+[2018.09.20-08.49.27:489][  0]LogDlgSystemEditor: Verbose: Started DlgSystemEditorModule
+[2018.09.20-08.49.27:801][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/Game/MojContent/Scripts/VisualNovelStuff/PH01.PH01`
+[2018.09.20-08.49.27:802][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `F02FD41441A5CBFCBDCCE7A83A8896F2` for Dialogue = `/Game/MojContent/Scripts/VisualNovelStuff/PH01.PH01` because of new created Dialogue.
+[2018.09.20-08.49.27:847][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/Game/MojContent/Scripts/VisualNovelStuff/Test.Test`
+[2018.09.20-08.49.27:847][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `710FC8174DBED69C7213FEBDC3BCDD58` for Dialogue = `/Game/MojContent/Scripts/VisualNovelStuff/Test.Test` because of new created Dialogue.
+[2018.09.20-08.49.27:967][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.09.20-08.49.27:967][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `56B7CCC9470D48ACDCAF0DA249E8B8E2` for Dialogue = `/DlgSystem/TestDialogue.TestDialogue` because of new created Dialogue.
+[2018.09.20-08.49.27:970][  0]LogDlgSystem: Refreshing data for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.09.20-08.49.27:970][  0]LogDlgSystemEditor: Verbose: UDlgManager::LoadAllDialoguesIntoMemory loaded 0 Dialogues into Memory
+[2018.09.20-08.49.28:028][  0]LogEngine: Initializing Engine...
+[2018.09.20-08.49.28:029][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.20-08.49.28:030][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.20-08.49.28:030][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.20-08.49.28:030][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.20-08.49.28:030][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.20-08.49.28:222][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.20-08.49.28:232][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.20-08.49.28:245][  0]LogInit: XAudio2 using 'SONY TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.20-08.49.28:255][  0]LogInit: FAudioDevice initialized.
+[2018.09.20-08.49.28:255][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.20-08.49.28:341][  0]LogDerivedDataCache: Saved boot cache 0.09s 113MB C:/Users/Sevelar/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.20-08.49.28:350][  0]LogInit: Texture streaming: Enabled
+[2018.09.20-08.49.28:362][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.20-08.49.28:371][  0]LogInit: Transaction tracking system initialized
+[2018.09.20-08.49.28:387][  0]BlueprintLog: New page: Editor Load
+[2018.09.20-08.49.28:549][  0]LocalizationService: Localization service is disabled
+[2018.09.20-08.49.28:779][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.20-08.49.28:779][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.20-08.49.28:779][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.20-08.49.28:779][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.20-08.49.28:779][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.20-08.49.28:779][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.20-08.49.28:779][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.20-08.49.28:869][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/' took 0.02s
+[2018.09.20-08.49.28:869][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.20-08.49.28:870][  0]LightingResults: New page: Lighting Build
+[2018.09.20-08.49.28:872][  0]MapCheck: New page: Map Check
+[2018.09.20-08.49.28:872][  0]LightingResults: New page: Lighting Build
+[2018.09.20-08.49.30:445][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.20-08.49.30:458][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.20-08.49.30:488][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.20-08.49.30:575][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 87,8ms to complete.
+[2018.09.20-08.49.30:575][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.706
+[2018.09.20-08.49.30:675][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-08.49.30:681][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-08.49.30:688][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-08.49.30:694][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-08.49.30:699][  0]LogCollectionManager: Loaded 0 collections in 0.001205 seconds
+[2018.09.20-08.49.30:740][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Saved/Collections/' took 0.01s
+[2018.09.20-08.49.30:740][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/Developers/Sevelar/Collections/' took 0.01s
+[2018.09.20-08.49.30:740][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/Collections/' took 0.01s
+[2018.09.20-08.49.30:740][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.20-08.49.30:748][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2618 classes and 618 folders.
+[2018.09.20-08.49.30:754][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.20-08.49.30:785][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.20-08.49.30:791][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.09.20-08.49.30:803][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.20-08.49.30:804][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.20-08.49.30:808][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.20-08.49.30:882][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 9 NumSamples 1 (Frame:1).
+[2018.09.20-08.49.30:926][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.20-08.49.31:033][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.20-08.49.31:033][  0]LogLoad: (Engine Initialization) Total time: 8.81 seconds
+[2018.09.20-08.49.31:033][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.20-08.49.31:043][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.20-08.49.31:081][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.09.20-08.49.31:097][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/' took 0.04s
+[2018.09.20-08.49.31:105][  1]LogAssetRegistry: Asset discovery search completed in 5.8640 seconds
+[2018.09.20-08.49.31:107][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.20-08.49.31:107][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2018.09.20-08.49.32:074][ 99]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.20-08.49.33:268][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-08.49.33:372][251]LogAssetEditorManager: Opening Asset editor for DlgDialogue /Game/MojContent/Scripts/VisualNovelStuff/PH01.PH01
+[2018.09.20-08.49.33:372][251]LogDlgSystemEditor: Clicked a Dialogue = `/Game/MojContent/Scripts/VisualNovelStuff/PH01.PH01`
+[2018.09.20-08.49.33:372][251]LogDlgSystem: Compiling Dialogue = `/Game/MojContent/Scripts/VisualNovelStuff/PH01.PH01` (Graph data -> Dialogue data)`
+[2018.09.20-08.49.33:464][251]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MojContent/Scripts/VisualNovelStuff/VNDialogue02.VNDialogue02
+[2018.09.20-08.49.33:893][251]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.09.20-08.49.34:725][251]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MojContent/MainScreen/UMG-MainScreen_new.UMG-MainScreen_new
+[2018.09.20-08.49.35:040][251]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MojContent/Scripts/VisualNovelStuff/VNParticipants.VNParticipants
+[2018.09.20-08.49.35:356][251]AssetReimport: New page: Outstanding source content changes 12:49:35
+[2018.09.20-08.49.35:365][251]LogEditorFactories: Performing atomic reimport of [C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/Splash/EdSplash.png]
+[2018.09.20-08.49.35:365][251]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/Splash/EdSplash.png)
+[2018.09.20-08.49.35:482][251]LogEditorFactories: -- imported successfully
+[2018.09.20-08.49.35:495][251]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.20-08.49.35:549][252]LogEditorFactories: Performing atomic reimport of [C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/Splash/Splash.png]
+[2018.09.20-08.49.35:549][252]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/Splash/Splash.png)
+[2018.09.20-08.49.35:688][252]LogEditorFactories: -- imported successfully
+[2018.09.20-08.49.35:791][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Splash/EdSplash" FILE="../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/Splash/EdSplash.uasset" SILENT=true
+[2018.09.20-08.49.35:827][253]LogSavePackage: Moving '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Saved/EdSplash58EF4EB447A0344D81983F9117480D58.tmp' to '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/Splash/EdSplash.uasset'
+[2018.09.20-08.49.35:837][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Splash/Splash" FILE="../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/Splash/Splash.uasset" SILENT=true
+[2018.09.20-08.49.35:871][253]LogSavePackage: Moving '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Saved/Splash92885AD24E230B69E7E949AAB885D233.tmp' to '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/Splash/Splash.uasset'
+[2018.09.20-08.49.37:700][419]LogSlate: Window 'PH01' being destroyed
+[2018.09.20-08.49.38:884][543]AssetReimport: Reimported asset EdSplash from C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/Splash/EdSplash.png.
+[2018.09.20-08.49.38:884][543]AssetReimport: Reimported asset Splash from C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/Splash/Splash.png.
+[2018.09.20-08.49.40:272][683]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.20-08.50.19:481][517]LogSlate: Took 0.001492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.09.20-08.56.36:366][313]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/MojContent/Scripts/VisualNovelStuff/Assets/0025_tex_01.0025_tex_01
+[2018.09.20-08.56.36:372][313]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.09.20-08.56.38:277][506]LogSavePackage: Moving '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Saved/0025_tex_01CBD2FE054CC3664D013027A763BA12D8.tmp' to '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/MojContent/Scripts/VisualNovelStuff/Assets/0025_tex_01.uasset'
+[2018.09.20-08.56.40:640][780]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/MojContent/Scripts/VisualNovelStuff/Assets/0117_tex_00.0117_tex_00
+[2018.09.20-08.57.20:954][106]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Neptunia/2 Hyperdimension Neptunia Textures and Sprites/Cutscene Backgrounds/Megadimension Neptunia/0057_tex_00.png)
+[2018.09.20-08.57.21:011][106]LogTexture: Display: Building textures: 0057_tex_00 (AutoDXT, 1920X1080)
+[2018.09.20-08.57.24:239][208]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/MojContent/MainScreen/Assets/0057_tex_00.0057_tex_00
+[2018.09.20-08.57.27:455][577]LogTexture: Display: Building textures: 0057_tex_00 (BGRA8, 1920X1080)
+[2018.09.20-08.57.33:537][295]LogTexture: Display: Building textures: 0057_tex_00 (RGBA16F, 1920X1080)
+[2018.09.20-08.57.35:267][493]LogTexture: Display: Building textures: 0057_tex_00 (BGRA8, 1920X1080)
+[2018.09.20-08.57.37:035][663]LogSavePackage: Moving '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Saved/0057_tex_0073D94FE84CF29A3020DFFFB0D450E875.tmp' to '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/MojContent/MainScreen/Assets/0057_tex_00.uasset'
+[2018.09.20-08.57.58:200][ 56]BlueprintLog: New page: Compile UMG-MainScreen_new
+[2018.09.20-08.58.06:263][970]LogSavePackage: Moving '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Saved/UMG-MainScreen_new460D1C6B48BA73D6B3B641B4B831A57E.tmp' to '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/MojContent/MainScreen/UMG-MainScreen_new.uasset'
+[2018.09.20-08.58.09:620][365]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.20-08.58.09:656][365]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.20-08.58.09:656][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-08.58.09:669][365]PIE: New page: PIE session: ThirdPersonExampleMap (20 wrz 2018, 12:58:09)
+[2018.09.20-08.58.09:669][365]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/MainMenuGameInstace'
+[2018.09.20-08.58.09:669][365]LogLinker: Warning: Can't find file '/Game/MojContent/MainScreen/MainMenuGameInstace'
+[2018.09.20-08.58.09:669][365]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/MojContent/MainScreen/MainMenuGameInstace.MainMenuGameInstace_C'
+[2018.09.20-08.58.09:669][365]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.09.20-08.58.09:688][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018350s)
+[2018.09.20-08.58.09:689][365]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.20-08.58.09:689][365]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2018.09.20-08.58.09:689][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019724s)
+[2018.09.20-08.58.09:726][365]LogInit: XAudio2 using 'SONY TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.20-08.58.09:733][365]LogInit: FAudioDevice initialized.
+[2018.09.20-08.58.09:744][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-08.58.09:801][365]LogLoad: Game class is 'ThirdPersonGameMode1_C'
+[2018.09.20-08.58.09:804][365]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.09.20-10.58.09
+[2018.09.20-08.58.09:805][365]LogWorld: Bringing up level for play took: 0.003414
+[2018.09.20-08.58.09:825][365]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2018.09.20-08.58.09:833][365]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,719
+[2018.09.20-08.58.09:833][365]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.20-08.58.09:857][365]LogRenderer: Reallocating scene render targets to support 1292x756 Format 9 NumSamples 1 (Frame:1).
+[2018.09.20-08.58.11:217][492]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.20-08.58.11:222][492]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.20-08.58.11:257][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-08.58.11:258][492]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.09.20-08.58.11:312][493]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.09.20-08.58.15:260][952]LogAIModule: Creating AISystem for world MainScreen_new
+[2018.09.20-08.58.15:266][952]LogAssetEditorManager: Opening Asset editor for World /Game/MojContent/MainScreen/MainScreen_new.MainScreen_new
+[2018.09.20-08.58.15:300][952]Cmd: MAP LOAD FILE="../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/MojContent/MainScreen/MainScreen_new.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.20-08.58.15:300][952]LightingResults: New page: Lighting Build
+[2018.09.20-08.58.15:300][952]LoadErrors: New page: Loading map: MainScreen_new.umap
+[2018.09.20-08.58.15:301][952]MapCheck: New page: Map Check
+[2018.09.20-08.58.15:301][952]LightingResults: New page: Lighting Build
+[2018.09.20-08.58.15:333][952]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.20-08.58.15:402][952]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.20-08.58.15:506][952]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 104,888ms to complete.
+[2018.09.20-08.58.15:511][952]LogFileHelpers: Loading map 'MainScreen_new' took 0.213
+[2018.09.20-08.58.16:576][ 72]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.20-08.58.16:603][ 72]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.16:603][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-08.58.16:603][ 72]PIE: New page: PIE session: MainScreen_new (20 wrz 2018, 12:58:16)
+[2018.09.20-08.58.16:604][ 72]LogPlayLevel: Creating play world package: /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new
+[2018.09.20-08.58.16:605][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000996s)
+[2018.09.20-08.58.16:605][ 72]LogAIModule: Creating AISystem for world MainScreen_new
+[2018.09.20-08.58.16:605][ 72]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2018.09.20-08.58.16:605][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MojContent/MainScreen/MainScreen_new.MainScreen_new to /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new.MainScreen_new (0.001647s)
+[2018.09.20-08.58.16:643][ 72]LogInit: XAudio2 using 'SONY TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.20-08.58.16:649][ 72]LogInit: FAudioDevice initialized.
+[2018.09.20-08.58.16:659][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-08.58.16:706][ 72]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.20-08.58.16:707][ 72]LogWorld: Bringing World /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new.MainScreen_new up for play (max tick rate 0) at 2018.09.20-10.58.16
+[2018.09.20-08.58.16:707][ 72]LogWorld: Bringing up level for play took: 0.000368
+[2018.09.20-08.58.16:722][ 72]PIE: Play in editor start time for /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new -0,391
+[2018.09.20-08.58.16:722][ 72]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.18:600][289]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.20-08.58.18:605][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.18:638][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-08.58.18:638][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.18:686][290]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.09.20-08.58.19:533][390]LogAssetEditorManager: Opening Asset editor for World /Game/MojContent/MainScreen/MainScreen_new.MainScreen_new
+[2018.09.20-08.58.19:564][390]Cmd: MAP LOAD FILE="../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/MojContent/MainScreen/MainScreen_new.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.20-08.58.19:564][390]LightingResults: New page: Lighting Build
+[2018.09.20-08.58.19:565][390]LoadErrors: New page: Loading map: MainScreen_new.umap
+[2018.09.20-08.58.19:565][390]MapCheck: New page: Map Check
+[2018.09.20-08.58.19:565][390]LightingResults: New page: Lighting Build
+[2018.09.20-08.58.19:607][390]LogAIModule: Creating AISystem for world MainScreen_new
+[2018.09.20-08.58.19:608][390]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.20-08.58.19:677][390]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.20-08.58.19:772][390]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 95,932ms to complete.
+[2018.09.20-08.58.19:774][390]LogFileHelpers: Loading map 'MainScreen_new' took 0.210
+[2018.09.20-08.58.21:798][626]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.20-08.58.21:825][626]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.21:825][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-08.58.21:825][626]PIE: New page: PIE session: MainScreen_new (20 wrz 2018, 12:58:21)
+[2018.09.20-08.58.21:825][626]LogPlayLevel: Creating play world package: /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new
+[2018.09.20-08.58.21:826][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000968s)
+[2018.09.20-08.58.21:827][626]LogAIModule: Creating AISystem for world MainScreen_new
+[2018.09.20-08.58.21:827][626]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2018.09.20-08.58.21:827][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MojContent/MainScreen/MainScreen_new.MainScreen_new to /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new.MainScreen_new (0.001720s)
+[2018.09.20-08.58.21:865][626]LogInit: XAudio2 using 'SONY TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.20-08.58.21:872][626]LogInit: FAudioDevice initialized.
+[2018.09.20-08.58.21:883][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-08.58.21:919][626]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.20-08.58.21:920][626]LogWorld: Bringing World /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new.MainScreen_new up for play (max tick rate 0) at 2018.09.20-10.58.21
+[2018.09.20-08.58.21:920][626]LogWorld: Bringing up level for play took: 0.000365
+[2018.09.20-08.58.21:937][626]PIE: Play in editor start time for /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new 0,822
+[2018.09.20-08.58.21:937][626]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.23:691][827]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.20-08.58.23:696][827]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.23:724][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-08.58.23:724][827]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.23:777][829]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.09.20-08.58.25:281][  9]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.20-08.58.25:307][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.25:308][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-08.58.25:308][  9]PIE: New page: PIE session: MainScreen_new (20 wrz 2018, 12:58:25)
+[2018.09.20-08.58.25:308][  9]LogPlayLevel: Creating play world package: /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new
+[2018.09.20-08.58.25:309][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001069s)
+[2018.09.20-08.58.25:310][  9]LogAIModule: Creating AISystem for world MainScreen_new
+[2018.09.20-08.58.25:310][  9]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2018.09.20-08.58.25:310][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MojContent/MainScreen/MainScreen_new.MainScreen_new to /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new.MainScreen_new (0.001859s)
+[2018.09.20-08.58.25:347][  9]LogInit: XAudio2 using 'SONY TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.20-08.58.25:354][  9]LogInit: FAudioDevice initialized.
+[2018.09.20-08.58.25:364][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-08.58.25:401][  9]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.20-08.58.25:402][  9]LogWorld: Bringing World /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new.MainScreen_new up for play (max tick rate 0) at 2018.09.20-10.58.25
+[2018.09.20-08.58.25:403][  9]LogWorld: Bringing up level for play took: 0.000586
+[2018.09.20-08.58.25:419][  9]PIE: Play in editor start time for /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new 0,306
+[2018.09.20-08.58.25:419][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.28:216][336]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.20-08.58.28:219][336]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.28:247][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-08.58.28:248][336]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.28:303][338]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.09.20-08.58.28:913][411]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.20-08.58.28:939][411]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.28:939][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-08.58.28:939][411]PIE: New page: PIE session: MainScreen_new (20 wrz 2018, 12:58:28)
+[2018.09.20-08.58.28:939][411]LogPlayLevel: Creating play world package: /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new
+[2018.09.20-08.58.28:940][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000914s)
+[2018.09.20-08.58.28:941][411]LogAIModule: Creating AISystem for world MainScreen_new
+[2018.09.20-08.58.28:941][411]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2018.09.20-08.58.28:941][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MojContent/MainScreen/MainScreen_new.MainScreen_new to /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new.MainScreen_new (0.001629s)
+[2018.09.20-08.58.28:976][411]LogInit: XAudio2 using 'SONY TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.20-08.58.28:983][411]LogInit: FAudioDevice initialized.
+[2018.09.20-08.58.28:993][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-08.58.29:032][411]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.20-08.58.29:033][411]LogWorld: Bringing World /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new.MainScreen_new up for play (max tick rate 0) at 2018.09.20-10.58.29
+[2018.09.20-08.58.29:033][411]LogWorld: Bringing up level for play took: 0.000356
+[2018.09.20-08.58.29:049][411]PIE: Play in editor start time for /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new -0,065
+[2018.09.20-08.58.29:049][411]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.30:772][607]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.20-08.58.30:777][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.30:810][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-08.58.30:810][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.30:858][608]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.09.20-08.58.31:560][692]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.09.20-08.58.31:586][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.31:586][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.20-08.58.31:586][692]PIE: New page: PIE session: MainScreen_new (20 wrz 2018, 12:58:31)
+[2018.09.20-08.58.31:586][692]LogPlayLevel: Creating play world package: /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new
+[2018.09.20-08.58.31:587][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001007s)
+[2018.09.20-08.58.31:588][692]LogAIModule: Creating AISystem for world MainScreen_new
+[2018.09.20-08.58.31:588][692]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2018.09.20-08.58.31:588][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MojContent/MainScreen/MainScreen_new.MainScreen_new to /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new.MainScreen_new (0.001833s)
+[2018.09.20-08.58.31:625][692]LogInit: XAudio2 using 'SONY TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.20-08.58.31:632][692]LogInit: FAudioDevice initialized.
+[2018.09.20-08.58.31:641][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.20-08.58.31:683][692]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.20-08.58.31:684][692]LogWorld: Bringing World /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new.MainScreen_new up for play (max tick rate 0) at 2018.09.20-10.58.31
+[2018.09.20-08.58.31:684][692]LogWorld: Bringing up level for play took: 0.000382
+[2018.09.20-08.58.31:700][692]PIE: Play in editor start time for /Game/MojContent/MainScreen/UEDPIE_0_MainScreen_new 0,586
+[2018.09.20-08.58.31:700][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.36:672][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.20-08.58.36:723][287]LogSlate: Window 'neptunia2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.09.20-08.58.36:728][287]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.36:756][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.20-08.58.36:757][287]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel' has LevelScriptBlueprint '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new' with GeneratedClass '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new_C' with ClassGeneratedBy '/Game/MojContent/MainScreen/MainScreen_new.MainScreen_new:PersistentLevel.MainScreen_new'
+[2018.09.20-08.58.36:814][289]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.09.20-09.00.12:248][322]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Sevelar/Downloads/vy3GUHW.jpg)
+[2018.09.20-09.00.12:298][322]LogTexture: Display: Building textures: vy3GUHW (AutoDXT, 1300X1800)
+[2018.09.20-09.00.15:895][522]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.20-09.00.43:553][788]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Sevelar/Desktop/Main/Assets for game/dialogue/Setnr2 — Odzyskanoe.png)
+[2018.09.20-09.00.43:588][788]LogTexture: Display: Building textures: Setnr2_—_Odzyskanoe (BGRA8, 1164X1063)
+[2018.09.20-09.00.44:410][872]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/MojContent/Scripts/VisualNovelStuff/Assets/Setnr2_—_Odzyskanoe.Setnr2_—_Odzyskanoe
+[2018.09.20-09.00.50:705][587]LogSavePackage: Moving '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Saved/Setnr2_—_Odzyskanoe70337E5A48B8F35A8BA2DCAF7C54EE9C.tmp' to '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/MojContent/Scripts/VisualNovelStuff/Assets/Setnr2_—_Odzyskanoe.uasset'
+[2018.09.20-09.01.42:391][480]LogInit: XAudio2 using 'SONY TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+>>>>>>> master
