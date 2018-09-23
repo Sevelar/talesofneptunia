@@ -15,7 +15,7 @@ Node_Speech StartNode
 DlgParticipantClasses
 {
 	{  ParticipantName "Neptune" ParticipantClass "/Game/MojContent/Scripts/VisualNovelStuff/VN_Neptune.VN_Neptune_C" }
-	{  ParticipantName "Widget" ParticipantClass "/Game/MojContent/Scripts/VisualNovelStuff/VNDialogue.VNDialogue_C" }
+	{  ParticipantName "Widget" ParticipantClass "/Game/MojContent/Scripts/VisualNovelStuff/VNDialogue01.VNDialogue01_C" }
 }
 Node Nodes
 {
