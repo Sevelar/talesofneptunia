@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 09/23/18 23:21:09
+=======
+﻿Log file open, 09/23/18 20:59:42
+>>>>>>> 376788ac94b42249f92ba7b7370788195984d871
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,10 +13,17 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: neptunia2
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.180504
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +6:00, Platform Override: ''
+=======
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.173992
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+>>>>>>> 376788ac94b42249f92ba7b7370788195984d871
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -94,7 +105,11 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< HEAD
 LogStreaming: Display: Took  0.285s to configure plugins.
+=======
+LogStreaming: Display: Took  0.080s to configure plugins.
+>>>>>>> 376788ac94b42249f92ba7b7370788195984d871
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -115,12 +130,17 @@ LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connecti
 LogInit:  - LocalHostAddr = Default
 LogInit:  - BufferSize = 65536
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogInit: Build: ++UE4+Release-4.20-CL-4369336
-LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
 LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
 LogInit: Net CL: 4212847
+<<<<<<< HEAD
 LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz, GPU: Intel(R) HD Graphics 630
 LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+=======
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+>>>>>>> 376788ac94b42249f92ba7b7370788195984d871
 LogInit: Compiled with Visual C++: 19.13.26129.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.20
@@ -148,6 +168,7 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+<<<<<<< HEAD
 LogStreaming: Display: Took  0.000s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
@@ -1131,3 +1152,841 @@ LogInit: Object subsystem initialized
 [2018.09.23-17.29.58:089][650]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.09.23-17.29.58:094][650]LogExit: Exiting.
 [2018.09.23-17.29.59:617][650]Log file closed, 09/23/18 23:29:59
+=======
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.23-18.59.42:817][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.23-18.59.42:817][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.23-18.59.42:829][  0]LogHAL: Display: Platform has ~ 16 GB [17113391104 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.23-18.59.42:829][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.23-18.59.42:829][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.23-18.59.42:829][  0]LogInit: Computer: DESKTOP-OI37NI1
+[2018.09.23-18.59.42:830][  0]LogInit: User: Sevelar
+[2018.09.23-18.59.42:830][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.23-18.59.42:830][  0]LogInit: High frequency timer resolution =3.234376 MHz
+[2018.09.23-18.59.42:830][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.23-18.59.42:830][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.23-18.59.42:830][  0]LogMemory: Process Physical Memory: 100.30 MB used, 100.30 MB peak
+[2018.09.23-18.59.42:830][  0]LogMemory: Process Virtual Memory: 88.63 MB used, 88.63 MB peak
+[2018.09.23-18.59.42:830][  0]LogMemory: Physical Memory: 6019.13 MB used,  10301.47 MB free, 16320.60 MB total
+[2018.09.23-18.59.42:830][  0]LogMemory: Virtual Memory: 4624.64 MB used,  10301.47 MB free, 134217728.00 MB total
+[2018.09.23-18.59.42:844][  0]LogInit: Using OS detected language (pl-PL).
+[2018.09.23-18.59.42:844][  0]LogInit: Using OS detected locale (pl-PL).
+[2018.09.23-18.59.42:845][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2018.09.23-18.59.42:846][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2018.09.23-18.59.42:846][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.23-18.59.42:872][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.23-18.59.42:872][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.23-18.59.43:022][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.23-18.59.43:022][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.23-18.59.43:075][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.09.23-18.59.43:075][  0]LogD3D11RHI:       6052/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.23-18.59.43:077][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.23-18.59.43:077][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.23-18.59.43:077][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.23-18.59.43:082][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.23-18.59.43:082][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.23-18.59.43:082][  0]LogWindows: EnumDisplayDevices:
+[2018.09.23-18.59.43:082][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.09.23-18.59.43:082][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.09.23-18.59.43:083][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.09.23-18.59.43:083][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.09.23-18.59.43:083][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.23-18.59.43:083][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.09.23-18.59.43:083][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2018.09.23-18.59.43:083][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2018.09.23-18.59.43:083][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.09.23-18.59.43:114][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.23-18.59.43:131][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.23-18.59.43:221][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Intermediate/Shaders/WorkingDirectory/5476/).
+[2018.09.23-18.59.43:221][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Sevelar/AppData/Local/Temp/UnrealShaderWorkingDir/A8F89AE64EDE4A81B04147B0234E8810/'.
+[2018.09.23-18.59.43:448][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.23-18.59.43:460][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.23-18.59.43:472][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.23-18.59.43:484][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.23-18.59.43:496][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.23-18.59.43:509][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.23-18.59.43:521][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.23-18.59.43:533][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.23-18.59.43:539][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.23-18.59.43:633][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.23-18.59.43:691][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.23-18.59.43:691][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.23-18.59.43:716][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.23-18.59.43:716][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.23-18.59.43:728][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.23-18.59.43:739][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.23-18.59.43:752][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.23-18.59.43:763][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.23-18.59.43:772][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.23-18.59.43:772][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.23-18.59.43:818][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.23-18.59.43:818][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.23-18.59.43:818][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.23-18.59.44:441][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.23-18.59.44:511][  0]LogDerivedDataCache: Loaded boot cache 0.07s 118MB C:/Users/Sevelar/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.23-18.59.44:511][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Sevelar/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.23-18.59.44:511][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.23-18.59.44:511][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.23-18.59.44:511][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.23-18.59.44:511][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.23-18.59.44:523][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.23-18.59.44:535][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Sevelar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.23-18.59.44:535][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.23-18.59.44:535][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.23-18.59.44:551][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.23-18.59.44:553][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.23-18.59.44:553][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.23-18.59.44:626][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.09.23-18.59.44:909][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.23-18.59.45:025][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.23-18.59.45:027][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.23-18.59.45:027][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.23-18.59.45:027][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.23-18.59.45:027][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.23-18.59.45:045][  0]LogNetVersion: neptunia2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3200340848)
+[2018.09.23-18.59.45:510][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.105372 seconds
+[2018.09.23-18.59.45:517][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.23-18.59.45:517][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.23-18.59.45:517][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.23-18.59.46:249][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `621EAB2C4D017638BDBEA0976C5BF8E8` for Dialogue = `/Script/DlgSystem.Default__DlgDialogue` because of new created Dialogue.
+[2018.09.23-18.59.46:250][  0]LogDlgSystem: Verbose: Started DlgSystemModule
+[2018.09.23-18.59.46:254][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.23-18.59.46:267][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.23-18.59.46:456][  0]SourceControl: Source control is disabled
+[2018.09.23-18.59.46:900][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.23-18.59.46:970][  0]LogOcInput: OculusInput pre-init called
+[2018.09.23-18.59.46:976][  0]LogDlgSystemEditor: Verbose: Started DlgSystemEditorModule
+[2018.09.23-18.59.47:081][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/Game/MojContent/Scripts/VisualNovelStuff/PH01.PH01`
+[2018.09.23-18.59.47:081][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `59E555D8408F004CA940BD83EF2FA352` for Dialogue = `/Game/MojContent/Scripts/VisualNovelStuff/PH01.PH01` because of new created Dialogue.
+[2018.09.23-18.59.47:131][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/Game/MojContent/Scripts/VisualNovelStuff/Test.Test`
+[2018.09.23-18.59.47:131][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `95186A6A4C8375E6A676FB8B0BD7B0FE` for Dialogue = `/Game/MojContent/Scripts/VisualNovelStuff/Test.Test` because of new created Dialogue.
+[2018.09.23-18.59.47:250][  0]LogDlgSystem: Verbose: Creating graph for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.09.23-18.59.47:251][  0]LogDlgSystem: Verbose: Creating new DlgGuid = `081FA3C74C9059F617CCFEB69666C6A7` for Dialogue = `/DlgSystem/TestDialogue.TestDialogue` because of new created Dialogue.
+[2018.09.23-18.59.47:252][  0]LogDlgSystem: Refreshing data for Dialogue = `/DlgSystem/TestDialogue.TestDialogue`
+[2018.09.23-18.59.47:252][  0]LogDlgSystemEditor: Verbose: UDlgManager::LoadAllDialoguesIntoMemory loaded 0 Dialogues into Memory
+[2018.09.23-18.59.47:305][  0]LogEngine: Initializing Engine...
+[2018.09.23-18.59.47:306][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.23-18.59.47:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.23-18.59.47:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.23-18.59.47:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.23-18.59.47:307][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.23-18.59.47:498][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.23-18.59.47:505][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.23-18.59.47:557][  0]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.23-18.59.47:569][  0]LogInit: FAudioDevice initialized.
+[2018.09.23-18.59.47:569][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.23-18.59.47:661][  0]LogDerivedDataCache: Saved boot cache 0.09s 118MB C:/Users/Sevelar/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.23-18.59.47:686][  0]LogInit: Texture streaming: Enabled
+[2018.09.23-18.59.47:698][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.23-18.59.47:709][  0]LogInit: Transaction tracking system initialized
+[2018.09.23-18.59.47:725][  0]BlueprintLog: New page: Editor Load
+[2018.09.23-18.59.47:896][  0]LocalizationService: Localization service is disabled
+[2018.09.23-18.59.48:123][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.23-18.59.48:123][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.23-18.59.48:123][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.23-18.59.48:123][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.23-18.59.48:123][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.23-18.59.48:123][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.23-18.59.48:123][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.23-18.59.48:215][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/' took 0.02s
+[2018.09.23-18.59.48:215][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.23-18.59.48:215][  0]LightingResults: New page: Lighting Build
+[2018.09.23-18.59.48:217][  0]MapCheck: New page: Map Check
+[2018.09.23-18.59.48:217][  0]LightingResults: New page: Lighting Build
+[2018.09.23-18.59.50:082][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.09.23-18.59.50:096][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.23-18.59.50:126][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.23-18.59.50:223][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97,47ms to complete.
+[2018.09.23-18.59.50:223][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.009
+[2018.09.23-18.59.50:368][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-18.59.50:375][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-18.59.50:381][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-18.59.50:388][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.23-18.59.50:393][  0]LogCollectionManager: Loaded 0 collections in 0.001157 seconds
+[2018.09.23-18.59.50:433][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Saved/Collections/' took 0.01s
+[2018.09.23-18.59.50:433][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/Developers/Sevelar/Collections/' took 0.01s
+[2018.09.23-18.59.50:433][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/Collections/' took 0.01s
+[2018.09.23-18.59.50:433][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.23-18.59.50:441][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2618 classes and 618 folders.
+[2018.09.23-18.59.50:446][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.23-18.59.50:476][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.23-18.59.50:482][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.09.23-18.59.50:490][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2018.09.23-18.59.50:501][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.23-18.59.50:503][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.23-18.59.50:507][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.23-18.59.50:580][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 9 NumSamples 1 (Frame:1).
+[2018.09.23-18.59.50:625][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.23-18.59.50:629][  0]LogSlate: Took 0.001458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.09.23-18.59.50:761][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.23-18.59.50:761][  0]LogLoad: (Engine Initialization) Total time: 9.10 seconds
+[2018.09.23-18.59.50:761][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.23-18.59.50:772][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.23-18.59.50:816][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.09.23-18.59.50:833][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/' took 0.05s
+[2018.09.23-18.59.50:853][  1]LogAssetRegistry: Asset discovery search completed in 6.2492 seconds
+[2018.09.23-18.59.50:855][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.23-18.59.50:855][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2018.09.23-18.59.51:799][ 98]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.23-18.59.53:316][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.23-19.00.13:318][649]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/NeptuneCharacter.NeptuneCharacter
+[2018.09.23-19.00.13:736][649]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.09.23-19.00.14:474][649]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/NoireCharacter.NoireCharacter
+[2018.09.23-19.00.14:768][649]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MojContent/Scripts/CharacterSelect.CharacterSelect
+[2018.09.23-19.00.15:080][649]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BlackHeartCharacter.BlackHeartCharacter
+[2018.09.23-19.00.15:387][649]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.23-19.00.15:569][650]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.23-19.00.23:256][169]LogSlate: Window 'BlackHeartCharacter' being destroyed
+[2018.09.23-19.01.20:872][932]DataValidation: There is no data validation for /Game/MojContent/VolumeChange.
+[2018.09.23-19.01.20:874][932]DataValidation: There is no data validation for /Game/MojContent/MusicClass.
+[2018.09.23-19.01.20:877][932]DataValidation: There is no data validation for /Game/MojContent/NewSoundMix.
+[2018.09.23-19.01.20:879][932]DataValidation: There is no data validation for /Game/MojContent/ToNFunctions.
+[2018.09.23-19.01.20:882][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/Assets/NeptuneSprite.
+[2018.09.23-19.01.20:885][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/VNParticipants.
+[2018.09.23-19.01.20:887][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/Assets/NextPurpleDelusion.
+[2018.09.23-19.01.20:888][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/VN_DelusionPurpleHeart.
+[2018.09.23-19.01.20:891][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/Assets/Setnr2_—_Odzyskanoe.
+[2018.09.23-19.01.20:892][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/VN_PurpleHeart.
+[2018.09.23-19.01.20:894][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/PH01.
+[2018.09.23-19.01.20:896][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/Assets/NewNepSprite.
+[2018.09.23-19.01.20:898][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/VN_Neptune.
+[2018.09.23-19.01.20:899][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/Test.
+[2018.09.23-19.01.20:901][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/Assets/0025_tex_01.
+[2018.09.23-19.01.20:903][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/Assets/0117_tex_00.
+[2018.09.23-19.01.20:906][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/Assets/Neptunia_VII_Textbox_No_Transparency.
+[2018.09.23-19.01.20:908][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/0036_tex_00.
+[2018.09.23-19.01.20:910][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/VNDialogue02.
+[2018.09.23-19.01.20:912][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/GUIelements/Bez_nazwy-1.
+[2018.09.23-19.01.20:914][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/Inventory.
+[2018.09.23-19.01.20:916][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/91002.
+[2018.09.23-19.01.20:918][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/91001.
+[2018.09.23-19.01.20:919][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90050.
+[2018.09.23-19.01.20:920][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90049.
+[2018.09.23-19.01.20:922][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90048.
+[2018.09.23-19.01.20:924][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90047.
+[2018.09.23-19.01.20:924][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90046.
+[2018.09.23-19.01.20:925][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90044.
+[2018.09.23-19.01.20:926][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90043.
+[2018.09.23-19.01.20:927][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90042.
+[2018.09.23-19.01.20:928][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90041.
+[2018.09.23-19.01.20:929][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90040.
+[2018.09.23-19.01.20:930][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90039.
+[2018.09.23-19.01.20:931][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90038.
+[2018.09.23-19.01.20:932][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90037.
+[2018.09.23-19.01.20:932][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90036.
+[2018.09.23-19.01.20:933][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90035.
+[2018.09.23-19.01.20:934][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90034.
+[2018.09.23-19.01.20:935][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90033.
+[2018.09.23-19.01.20:936][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90026.
+[2018.09.23-19.01.20:937][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90025.
+[2018.09.23-19.01.20:938][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90024.
+[2018.09.23-19.01.20:939][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90023.
+[2018.09.23-19.01.20:939][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90022.
+[2018.09.23-19.01.20:940][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90021.
+[2018.09.23-19.01.20:941][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90020.
+[2018.09.23-19.01.20:942][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90019.
+[2018.09.23-19.01.20:943][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90013.
+[2018.09.23-19.01.20:944][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90012.
+[2018.09.23-19.01.20:945][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90011.
+[2018.09.23-19.01.20:945][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90010.
+[2018.09.23-19.01.20:946][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90009.
+[2018.09.23-19.01.20:947][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90008.
+[2018.09.23-19.01.20:948][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90007.
+[2018.09.23-19.01.20:949][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90006.
+[2018.09.23-19.01.20:949][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90005.
+[2018.09.23-19.01.20:950][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90004.
+[2018.09.23-19.01.20:951][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90003.
+[2018.09.23-19.01.20:952][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90002.
+[2018.09.23-19.01.20:953][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/90001.
+[2018.09.23-19.01.20:954][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/InventorySlot.
+[2018.09.23-19.01.20:954][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/InvColours/UDNoireInventory.
+[2018.09.23-19.01.20:957][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/InvColours/UDBlancInventory.
+[2018.09.23-19.01.20:958][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/InvColours/NeptuneInventory.
+[2018.09.23-19.01.20:959][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/SaveCharacterToNextLVL.
+[2018.09.23-19.01.20:961][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/VNDialogue01.
+[2018.09.23-19.01.20:962][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/BlackHeart_UI.
+[2018.09.23-19.01.20:963][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/BlackHeart.
+[2018.09.23-19.01.20:963][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/BlackHeart_PhysicsAsset.
+[2018.09.23-19.01.20:964][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/Hair.
+[2018.09.23-19.01.20:965][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/hair_c.
+[2018.09.23-19.01.20:966][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/Face.
+[2018.09.23-19.01.20:967][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/face_c.
+[2018.09.23-19.01.20:967][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/Body.
+[2018.09.23-19.01.20:968][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/body_c.
+[2018.09.23-19.01.20:969][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/BlackHeart_AnimationBlueprint.
+[2018.09.23-19.01.20:970][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/NewBlendSpace1D.
+[2018.09.23-19.01.20:971][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/Animations/Walking.
+[2018.09.23-19.01.20:973][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/Animations/Running.
+[2018.09.23-19.01.20:976][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/Animations/Idle.
+[2018.09.23-19.01.20:977][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/Animations/JumpLoop.
+[2018.09.23-19.01.20:979][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/Animations/Jump1.
+[2018.09.23-19.01.20:979][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/BlackHeart_Skeleton.
+[2018.09.23-19.01.20:980][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/PurpleHeartV_Skeleton.
+[2018.09.23-19.01.20:981][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Jump.
+[2018.09.23-19.01.20:982][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/JumpLoop.
+[2018.09.23-19.01.20:983][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Fast_Run.
+[2018.09.23-19.01.20:985][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Idle.
+[2018.09.23-19.01.20:986][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Slow_Run.
+[2018.09.23-19.01.20:987][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Walking.
+[2018.09.23-19.01.20:988][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/NewBlendSpace1D.
+[2018.09.23-19.01.20:989][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/NewAnimBlueprint.
+[2018.09.23-19.01.20:990][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/body_v.
+[2018.09.23-19.01.20:990][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Body.
+[2018.09.23-19.01.20:991][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/face_c.
+[2018.09.23-19.01.20:992][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Face.
+[2018.09.23-19.01.20:993][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/hair_v.
+[2018.09.23-19.01.20:993][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Hair.
+[2018.09.23-19.01.20:994][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/PurpleHeartV_PhysicsAsset.
+[2018.09.23-19.01.20:995][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/PurpleHeartV.
+[2018.09.23-19.01.20:996][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/Neptune_Skeleton.
+[2018.09.23-19.01.20:997][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/JumpStart.
+[2018.09.23-19.01.20:998][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/NewJumpAnim4.
+[2018.09.23-19.01.21:000][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/Sword_And_Shield_Slash.
+[2018.09.23-19.01.21:001][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/Idle.
+[2018.09.23-19.01.21:002][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/Running1.
+[2018.09.23-19.01.21:003][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/running2.
+[2018.09.23-19.01.21:004][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/RunningFaster.
+[2018.09.23-19.01.21:004][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/NewBlendSpace1D.
+[2018.09.23-19.01.21:005][932]DataValidation: There is no data validation for /Game/MojContent/InteractInterface.
+[2018.09.23-19.01.21:006][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Neptune_Swords/1/w005_027tex_c.
+[2018.09.23-19.01.21:007][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Neptune_Swords/1/Material__231.
+[2018.09.23-19.01.21:009][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Neptune_Swords/1/Weapon_NeptuneV1_PhysicsAsset.
+[2018.09.23-19.01.21:010][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Neptune_Swords/1/Weapon_NeptuneV1_Skeleton.
+[2018.09.23-19.01.21:011][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Neptune_Swords/1/Weapon_NeptuneV1.
+[2018.09.23-19.01.21:013][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/NeptuneBars.
+[2018.09.23-19.01.21:014][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/NepAnimationBlueprint.
+[2018.09.23-19.01.21:015][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/body_c.
+[2018.09.23-19.01.21:016][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/Material__35.
+[2018.09.23-19.01.21:016][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/face_c.
+[2018.09.23-19.01.21:017][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/Material__36.
+[2018.09.23-19.01.21:018][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/hair_c.
+[2018.09.23-19.01.21:019][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/Material__37.
+[2018.09.23-19.01.21:020][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/acce_c.
+[2018.09.23-19.01.21:021][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/Material__38.
+[2018.09.23-19.01.21:022][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/Neptune_PhysicsAsset.
+[2018.09.23-19.01.21:022][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/Neptune.
+[2018.09.23-19.01.21:023][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/health_bar.
+[2018.09.23-19.01.21:024][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/hp_name.
+[2018.09.23-19.01.21:025][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/noweui_fixed.
+[2018.09.23-19.01.21:026][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/sp_bar.
+[2018.09.23-19.01.21:026][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/sp_name.
+[2018.09.23-19.01.21:027][932]DataValidation: There is no data validation for /Game/MojContent/NewFolder/Material.
+[2018.09.23-19.01.21:028][932]DataValidation: There is no data validation for /Game/MojContent/NewFolder/Material_001.
+[2018.09.23-19.01.21:029][932]DataValidation: There is no data validation for /Game/MojContent/NewFolder/Material_002.
+[2018.09.23-19.01.21:030][932]DataValidation: There is no data validation for /Game/MojContent/NewFolder/Material_004.
+[2018.09.23-19.01.21:030][932]DataValidation: There is no data validation for /Game/MojContent/NewFolder/Material_005.
+[2018.09.23-19.01.21:031][932]DataValidation: There is no data validation for /Game/MojContent/NewFolder/Neptunia_Logo_Material.
+[2018.09.23-19.01.21:032][932]DataValidation: There is no data validation for /Game/MojContent/NewFolder/Nepconsole/222222.
+[2018.09.23-19.01.21:033][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/718296530_preview_20170514024216_1.
+[2018.09.23-19.01.21:035][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/title_bg_01out.
+[2018.09.23-19.01.21:036][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/Mapa1Load.
+[2018.09.23-19.01.21:038][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/w008b_108tex_c.
+[2018.09.23-19.01.21:039][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/w008b_108tex_c_Mat.
+[2018.09.23-19.01.21:040][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/Weapon_WhiteHeartV1.
+[2018.09.23-19.01.21:041][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/NeptuneOlder_Skeleton.
+[2018.09.23-19.01.21:042][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/Jump.
+[2018.09.23-19.01.21:043][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/JumpLoop.
+[2018.09.23-19.01.21:043][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/Idle.
+[2018.09.23-19.01.21:044][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/Running.
+[2018.09.23-19.01.21:045][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/NeptuneOlderBlendSpace.
+[2018.09.23-19.01.21:046][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/NeptuneOlderAnimBlueprint.
+[2018.09.23-19.01.21:047][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/acce_c.
+[2018.09.23-19.01.21:048][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/Accessory.
+[2018.09.23-19.01.21:048][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/body_c.
+[2018.09.23-19.01.21:049][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/Body.
+[2018.09.23-19.01.21:050][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/face_c.
+[2018.09.23-19.01.21:051][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/Face.
+[2018.09.23-19.01.21:052][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/hair_c.
+[2018.09.23-19.01.21:052][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/Hair.
+[2018.09.23-19.01.21:053][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/Skin.
+[2018.09.23-19.01.21:054][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/Special_001.
+[2018.09.23-19.01.21:055][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/NeptuneOlder_PhysicsAsset.
+[2018.09.23-19.01.21:056][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/NeptuneOlder.
+[2018.09.23-19.01.21:056][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-Regular.
+[2018.09.23-19.01.21:057][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-Regular_Font.
+[2018.09.23-19.01.21:058][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/InteractWidget.
+[2018.09.23-19.01.21:059][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/Fadeout.
+[2018.09.23-19.01.21:061][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/Blanc_Skeleton.
+[2018.09.23-19.01.21:062][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/Idle.
+[2018.09.23-19.01.21:062][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/Running.
+[2018.09.23-19.01.21:063][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/BlancBlendSpace.
+[2018.09.23-19.01.21:064][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/BlancAnimationBlueprint.
+[2018.09.23-19.01.21:065][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/acce_c.
+[2018.09.23-19.01.21:066][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/Accessory.
+[2018.09.23-19.01.21:067][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/body_c.
+[2018.09.23-19.01.21:067][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/Body.
+[2018.09.23-19.01.21:068][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/face_c.
+[2018.09.23-19.01.21:069][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/Face.
+[2018.09.23-19.01.21:070][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/hair_c.
+[2018.09.23-19.01.21:070][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/Hair.
+[2018.09.23-19.01.21:071][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/Blanc_PhysicsAsset.
+[2018.09.23-19.01.21:072][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/Blanc.
+[2018.09.23-19.01.21:073][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/BlancV_Skeleton.
+[2018.09.23-19.01.21:073][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/Great_Sword_Slash.
+[2018.09.23-19.01.21:074][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/IdleNice_Anim.
+[2018.09.23-19.01.21:075][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/Running1.
+[2018.09.23-19.01.21:076][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/BlancV_BS.
+[2018.09.23-19.01.21:077][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/Great_Sword_Walk.
+[2018.09.23-19.01.21:078][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/Hammer_Idle1_Anim.
+[2018.09.23-19.01.21:079][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/BlancVBattleModeTEST.
+[2018.09.23-19.01.21:079][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/w008_041tex_c.
+[2018.09.23-19.01.21:080][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Material__140.
+[2018.09.23-19.01.21:081][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Weapon_BlancV1_PhysicsAsset.
+[2018.09.23-19.01.21:082][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Weapon_BlancV1_Skeleton.
+[2018.09.23-19.01.21:083][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Weapon_BlancV1.
+[2018.09.23-19.01.21:084][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/BlancV_AB.
+[2018.09.23-19.01.21:085][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/acce_v.
+[2018.09.23-19.01.21:086][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/Accessory.
+[2018.09.23-19.01.21:086][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/body_v.
+[2018.09.23-19.01.21:087][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/Body.
+[2018.09.23-19.01.21:088][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/face_c.
+[2018.09.23-19.01.21:089][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/Face.
+[2018.09.23-19.01.21:090][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/hair_v.
+[2018.09.23-19.01.21:091][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/Hair.
+[2018.09.23-19.01.21:092][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/BlancV_PhysicsAsset.
+[2018.09.23-19.01.21:092][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/BlancV.
+[2018.09.23-19.01.21:093][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/Noire_Skeleton.
+[2018.09.23-19.01.21:094][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/Idle.
+[2018.09.23-19.01.21:095][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/Running.
+[2018.09.23-19.01.21:096][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/Noire_BS.
+[2018.09.23-19.01.21:097][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/Noire_AB.
+[2018.09.23-19.01.21:098][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/acce_c.
+[2018.09.23-19.01.21:099][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/Accessory.
+[2018.09.23-19.01.21:100][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/body_c.
+[2018.09.23-19.01.21:101][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/Body.
+[2018.09.23-19.01.21:102][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/face_c.
+[2018.09.23-19.01.21:103][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/Face.
+[2018.09.23-19.01.21:103][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/hair_c.
+[2018.09.23-19.01.21:104][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/Hair.
+[2018.09.23-19.01.21:105][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/Noire_PhysicsAsset.
+[2018.09.23-19.01.21:106][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/Noire.
+[2018.09.23-19.01.21:107][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/NoireV_Skeleton.
+[2018.09.23-19.01.21:108][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/Idle1.
+[2018.09.23-19.01.21:109][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/Running1.
+[2018.09.23-19.01.21:109][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/NoireV_BS.
+[2018.09.23-19.01.21:110][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/NoireV_AB.
+[2018.09.23-19.01.21:111][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/acce_v.
+[2018.09.23-19.01.21:112][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/Accessory.
+[2018.09.23-19.01.21:113][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/body_v.
+[2018.09.23-19.01.21:113][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/Body.
+[2018.09.23-19.01.21:114][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/face_c.
+[2018.09.23-19.01.21:115][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/Face.
+[2018.09.23-19.01.21:116][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/hair_v.
+[2018.09.23-19.01.21:117][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/Hair.
+[2018.09.23-19.01.21:118][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/NoireV_PhysicsAsset.
+[2018.09.23-19.01.21:119][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/NoireV.
+[2018.09.23-19.01.21:120][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/Vert_Skeleton.
+[2018.09.23-19.01.21:121][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/Idle.
+[2018.09.23-19.01.21:122][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/Running.
+[2018.09.23-19.01.21:123][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/Vert_BS.
+[2018.09.23-19.01.21:124][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/Vert_AB.
+[2018.09.23-19.01.21:124][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/acce_c.
+[2018.09.23-19.01.21:125][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/Accessory.
+[2018.09.23-19.01.21:126][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/body_c.
+[2018.09.23-19.01.21:127][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/Body.
+[2018.09.23-19.01.21:127][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/face_c.
+[2018.09.23-19.01.21:128][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/Face.
+[2018.09.23-19.01.21:129][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/hair_c.
+[2018.09.23-19.01.21:130][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/Hair.
+[2018.09.23-19.01.21:131][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/Vert_PhysicsAsset.
+[2018.09.23-19.01.21:132][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/Vert.
+[2018.09.23-19.01.21:133][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/VertV_Skeleton.
+[2018.09.23-19.01.21:134][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/Idle1.
+[2018.09.23-19.01.21:135][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/Running1.
+[2018.09.23-19.01.21:136][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/VertV_BS.
+[2018.09.23-19.01.21:137][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/VertV_AB.
+[2018.09.23-19.01.21:138][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/acce_v.
+[2018.09.23-19.01.21:138][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/Accessory.
+[2018.09.23-19.01.21:139][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/body_v.
+[2018.09.23-19.01.21:140][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/Body.
+[2018.09.23-19.01.21:141][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/face_c.
+[2018.09.23-19.01.21:142][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/Face.
+[2018.09.23-19.01.21:142][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/hair_v.
+[2018.09.23-19.01.21:143][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/Hair.
+[2018.09.23-19.01.21:144][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/VertV_PhysicsAsset.
+[2018.09.23-19.01.21:145][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/VertV.
+[2018.09.23-19.01.21:146][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/91001.
+[2018.09.23-19.01.21:147][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/91002.
+[2018.09.23-19.01.21:147][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/BHCircle.
+[2018.09.23-19.01.21:148][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/BHOff.
+[2018.09.23-19.01.21:149][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/BHOn.
+[2018.09.23-19.01.21:150][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/BlancCircle.
+[2018.09.23-19.01.21:150][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/BlancOff.
+[2018.09.23-19.01.21:151][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/BlancOn.
+[2018.09.23-19.01.21:152][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/NepCircle.
+[2018.09.23-19.01.21:153][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/NepOff.
+[2018.09.23-19.01.21:154][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/NepOn.
+[2018.09.23-19.01.21:155][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/NoireCircle.
+[2018.09.23-19.01.21:155][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/NoireOff.
+[2018.09.23-19.01.21:156][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/NoireOn.
+[2018.09.23-19.01.21:157][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/NewCharacterSelect.
+[2018.09.23-19.01.21:158][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/PHCircle.
+[2018.09.23-19.01.21:159][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/PHOff.
+[2018.09.23-19.01.21:160][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/PHOn.
+[2018.09.23-19.01.21:161][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/VertCircle.
+[2018.09.23-19.01.21:162][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/VertOff.
+[2018.09.23-19.01.21:162][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/VertOn.
+[2018.09.23-19.01.21:164][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/StatusHud/BlancPlayerStatus.
+[2018.09.23-19.01.21:164][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/StatusHud/HDNeptunePlayerStatus.
+[2018.09.23-19.01.21:165][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/StatusHud/UDNoirePlayerStatus.
+[2018.09.23-19.01.21:166][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/UI_ActHPBar00_TEX.
+[2018.09.23-19.01.21:169][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/UI_ActSPBar00_TEX.
+[2018.09.23-19.01.21:170][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/StatusHud/StatusHud.
+[2018.09.23-19.01.21:171][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelect.
+[2018.09.23-19.01.21:196][932]DataValidation: There is no data validation for /Game/MojContent/09__MEGA_DIMENSION_NEPTUNEVII：MAINTHEME.
+[2018.09.23-19.01.21:209][932]DataValidation: There is no data validation for /Game/MojContent/Material_001.
+[2018.09.23-19.01.21:221][932]DataValidation: There is no data validation for /Game/MojContent/Material_002.
+[2018.09.23-19.01.21:234][932]DataValidation: There is no data validation for /Game/MojContent/Nep_Logo.
+[2018.09.23-19.01.21:239][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/BigNeptune/NeptuneOlder_Anim.NeptuneOlder_Anim
+[2018.09.23-19.01.21:240][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/BigNeptune/NeptuneOlder_Anim.NeptuneOlder_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:245][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BigNeptune/NeptuneOlder_Anim.
+[2018.09.23-19.01.21:275][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/BlackHeart_Skeleton_PoseAsset.
+[2018.09.23-19.01.21:286][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/BlackHeart/Animations/Idle1.Idle1
+[2018.09.23-19.01.21:286][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/BlackHeart/Animations/Idle1.Idle1) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:290][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/Animations/Idle1.
+[2018.09.23-19.01.21:299][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/BlackHeart/Animations/Jump2.Jump2
+[2018.09.23-19.01.21:299][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/BlackHeart/Animations/Jump2.Jump2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:301][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/Animations/Jump2.
+[2018.09.23-19.01.21:328][932]LogTexture: Display: Building textures: gui4 (BGRA8, 760X420)
+[2018.09.23-19.01.21:329][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/GUIelements/gui4.
+[2018.09.23-19.01.21:348][932]LogTexture: Display: Building textures: gui5 (BGRA8, 608X336)
+[2018.09.23-19.01.21:349][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/GUIelements/gui5.
+[2018.09.23-19.01.21:369][932]LogTexture: Display: Building textures: gui_final (BGRA8, 608X336)
+[2018.09.23-19.01.21:369][932]DataValidation: There is no data validation for /Game/MojContent/Characters/BlackHeart/GUIelements/gui_final.
+[2018.09.23-19.01.21:376][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/Accessory.
+[2018.09.23-19.01.21:379][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/acce_c.
+[2018.09.23-19.01.21:386][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/Blanc.
+[2018.09.23-19.01.21:394][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/BlancAnimationBlueprint.
+[2018.09.23-19.01.21:395][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/BlancAnimationBlueprint.
+[2018.09.23-19.01.21:396][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/BlancAnimationBlueprint.
+[2018.09.23-19.01.21:403][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/BlancBlendSpace.
+[2018.09.23-19.01.21:410][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/Blanc_PhysicsAsset.
+[2018.09.23-19.01.21:417][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/Blanc_Skeleton.
+[2018.09.23-19.01.21:420][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/Body.
+[2018.09.23-19.01.21:423][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/body_c.
+[2018.09.23-19.01.21:430][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/Face.
+[2018.09.23-19.01.21:437][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/face_c.
+[2018.09.23-19.01.21:440][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/Hair.
+[2018.09.23-19.01.21:447][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/hair_c.
+[2018.09.23-19.01.21:454][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/Idle.
+[2018.09.23-19.01.21:488][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/Jump.
+[2018.09.23-19.01.21:495][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/Running.
+[2018.09.23-19.01.21:496][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/HD/Jump.
+[2018.09.23-19.01.21:510][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/BlancV_Anim.
+[2018.09.23-19.01.21:527][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/Great_Sword_Idle.
+[2018.09.23-19.01.21:545][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/Idle1.
+[2018.09.23-19.01.21:562][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Blanc/UD/Jump1.
+[2018.09.23-19.01.21:573][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/Neptune/AttackAnim.AttackAnim
+[2018.09.23-19.01.21:573][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/Neptune/AttackAnim.AttackAnim) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:578][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/AttackAnim.
+[2018.09.23-19.01.21:589][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/Neptune/IdleSword.IdleSword
+[2018.09.23-19.01.21:589][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/Neptune/IdleSword.IdleSword) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:593][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/IdleSword.
+[2018.09.23-19.01.21:604][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/Neptune/Jump.Jump
+[2018.09.23-19.01.21:604][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/Neptune/Jump.Jump) using current/default (AnimCompress_BitwiseCompressOnly_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:607][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/Jump.
+[2018.09.23-19.01.21:619][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/Neptune/JumpLooped.JumpLooped
+[2018.09.23-19.01.21:619][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/Neptune/JumpLooped.JumpLooped) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:621][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/JumpLooped.
+[2018.09.23-19.01.21:632][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/Neptune/Jumpnotfixed.Jumpnotfixed
+[2018.09.23-19.01.21:632][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/Neptune/Jumpnotfixed.Jumpnotfixed) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:634][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/Jumpnotfixed.
+[2018.09.23-19.01.21:637][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/Neptune/Neptune_Anim.Neptune_Anim
+[2018.09.23-19.01.21:637][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/Neptune/Neptune_Anim.Neptune_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:640][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/Neptune_Anim.
+[2018.09.23-19.01.21:655][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/Neptune/NewJumpAnim.NewJumpAnim
+[2018.09.23-19.01.21:656][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/Neptune/NewJumpAnim.NewJumpAnim) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:659][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/NewJumpAnim.
+[2018.09.23-19.01.21:674][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/Neptune/NewJumpAnim2.NewJumpAnim2
+[2018.09.23-19.01.21:674][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/Neptune/NewJumpAnim2.NewJumpAnim2) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:678][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/NewJumpAnim2.
+[2018.09.23-19.01.21:691][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/Neptune/NewJumpAnim3.NewJumpAnim3
+[2018.09.23-19.01.21:692][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/Neptune/NewJumpAnim3.NewJumpAnim3) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:696][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Neptune/NewJumpAnim3.
+[2018.09.23-19.01.21:715][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/Jump.
+[2018.09.23-19.01.21:728][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/HD/Noire_Anim.
+[2018.09.23-19.01.21:745][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/Jump1.
+[2018.09.23-19.01.21:758][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Noire/UD/NoireV_Anim.
+[2018.09.23-19.01.21:761][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/PurpleHeart/PurpleHeartV_Anim.PurpleHeartV_Anim
+[2018.09.23-19.01.21:761][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/PurpleHeart/PurpleHeartV_Anim.PurpleHeartV_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:764][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/PurpleHeartV_Anim.
+[2018.09.23-19.01.21:772][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Female_Standing_Pose.Female_Standing_Pose
+[2018.09.23-19.01.21:772][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Female_Standing_Pose.Female_Standing_Pose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:773][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Female_Standing_Pose.
+[2018.09.23-19.01.21:781][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Female_Standing_Pose1.Female_Standing_Pose1
+[2018.09.23-19.01.21:781][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Female_Standing_Pose1.Female_Standing_Pose1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:783][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Female_Standing_Pose1.
+[2018.09.23-19.01.21:791][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Female_Standing_Pose2.Female_Standing_Pose2
+[2018.09.23-19.01.21:791][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Female_Standing_Pose2.Female_Standing_Pose2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:792][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Female_Standing_Pose2.
+[2018.09.23-19.01.21:800][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Female_Standing_Pose3.Female_Standing_Pose3
+[2018.09.23-19.01.21:801][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Female_Standing_Pose3.Female_Standing_Pose3) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:802][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Female_Standing_Pose3.
+[2018.09.23-19.01.21:811][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Female_Standing_Pose4.Female_Standing_Pose4
+[2018.09.23-19.01.21:811][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Female_Standing_Pose4.Female_Standing_Pose4) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:812][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Female_Standing_Pose4.
+[2018.09.23-19.01.21:822][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Idle_Transition.Idle_Transition
+[2018.09.23-19.01.21:822][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Idle_Transition.Idle_Transition) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:826][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Idle_Transition.
+[2018.09.23-19.01.21:835][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/JumpEnd.JumpEnd
+[2018.09.23-19.01.21:835][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/JumpEnd.JumpEnd) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:837][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/JumpEnd.
+[2018.09.23-19.01.21:848][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Running.Running
+[2018.09.23-19.01.21:848][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Running.Running) using current/default (AnimCompress_BitwiseCompressOnly_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:850][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Running.
+[2018.09.23-19.01.21:858][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Running2.Running2
+[2018.09.23-19.01.21:858][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Running2.Running2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:860][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Running2.
+[2018.09.23-19.01.21:871][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Standing_Idle.Standing_Idle
+[2018.09.23-19.01.21:871][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Standing_Idle.Standing_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:879][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Standing_Idle.
+[2018.09.23-19.01.21:882][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Talking.Talking
+[2018.09.23-19.01.21:882][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Talking.Talking) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:885][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Talking.
+[2018.09.23-19.01.21:890][932]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Yawn.Yawn
+[2018.09.23-19.01.21:891][932]LogAnimationCompression: Recompressing (AnimSequence /Game/MojContent/Characters/PurpleHeart/Animations/Yawn.Yawn) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.09.23-19.01.21:903][932]DataValidation: There is no data validation for /Game/MojContent/Characters/PurpleHeart/Animations/Yawn.
+[2018.09.23-19.01.21:936][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/Jump.
+[2018.09.23-19.01.21:943][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/HD/Vert_Anim.
+[2018.09.23-19.01.21:960][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/Jump1.
+[2018.09.23-19.01.21:969][932]DataValidation: There is no data validation for /Game/MojContent/Characters/Vert/UD/VertV_Anim.
+[2018.09.23-19.01.22:034][932]LogAIModule: Creating AISystem for world BetaScreen
+[2018.09.23-19.01.22:035][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/BetaScreen.
+[2018.09.23-19.01.22:060][932]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.09.23-19.01.22:060][932]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.09.23-19.01.22:060][932]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.09.23-19.01.22:060][932]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.09.23-19.01.22:060][932]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2018.09.23-19.01.22:060][932]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.09.23-19.01.22:061][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/BetaScreen_BuiltData.
+[2018.09.23-19.01.22:074][932]LogTexture: Display: Building textures: cursorpng (BGRA8, 32X31)
+[2018.09.23-19.01.22:074][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Cursor.
+[2018.09.23-19.01.22:079][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/IsAttackAnimTriggered.
+[2018.09.23-19.01.22:083][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/IsMainMenuAnimPlayed.
+[2018.09.23-19.01.22:156][932]LogAIModule: Creating AISystem for world LogoScreen
+[2018.09.23-19.01.22:158][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/LogoScreen.
+[2018.09.23-19.01.22:170][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/LogoScreen_BuiltData.
+[2018.09.23-19.01.22:619][932]LogAIModule: Creating AISystem for world MainScreen_old
+[2018.09.23-19.01.22:644][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/MainScreen.
+[2018.09.23-19.01.22:650][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/MainScreen.
+[2018.09.23-19.01.22:670][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/MainScreen_BuiltData.
+[2018.09.23-19.01.22:681][932]LogAIModule: Creating AISystem for world MainScreen_new
+[2018.09.23-19.01.22:682][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/MainScreen_new.
+[2018.09.23-19.01.22:683][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/MainScreen_old.
+[2018.09.23-19.01.22:694][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Main_BuiltData.
+[2018.09.23-19.01.22:695][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/UMG-BetaScreen.
+[2018.09.23-19.01.22:696][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/UMG-LogoScreen.
+[2018.09.23-19.01.22:699][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/UMG-MainScreen.
+[2018.09.23-19.01.22:700][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/UMG-MainScreen.
+[2018.09.23-19.01.22:701][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/UMG-MainScreen_new.
+[2018.09.23-19.01.22:703][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/UMG-MainScreen_old.
+[2018.09.23-19.01.22:704][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/UMG-Options.
+[2018.09.23-19.01.22:719][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/0039_tex_00.
+[2018.09.23-19.01.22:722][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/0046_tex_00.
+[2018.09.23-19.01.22:723][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/0051_tex_00.
+[2018.09.23-19.01.22:724][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/0053_tex_00.
+[2018.09.23-19.01.22:725][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/0055_tex_00.
+[2018.09.23-19.01.22:726][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/0057_tex_00.
+[2018.09.23-19.01.22:864][932]LogTexture: Display: Building textures: background (BGRA8, 1920X1080)
+[2018.09.23-19.01.22:866][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/background.
+[2018.09.23-19.01.23:020][932]LogTexture: Display: Building textures: betawarning (BGRA8, 1920X1080)
+[2018.09.23-19.01.23:023][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/betawarning.
+[2018.09.23-19.01.23:029][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/config2.
+[2018.09.23-19.01.23:031][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Config5.
+[2018.09.23-19.01.23:079][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/ConquestLogoV243434343434.
+[2018.09.23-19.01.23:083][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/continue2.
+[2018.09.23-19.01.23:084][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/continue5.
+[2018.09.23-19.01.23:085][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/cursorpng.
+[2018.09.23-19.01.23:167][932]LogTexture: Display: Building textures: loadscreen (BGRA8, 1920X1080)
+[2018.09.23-19.01.23:169][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/loadscreen.
+[2018.09.23-19.01.23:200][932]LogTexture: Display: Building textures: logo (BGRA8, 926X309)
+[2018.09.23-19.01.23:200][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/logo.
+[2018.09.23-19.01.23:252][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/logoscreen.
+[2018.09.23-19.01.23:394][932]LogTexture: Display: Building textures: lol (BGRA8, 1920X1080)
+[2018.09.23-19.01.23:396][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/lol.
+[2018.09.23-19.01.23:427][932]LogTexture: Display: Building textures: MydimensionLogo (BGRA8, 906X300)
+[2018.09.23-19.01.23:428][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/MydimensionLogo.
+[2018.09.23-19.01.23:429][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/MydimensionLogov2.
+[2018.09.23-19.01.23:469][932]LogTexture: Display: Building textures: mydimensionv2 (BGRA8, 1254X395)
+[2018.09.23-19.01.23:470][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/mydimensionv2.
+[2018.09.23-19.01.23:497][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/mydimensionv3.
+[2018.09.23-19.01.23:500][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/newgame4.
+[2018.09.23-19.01.23:501][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Newlogoscreen.
+[2018.09.23-19.01.23:502][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/New_Game.
+[2018.09.23-19.01.23:503][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Options.
+[2018.09.23-19.01.23:512][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-Black.
+[2018.09.23-19.01.23:522][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-BlackItalic.
+[2018.09.23-19.01.23:529][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-BlackItalic_Font.
+[2018.09.23-19.01.23:537][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-Black_Font.
+[2018.09.23-19.01.23:546][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-Bold.
+[2018.09.23-19.01.23:556][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-BoldItalic.
+[2018.09.23-19.01.23:571][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-BoldItalic_Font.
+[2018.09.23-19.01.23:579][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-Bold_Font.
+[2018.09.23-19.01.23:589][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-Italic.
+[2018.09.23-19.01.23:597][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-Italic_Font.
+[2018.09.23-19.01.23:598][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-Light.
+[2018.09.23-19.01.23:608][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-LightItalic.
+[2018.09.23-19.01.23:616][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-LightItalic_Font.
+[2018.09.23-19.01.23:617][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-Light_Font.
+[2018.09.23-19.01.23:627][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-Medium.
+[2018.09.23-19.01.23:637][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-MediumItalic.
+[2018.09.23-19.01.23:645][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-MediumItalic_Font.
+[2018.09.23-19.01.23:652][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-Medium_Font.
+[2018.09.23-19.01.23:662][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-Thin.
+[2018.09.23-19.01.23:672][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-ThinItalic.
+[2018.09.23-19.01.23:680][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-ThinItalic_Font.
+[2018.09.23-19.01.23:688][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/Roboto-Thin_Font.
+[2018.09.23-19.01.23:689][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/rrr2.
+[2018.09.23-19.01.23:690][932]DataValidation: There is no data validation for /Game/MojContent/MainScreen/Assets/warning_screen.
+[2018.09.23-19.01.23:922][932]LogAIModule: Creating AISystem for world Mapa1
+[2018.09.23-19.01.23:945][932]DataValidation: There is no data validation for /Game/MojContent/Maps/Mapa1.
+[2018.09.23-19.01.23:956][932]DataValidation: There is no data validation for /Game/MojContent/Maps/Mapa1_BuiltData.
+[2018.09.23-19.01.23:965][932]LogMaterial: Display: Missing cached shader map for material Ground, compiling. 
+[2018.09.23-19.01.24:003][932]DataValidation: There is no data validation for /Game/MojContent/Maps/Mapa1_Files/Ground.
+[2018.09.23-19.01.24:018][932]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.23-19.01.24:018][932]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.23-19.01.24:018][932]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.23-19.01.24:018][932]LogStaticMesh: Building static mesh 222222_Neptunia_Logo_Plane_004...
+[2018.09.23-19.01.24:351][932]LogStaticMesh: Built static mesh [0.33s] /Game/MojContent/NewFolder/222222_Neptunia_Logo_Plane_004.222222_Neptunia_Logo_Plane_004
+[2018.09.23-19.01.24:356][932]DataValidation: There is no data validation for /Game/MojContent/NewFolder/222222_Neptunia_Logo_Plane_004.
+[2018.09.23-19.01.24:386][932]LogStaticMesh: Building static mesh 222222_Nep_Console_Interior...
+[2018.09.23-19.01.24:817][932]LogStaticMesh: Built static mesh [0.43s] /Game/MojContent/NewFolder/222222_Nep_Console_Interior.222222_Nep_Console_Interior
+[2018.09.23-19.01.24:821][932]LogStaticMesh: Building static mesh 222222_Nep_Console_Trans...
+[2018.09.23-19.01.24:830][932]LogStaticMesh: Built static mesh [0.01s] /Game/MojContent/NewFolder/222222_Nep_Console_Trans.222222_Nep_Console_Trans
+[2018.09.23-19.01.24:831][932]LogStaticMesh: Building static mesh 222222_Nep_Console_Buttons...
+[2018.09.23-19.01.24:835][932]LogStaticMesh: Built static mesh [0.00s] /Game/MojContent/NewFolder/222222_Nep_Console_Buttons.222222_Nep_Console_Buttons
+[2018.09.23-19.01.24:844][932]LogStaticMesh: Building static mesh 222222_Nep_Console_Black...
+[2018.09.23-19.01.25:146][932]LogStaticMesh: Built static mesh [0.30s] /Game/MojContent/NewFolder/222222_Nep_Console_Black.222222_Nep_Console_Black
+[2018.09.23-19.01.25:157][932]LogStaticMesh: Building static mesh 222222_Nep_Console__Disc...
+[2018.09.23-19.01.25:468][932]LogStaticMesh: Built static mesh [0.31s] /Game/MojContent/NewFolder/222222_Nep_Console__Disc.222222_Nep_Console__Disc
+[2018.09.23-19.01.25:473][932]DataValidation: There is no data validation for /Game/MojContent/NewFolder/222222_Nep_Console_Black.
+[2018.09.23-19.01.25:476][932]DataValidation: There is no data validation for /Game/MojContent/NewFolder/222222_Nep_Console_Buttons.
+[2018.09.23-19.01.25:479][932]DataValidation: There is no data validation for /Game/MojContent/NewFolder/222222_Nep_Console_Interior.
+[2018.09.23-19.01.25:480][932]DataValidation: There is no data validation for /Game/MojContent/NewFolder/222222_Nep_Console_Trans.
+[2018.09.23-19.01.25:481][932]DataValidation: There is no data validation for /Game/MojContent/NewFolder/222222_Nep_Console__Disc.
+[2018.09.23-19.01.25:490][932]LogTexture: Display: Building textures: BlancPlaceHolder (BGRA8, 322X324)
+[2018.09.23-19.01.25:490][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/BlancPlaceHolder.
+[2018.09.23-19.01.25:500][932]LogTexture: Display: Building textures: NoirePlaceHolder (BGRA8, 322X324)
+[2018.09.23-19.01.25:501][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/NoirePlaceHolder.
+[2018.09.23-19.01.25:509][932]LogTexture: Display: Building textures: VertPlaceHolder (BGRA8, 322X324)
+[2018.09.23-19.01.25:509][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/VertPlaceHolder.
+[2018.09.23-19.01.25:528][932]LogTexture: Display: Building textures: asset1 (BGRA8, 402X404)
+[2018.09.23-19.01.25:528][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/asset1.
+[2018.09.23-19.01.25:547][932]LogTexture: Display: Building textures: asset10 (BGRA8, 402X404)
+[2018.09.23-19.01.25:547][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/asset10.
+[2018.09.23-19.01.25:570][932]LogTexture: Display: Building textures: asset2 (BGRA8, 402X404)
+[2018.09.23-19.01.25:571][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/asset2.
+[2018.09.23-19.01.25:590][932]LogTexture: Display: Building textures: asset3 (BGRA8, 402X404)
+[2018.09.23-19.01.25:591][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/asset3.
+[2018.09.23-19.01.25:611][932]LogTexture: Display: Building textures: asset4 (BGRA8, 402X404)
+[2018.09.23-19.01.25:611][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/asset4.
+[2018.09.23-19.01.25:628][932]LogTexture: Display: Building textures: asset5 (BGRA8, 402X404)
+[2018.09.23-19.01.25:628][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/asset5.
+[2018.09.23-19.01.25:648][932]LogTexture: Display: Building textures: asset6 (BGRA8, 402X404)
+[2018.09.23-19.01.25:648][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/asset6.
+[2018.09.23-19.01.25:666][932]LogTexture: Display: Building textures: asset7 (BGRA8, 402X404)
+[2018.09.23-19.01.25:666][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/asset7.
+[2018.09.23-19.01.25:685][932]LogTexture: Display: Building textures: asset8 (BGRA8, 402X404)
+[2018.09.23-19.01.25:686][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/asset8.
+[2018.09.23-19.01.25:704][932]LogTexture: Display: Building textures: asset9 (BGRA8, 402X404)
+[2018.09.23-19.01.25:705][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/asset9.
+[2018.09.23-19.01.25:804][932]LogTexture: Display: Building textures: Bez_nazwy-1 (BGRA8, 1920X1080)
+[2018.09.23-19.01.25:807][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/Bez_nazwy-1.
+[2018.09.23-19.01.25:831][932]LogTexture: Display: Building textures: BlackHeartAvatarActive (BGRA8, 402X404)
+[2018.09.23-19.01.25:832][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/BlackHeartAvatarActive.
+[2018.09.23-19.01.25:850][932]LogTexture: Display: Building textures: BlackHeartAvatarUnactive (BGRA8, 402X404)
+[2018.09.23-19.01.25:851][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/BlackHeartAvatarUnactive.
+[2018.09.23-19.01.25:864][932]LogTexture: Display: Building textures: Elipsa_1 (BGRA8, 362X362)
+[2018.09.23-19.01.25:865][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/Elipsa_1.
+[2018.09.23-19.01.25:875][932]LogTexture: Display: Building textures: Elipsa_1_kopia (BGRA8, 362X362)
+[2018.09.23-19.01.25:876][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/CharacterSelectAssets/OldAssets/Elipsa_1_kopia.
+[2018.09.23-19.01.25:888][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/Fadeout_2.
+[2018.09.23-19.01.25:895][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/PlaceHoler.
+[2018.09.23-19.01.25:898][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/VNDialogue.
+[2018.09.23-19.01.25:899][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/VNDialogue.
+[2018.09.23-19.01.25:908][932]LogAIModule: Creating AISystem for world VNEvent01
+[2018.09.23-19.01.25:909][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/VNEvent01.
+[2018.09.23-19.01.25:977][932]LogTexture: Display: Building textures: BlackHeartSprite (BGRA8, 1010X1054)
+[2018.09.23-19.01.25:978][932]DataValidation: There is no data validation for /Game/MojContent/Scripts/VisualNovelStuff/Assets/BlackHeartSprite.
+[2018.09.23-19.01.25:996][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/blanc_barss.
+[2018.09.23-19.01.26:007][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/UI_ActPlayerFrame00_TEX.
+[2018.09.23-19.01.26:017][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Ui_additional.
+[2018.09.23-19.01.26:028][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/UI_ItemSet_Frame00_TEX.
+[2018.09.23-19.01.26:040][932]LogTexture: Display: Building textures: ui_nowe (BGRA8, 512X235)
+[2018.09.23-19.01.26:040][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/ui_nowe.
+[2018.09.23-19.01.26:042][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Warstwa_1.
+[2018.09.23-19.01.26:056][932]DataValidation: There is no data validation for /Game/MojContent/UIElements/Inventory/ItemIcons/00032.
+[2018.09.23-19.01.26:065][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Blanc_Weapons/Material__140.
+[2018.09.23-19.01.26:067][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Blanc_Weapons/w008_041tex_c.
+[2018.09.23-19.01.26:071][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Blanc_Weapons/Weapon_BlancV1.
+[2018.09.23-19.01.26:085][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Neptune_Swords/2/Neptune_katana.
+[2018.09.23-19.01.26:137][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Neptune_Swords/2/Neptune_katana_55k.
+[2018.09.23-19.01.26:138][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Neptune_Swords/2/Neptune_katana_55k_Neptune_katana_BaseColor.
+[2018.09.23-19.01.26:139][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Neptune_Swords/2/Neptune_katana_55k_Neptune_katana_Emissive.
+[2018.09.23-19.01.26:141][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Neptune_Swords/2/Neptune_katana_55k_Neptune_katana_Normal.
+[2018.09.23-19.01.26:142][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Neptune_Swords/2/Neptune_katana_55k_Neptune_katana_OcclusionRoughnessMetallic.
+[2018.09.23-19.01.26:143][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Neptune_Swords/2/Neptune_katana_55k_PhysicsAsset.
+[2018.09.23-19.01.26:144][932]DataValidation: There is no data validation for /Game/MojContent/Weapons/Weapons/Neptune_Swords/2/Neptune_katana_55k_Skeleton.
+[2018.09.23-19.01.26:144][932]DataValidation: 
+[2018.09.23-19.02.18:470][515]LogSlate: Window 'Submit Files' being destroyed
+[2018.09.23-19.03.33:093][290]LogDlgSystem: Compiling Dialogue = `/Game/MojContent/Scripts/VisualNovelStuff/Test.Test` (Graph data -> Dialogue data)`
+[2018.09.23-19.03.33:099][290]LogDlgSystem: Refreshing data for Dialogue = `/Game/MojContent/Scripts/VisualNovelStuff/Test.Test`
+[2018.09.23-19.03.33:100][290]LogDlgSystem: Exporting data for Dialogue = `/Game/MojContent/Scripts/VisualNovelStuff/Test.Test` TO file = `../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/MojContent/Scripts/VisualNovelStuff/Test.dlg`
+[2018.09.23-19.03.33:118][290]LogSavePackage: Moving '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Saved/Test67F7EBEB41DEA9DDC5AA7898E7F33D8D.tmp' to '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/MojContent/Scripts/VisualNovelStuff/Test.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/Accessory.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/Blanc.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/BlancAnimationBlueprint.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/BlancBlendSpace.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/Blanc_PhysicsAsset.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/Blanc_Skeleton.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/Body.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/Face.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/Hair.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/Idle.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/Jump.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/Running.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/acce_c.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/body_c.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/face_c.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Characters/Blanc/hair_c.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/MainScreen/MainScreen.umap'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/MainScreen/UMG-MainScreen.uasset'
+[2018.09.23-19.03.42:498][290]SourceControl: rm 'Content/MojContent/Scripts/VisualNovelStuff/VNDialogue.uasset'
+[2018.09.23-19.04.00:542][190]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BlancAnimationBlueprint_C /Engine/Transient.World_25:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BlancAnimationBlueprint_C_0
+	Function /Game/MojContent/Characters/Blanc/HD/BlancAnimationBlueprint.BlancAnimationBlueprint_C:ExecuteUbergraph_BlancAnimationBlueprint:0069
+[2018.09.23-19.06.22:137][693]LogSavePackage: Moving '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Saved/Mapa1D974B4EC4A7A32FB2394EFB107635FB5.tmp' to '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/MojContent/Maps/Mapa1.umap'
+[2018.09.23-19.06.22:160][693]LogFileHelpers: Saving map 'Mapa1' took 2.160
+[2018.09.23-19.06.22:202][693]LogSavePackage: Moving '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Saved/ThirdPersonGameModeF662F1A84DCCE3964E99C797D38AAAFF.tmp' to '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.09.23-19.06.22:568][693]LogSavePackage: Moving '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Saved/BetaScreenD87E23FD442B434FB0153BBB5C6520FF.tmp' to '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/MojContent/MainScreen/BetaScreen.umap'
+[2018.09.23-19.06.22:572][693]LogFileHelpers: Saving map 'BetaScreen' took 0.364
+[2018.09.23-19.06.22:653][693]LogSavePackage: Moving '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Saved/UMG-MainScreen_newA9D54EE2495935A1F936B5A1EBE941BA.tmp' to '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/MojContent/MainScreen/UMG-MainScreen_new.uasset'
+[2018.09.23-19.06.22:722][693]LogSavePackage: Moving '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Saved/UMG-MainScreen_old45BDB50544C5AFCBC3982985BDFFE7C0.tmp' to '../../../../../../Users/Sevelar/Documents/Unreal Projects/talesofneptunia/Content/MojContent/MainScreen/UMG-MainScreen_old.uasset'
+[2018.09.23-19.06.23:796][693]SourceControl: rm 'Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.09.23-19.06.53:329][629]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MojContent/UIElements/StatusHud/StatusHud.StatusHud
+[2018.09.23-19.07.06:652][ 42]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.23-19.07.10:195][384]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.23-19.07.14:968][941]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MojContent/UIElements/Inventory/Inventory.Inventory
+[2018.09.23-19.07.16:492][ 34]LogSlate: Window 'Inventory' being destroyed
+[2018.09.23-19.08.10:511][238]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MojContent/UIElements/Inventory/PickupItems/TestAxePickup.TestAxePickup
+>>>>>>> 376788ac94b42249f92ba7b7370788195984d871
