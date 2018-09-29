@@ -38,7 +38,7 @@ You can just join our Discord to get more information or start making project wi
 
 * [Join the official TalesofNeptunia Discord](https://discord.gg/NvV8Y5D)
     * After joining the server, please check `#read-this` channel.
-    * If you want get access to team's channel, ask Mod or Admin for it.
-    * Use the `#ourdimension-discuss` channel for general questions or discussion about Tales of Neptunia
+    * If you want get access to team's channel, use the `#introduce-yourself` channel and add your details. You will be sorted to a team by a mod or admin.
+    * Use the `#ourdimension-team` channel for general questions or discussion about Tales of Neptunia
     * Use the `#ourdimension-ideas` channel for ideas and suggestions for this project.
     * There are many other channels available, check the channel list
