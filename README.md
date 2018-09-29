@@ -6,6 +6,3 @@ If you want help our team by making this game with us, join our Discord: https:/
 # Useful links
 1. Trello board: https://trello.com/b/0s4Ycnpk/mydimension-nep
 2. Official Project documentation: https://docs.google.com/document/d/1BQS6LeV9NBlAWTe7e0Oa-TE3KdEyIaqOkVPB87RXvOc/edit
-
-
-test
