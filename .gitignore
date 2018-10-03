@@ -78,7 +78,6 @@ DerivedDataCache/*
 
 #Individual folders
 Saved/Logs/neptunia2.log
-Saved/Logs/neptunia2.log
 Saved/Config/Windows/Engine.ini
 Saved/Config/Windows/EditorPerProjectUserSettings.ini
 Saved/AutoScreenshot.png
@@ -86,4 +85,7 @@ Intermediate/CachedAssetRegistry.bin
 Intermediate/AssetRegistryCache/*
 Intermediate/ReimportCache/*
 Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
-Saved/Logs/neptunia2.log
+
+*.log
+
+Intermediate/
