@@ -1,4 +1,4 @@
-# ![Tales of Neptunia](https://i.imgur.com/vbgUSiu.png) 
+# ![Tales of Neptunia](https://i.imgur.com/HTsqToD.png) 
 Tales of Neptunia - a fangame project based on the "Hyperdimension Neptunia" series made in Unreal Engine 4.(Currently in hiatus)
 # ![Our Dimension Development](https://i.imgur.com/jcB4q5n.pngg) 
 # How to become a member of the Team?
