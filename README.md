@@ -15,7 +15,7 @@ Since the project will be most likely no longer maintained, I have decided to ar
 
 ## Summary
 With that all being said - I want to thank everyone, who decided to contribute to the project and take part in creating this fantastic piece of work. Maybe if our project was smaller, we could've actually finished it, but we indeed were too ambitious and not ready for this. I wanna wish you all a good luck in future projects you might take part in the near future. I have learnt a lot myself, now knowing how to manage a project or a team of people, but I didn't know it when I started this project. For the last words - Thank you, everyone!
-
+<hr />
 <div align="center" style="margin: 10px">
   <img src="https://i.imgur.com/l2BRlkO.png" alt="OurDimensionTeam"/>
 </div>
