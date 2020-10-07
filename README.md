@@ -22,5 +22,5 @@ With that all being said - I want to thank everyone, who decided to contribute t
 <hr />
 
 ## Useful links
-1. Official Project Trello board: https://shorturl.at/bgy08
+1. Official Project Trello board: https://trello.com/b/0s4Ycnpk/mydimension-nep
 2. Official Project Documentation: https://shorturl.at/jlrwA
